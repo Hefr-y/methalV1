@@ -3,15 +3,11 @@ import pandas as pd
 
 wd = Path('../../working_dir')
 tokpath = wd / "tokens/"
-teipath = wd / "metadata/metadata_tei.csv"
-tei2path = wd / "metadata/metadata_tei2.csv"
+metapath = wd / "metadata/metadata_avec_period.csv"
+outpath = wd / "metadata/metadata_V1.csv"
 
-df_tei = pd.read_csv(teipath, index_col=0)
-df_tei2 = pd.read_csv(tei2path, index_col=0)
-# print(df_tei, df_tei2)
-frames = [df_tei, df_tei2]
-df_methal = pd.concat(frames)
-df_methal['Tokens'] = 1
+df_meta = pd.read_csv(metapath, index_col=0)
+df_meta['Tokens'] = 1
 
 def all_txts(input_dir):
     return sorted(Path(input_dir).rglob('*tok'))
@@ -19,22 +15,19 @@ def all_txts(input_dir):
 def count_tok(p):
     with p.open('r') as f:
         data = f.readlines()
-        df_methal.loc[p.stem[:-4], 'Tokens'] = len(data)
+        df_meta.loc[p.stem[:-4], 'Tokens'] = len(data)
 
 
 
-def append_tok():
+def main():
     txts = all_txts(tokpath)
     for i in txts:
         count_tok(i)
 
     print("Total : ", len(txts))
-    print(df_methal)
+    print(df_meta)
+    df_meta.to_csv(outpath)
 
-
-
-def main():
-    append_tok()
 
 if __name__ == '__main__':
     main()
