@@ -638,7 +638,7 @@ def set_up_argparser():
 
     parser.add_argument('output_format',
                         help= "+ format is the output format, option : space(default), lines, xml.")
-    parser.add_argument('inputdir', help="input directory containing corpus files")
+    parser.add_argument('inputdir', help="input directory containing corpus files (text brut)")
     parser.add_argument('outdir', help="output directory containing .tok files")
 
     return parser
@@ -691,5 +691,6 @@ def main():
         except TokeniserIOError as error:
             print("Tokeniser I/O error : %s" % (str(error)))
     print("Done with output")
+    print("Total : ", len(corpus_files))
 if __name__ == '__main__':
     main()
