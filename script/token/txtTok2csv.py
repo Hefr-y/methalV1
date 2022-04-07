@@ -2,7 +2,7 @@ from multiprocessing.pool import Pool
 from pathlib import Path
 import pandas as pd
 
-DIR_IN = Path('tokens_delp')
+DIR_IN = Path('../../working_dir/tokens')
 
 DIR_OUT = DIR_IN / Path('outcsv')
 DIR_OUT.mkdir(exist_ok=True,parents=True)

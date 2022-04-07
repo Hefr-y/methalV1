@@ -65,7 +65,7 @@ def complete_metadata(df_pieces,df_editeurs,df_dept,df_auteurs):
             p = bas_outdir / Path(fn + '.txt')
             with p.open("w") as f:
                 f.write(textBrutHautRhin)
-        csv.loc[csv['FileName']==fn,'FileName']=fn + "_final_ns"
+        csv.loc[csv['FileName']==fn,'FileName']=fn
 
 
 
