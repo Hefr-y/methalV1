@@ -55,14 +55,14 @@ def complete_metadata(df_pieces,df_editeurs,df_dept,df_auteurs):
         if corpus_temp.PubDept.to_string(index=False,header=False) == 'Bas-Rhin':
             textBrutBasRhin = corpus_temp.textBrut.to_string(index=False,header=False)
 
-            p = haut_outdir / Path(fn + '.txt')
+            p = bas_outdir / Path(fn + '.txt')
             with p.open("w") as f:
                 f.write(textBrutBasRhin)
 
         if corpus_temp.PubDept.to_string(index=False,header=False) == 'Haut-Rhin':
             textBrutHautRhin = corpus_temp.textBrut.to_string(index=False,header=False)
 
-            p = bas_outdir / Path(fn + '.txt')
+            p = haut_outdir / Path(fn + '.txt')
             with p.open("w") as f:
                 f.write(textBrutHautRhin)
 
