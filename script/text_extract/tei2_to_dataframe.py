@@ -1,7 +1,22 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   tei2_to_dataframe.py
+@Create on :   2022/03/24 14:00:37
+@Revise on :   2022/04/13 11:09:50
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   Parsing TEI XML fichiers avec pandas.DataFrame
+               à partir de ses tags de fichier XML (tei2).
+
+'''
+
+# Requirements: argparse, pathlib, multiprocessing, pandas, tei_reader
+
 import argparse
 from pathlib import Path
 from multiprocessing.pool import Pool
-
 import pandas as pd
 
 from tei_reader import TEIFile

@@ -1,8 +1,22 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   Combine_CSVs.py
+@Create on :   2022/04/09 16:11:48
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   None
+'''
+
+# Requirements: os, glob, pandas
+
+
 import os
 import glob
 import pandas as pd
 #set working directory
-os.chdir("../../working_dir/metaphone/bas-rhin")
+os.chdir("../working_dir/metaphone/bas-rhin")
 
 #find all csv files in the folder
 #use glob pattern matching -> extension = 'csv'

@@ -20,7 +20,7 @@ Example::
 
 The module can be used as a command line tool too, for more information
 ask for module help::
-    python alsatian_tokeniser.py --help
+    python alsatian_tokeniser_multi.py --help
 
 @author: Delphine Bernhard (dbernhard@unistra.fr)
 @version: 1.4.1
@@ -31,7 +31,6 @@ import codecs
 from multiprocessing.pool import Pool
 from pathlib import Path
 import re
-import sys
 
 # The regular expressions here have been inspired from Gregory Grefenstette's
 # Corpora List Message dated Fri, 16 Oct 1998
@@ -633,6 +632,7 @@ class FileTokeniser:
         return self.t.get_contents()
 
 
+# traitement simultané de plusieurs fichiers
 def set_up_argparser():
     parser = argparse.ArgumentParser()
 
@@ -644,24 +644,13 @@ def set_up_argparser():
     return parser
 
 
-# def print_usage():
-#     print("py_tokeniser_gsw.py [-f format] <encoding> <filename>")
-#     print(" + format is the output format:")
-#     print("    space - token1 token2 (default)")
-#     print("    xml   - <w>token</w>")
-#     print("    lines - token1 [NEWLINE] token2")
-#     print(" + encoding is the file encoding")
-#     print(" + filename is the name of the file to tokenise")
-
-
-
 def all_corpus(input_dir):
     return sorted(Path(input_dir).rglob('*txt'))
 
 
 def main():
 
-    # 获取命令行输入
+    # Obtenir l'entrée de la ligne de commande
     parser = set_up_argparser()
     args = parser.parse_args()
 
@@ -669,17 +658,17 @@ def main():
     input_dir = args.inputdir
     out_dir = args.outdir
 
-    # 获取全部corpus文件路径
+    # Obtenir tous les chemins de fichiers du corpus (texte brut)
     corpus_files = all_corpus(input_dir)
     pool = Pool()
     # print(corpus_files)
 
-    # 分别将全部的corpus文件映射到FileTokeniser对象
+    # Faire correspondre tous les fichiers du corpus à des objets FileTokeniser séparément.
     fts = pool.map(FileTokeniser, corpus_files)
     # print(fts)
     print("Done with tokenize")
 
-    # 创建输出文件夹
+    # Créer le dossier de sortie
     outpath = Path(out_dir)
     outpath.mkdir(exist_ok=True)
 

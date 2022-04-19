@@ -1,10 +1,24 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   token_count.py
+@Create on :   2022/04/20 00:53:30
+@Revise on :   2022/04/20 00:53:30
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   calcul du nombre de tokens
+'''
+
+# Requirements: pathlib, pandas
+
 from pathlib import Path
 import pandas as pd
 
 wd = Path('../../working_dir')
-tokpath = wd / "tokens/"
-metapath = wd / "metadata/metadata_avec_period.csv"
-outpath = wd / "metadata/metadata_V2.csv"
+tokpath = wd / "tokens/all"
+metapath = wd / "metadata/temp/metadata_avec_period.csv"
+outpath = wd / "metadata/metadata.csv"
 punc = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~«»'
 
 df_meta = pd.read_csv(metapath, index_col=0)

@@ -1,9 +1,21 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   txtTok2csv.py
+@Create on :   2022/04/11 09:43:43
+@Revise on :   2022/04/16 11:00:12
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   token to csv => forme, key1, key2
+'''
+
+# Requirements: multiprocessing, pathlib, pandas, metaphone_als
+
 from multiprocessing.pool import Pool
 from pathlib import Path
 import pandas as pd
 from metaphone_als import dm
-
-
 
 # DIR_IN = Path('../../working_dir/tokens/all')
 DIR_IN = Path('../../working_dir/tokens/bas-rhin')

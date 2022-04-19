@@ -1,7 +1,21 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   extract_complete_data.py
+@Create on :   2022/03/23 15:26:02
+@Revise on :   2022/04/14 12:32:12
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   compléter les métadonnées et extraire le texte brut
+'''
+
+# Requirements: pathlib, pandas
+
 from pathlib import Path
 import pandas as pd
 file_to_metadata = '../../data/corpus-methal-all/autres/md/personnages.ods'
-file_to_csv = '../../working_dir/metadata/tei2_metadata_avec_text_brut.csv'
+file_to_csv = '../../working_dir/metadata/tei_metadata_avec_text_brut.csv'
 pd.set_option('display.max_columns', 100000)
 pd.set_option('display.max_rows', 100000)
 pd.set_option('display.max_colwidth', 100000)
@@ -26,7 +40,7 @@ def complete_metadata(df_pieces,df_editeurs,df_dept,df_auteurs):
         csv.loc[csv['FileName']==fn,'Author']=author_in_meta
 
         publisher = df_pieces.query("shortName==@fn").publisher.to_string(index=False,header=False)
-        # date_print = df_pieces.query("shortName==@fn").print.to_string(index=False,header=False)
+        date_print = df_pieces.query("shortName==@fn").print.to_string(index=False,header=False)
         pub_place = df_editeurs.query("name_one==@publisher").place.drop_duplicates().to_string(index=False,header=False)
 
         author = csv.query("FileName==@fn").Author.to_string(index=False,header=False)
@@ -37,11 +51,11 @@ def complete_metadata(df_pieces,df_editeurs,df_dept,df_auteurs):
 
         csv.loc[csv['FileName']==fn,'IdMtl']=mtlid
 
-        # csv.loc[csv['FileName']==fn,'Publisher']=publisher
+        csv.loc[csv['FileName']==fn,'Publisher']=publisher
 
-        # csv.loc[csv['FileName']==fn,'datePrint']=date_print
-        # csv.datePrint = pd.to_numeric(csv.datePrint,downcast='integer')
-        # csv.dateWritten = pd.to_numeric(csv.dateWritten,downcast='integer')
+        csv.loc[csv['FileName']==fn,'datePrint']=date_print
+        csv.datePrint = pd.to_numeric(csv.datePrint,downcast='integer')
+        csv.dateWritten = pd.to_numeric(csv.dateWritten,downcast='integer')
 
         csv.loc[csv['Publisher']==publisher,'PubPlace']=pub_place
 
@@ -65,17 +79,17 @@ def complete_metadata(df_pieces,df_editeurs,df_dept,df_auteurs):
             p = haut_outdir / Path(fn + '.txt')
             with p.open("w") as f:
                 f.write(textBrutHautRhin)
-        csv.loc[csv['FileName']==fn,'FileName']=fn
+
 
 
 
 
 complete_metadata(pieces,editeurs,places_dept,auteurs)
-# csv = csv.reindex(columns = ['IdMtl', 'FileName', 'Title', 'Author', 'authorPlaceOfBirth', 'Publisher', 'PubPlace','PubDept','datePrint'])
+# csv = csv.reindex(columns = ['IdMtl', 'FileName', 'Title', 'Author', 'authorPlaceOfBirth', 'Publisher', 'PubPlace','PubDept','datePrint','textBrut'])
 # csv = csv.reindex(columns = ['FileName','Author', 'authorPlaceOfBirth', 'PubPlace','PubDept','datePrint','textBrut'])
 csv = csv.reindex(columns = ['FileName','Author', 'authorPlaceOfBirth', 'PubPlace','PubDept','datePrint'])
 
-csv.to_csv('../../working_dir/metadata/metadata_tei2.csv',index=False)
+csv.to_csv('../../working_dir/metadata/temp/metadata_tei.csv', index=False)
 print("Done with csv")
 
 

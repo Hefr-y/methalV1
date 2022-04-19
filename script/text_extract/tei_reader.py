@@ -1,6 +1,19 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   tei_reader.py
+@Create on :   2022/03/14 11:44:20
+@Revise on :   2022/04/13 14:30:19
+@Author    :   Heng Yang
+@Version   :   1.0
+@Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
+@Desc      :   Créer la classe (TEIFile) intégrant les données extraites des fichiers TEI
+'''
+
+# Requirements: sys, pathlib, BeautifulSoup
+
 import sys
 from pathlib import Path
-
 from bs4 import BeautifulSoup
 
 def read_tei(tei_file):
@@ -105,8 +118,8 @@ class TEIFile(object):
     def textBrut(self):
         for tag_bruit in self.soup.body.find_all(['stage','pb']):
             tag_delete = tag_bruit.extract()
-            # print( '被删除的标签: ', tag_delete)
-        # print('stage和pb标签: ',self.soup.body.find_all(['stage','pb']))
+            # print( 'Deleted tags: ', tag_delete)
+        # print('stage and pb tags: ',self.soup.body.find_all(['stage','pb']))
         text_brut_list = []
         for tag in self.soup.body.find_all(['p','l']):
             text_brut_list.append(tag.getText().replace('\n',''))
@@ -117,7 +130,7 @@ class TEIFile(object):
         return self._textBrut
 
 
-def main():
+def moduleTest():
     currentPath = Path.cwd()
     corpusPath = currentPath.joinpath('corpus-methal-all','pieces')
     def get_corpus():
@@ -136,19 +149,5 @@ def main():
 # =====body====={tei.body}")
 
 
-
-    # for i in tei.body.find_all(['stage','pb']):
-    #     tag_delete = i.extract()
-    #     # print( '被删除的标签: ', tag_delete)
-    # print('stage和pb标签: ',tei.body.find_all(['stage','pb']))
-    # text_brut_list = []
-    # for j in tei.body.find_all(['p','l']):
-    #     text_brut_list.append(j.getText())
-    #     # print(j.getText())
-    #     # print(text_brut_list)
-    # text_brut = ' '.join(text_brut_list)
-    # print(text_brut)
-
-
 if __name__ == "__main__":
-    main()
+    moduleTest()
