@@ -24,14 +24,14 @@
   - **alsatian_tokeniser_multi.py** :  alsatian tokeniser de @dbernhard
   - **token_count.py** :  calcul du nombre de tokens
 
-### **Combine_CSVs.py** :  combiner les fichiers csv
-
 ### metaphone
 
 - #### Générer la clé métaphone pour chaque mot des fichiers .tok
 
   - **metaphone_als.py** :  Based on metaphone.py
   - **txtTok2csv.py** :  Générer un fichier csv, à partir de forme, clé métaphone 1, clé métaphone 2
+
+### **Combine_CSVs.py** :  combiner les fichiers csv
 
 ## working_dir
 
