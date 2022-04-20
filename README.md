@@ -24,6 +24,8 @@
   - **alsatian_tokeniser_multi.py** :  alsatian tokeniser de @dbernhard
   - **token_count.py** :  calcul du nombre de tokens
 
+**Combine_CSVs.py** :  combiner les fichiers csv
+
 ### metaphone
 
 - #### Générer la clé métaphone pour chaque mot des fichiers .tok
@@ -32,3 +34,26 @@
   - **txtTok2csv.py** :  Générer un fichier csv, à partir de forme, clé métaphone 1, clé métaphone 2
 
 ## working_dir
+
+### metadata
+
+- **temp** :  Fichiers de métadonnées provisoires générés par le script
+- **metadata.csv** :  Métadonnées complètes actuelles, colonnes =>  'FileName', 'Author', 'authorPlaceOfBirth',  'PubPlace', 'PubDept', 'datePrint', 'period', 'Tokens', 'TokensNoPunctuation'
+
+### text_brut
+
+- **bas-rhin** :  Texte brut de chaque pièce (bas-rhin)
+- **haut-rhin** :  Texte brut de chaque pièce (haut-rhin)
+
+### tokens
+
+- **all** :  Tokens de chaque pièce à partir du texte brut (bas-rhin et haut-rhin)
+- **bas-rhin** :  Tokens de chaque pièce à partir du texte brut (bas-rhin)
+- **haut-rhin** :  Tokens de chaque pièce à partir du texte brut (haut-rhin)
+
+### metaphone
+
+- **bas-rhin** :  résultats de metaphone à partir des tokens de chaque pièce (bas-rhin)
+- **haut-rhin** :  résultats de metaphone à partir des tokens de chaque pièce (haut-rhin)
+- **combined_csv_bas.csv** :  résultats métaphone combinés de bas-rhin
+- **combined_csv_haut.csv** :  résultats métaphone combinés de haut-rhin
