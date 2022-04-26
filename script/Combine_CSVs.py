@@ -16,7 +16,7 @@ import os
 import glob
 import pandas as pd
 #set working directory
-os.chdir("../working_dir/metaphone/bas-rhin")
+os.chdir("../working_dir/metaphone/test_combine")
 
 #find all csv files in the folder
 #use glob pattern matching -> extension = 'csv'

@@ -5,7 +5,7 @@
 @Create on :   2022/04/11 09:43:43
 @Revise on :   2022/04/21 11:00:12
 @Author    :   Heng Yang
-@Version   :   1.1
+@Version   :   1.0
 @Contact   :   heng.yang@etu.univ-grenoble-alpes.fr
 @Desc      :   None
 '''
@@ -17,17 +17,11 @@ from pathlib import Path
 import pandas as pd
 from metaphone_als import dm
 
-DIR_IN = Path('../../working_dir/tokens/all')
-DIR_OUT = Path('../../working_dir/metaphone/all')
-
-# DIR_IN = Path('../../working_dir/tokens/bas-rhin')
-# DIR_OUT = Path('../../working_dir/metaphone/bas-rhin')
+DIR_IN = Path('../../working_dir/tokens/bas-rhin')
+DIR_OUT = Path('../../working_dir/metaphone/bas-rhin')
 DIR_OUT.mkdir(exist_ok=True,parents=True)
 
-# filename = 'clemens-gift.txt.tok'
-# p = Path(filename)
 punc = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~«»'
-
 
 def all_txts(input_dir):
     return sorted(Path(input_dir).rglob('*tok'))
@@ -54,11 +48,7 @@ def txt2csv(p):
             key2.append(dm(forme)[1])
     # print(data)
 
-
     df = pd.DataFrame({"forme":data_sans_punc,"key1":key1,"key2":key2})
-    # df = pd.DataFrame(data, columns=[''])
-    # df['empty1'] = 'NaN'
-    # df['empty2'] = 'NaN'
 
     filename = p.stem.strip('.txt')
     print(f"{filename} Processed")
@@ -66,7 +56,6 @@ def txt2csv(p):
 
     out_file_path = DIR_OUT / Path(p.stem.strip('.txt') + '.csv')
     df.to_csv(out_file_path , index=None)
-
 
 
 def main():
