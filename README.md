@@ -29,17 +29,31 @@ Tokenize et calcul du nombre de tokens
 Générer la clé métaphone pour chaque mot des fichiers .tok
 
 - **metaphone_als.py** :  Based on metaphone.py
-- **txtTok2csv.py** :  Générer un fichier csv, à partir de forme, clé métaphone 1, clé métaphone 2
+- **match_mp.py** :  Faites correspondre des mots avec au moins une clé métaphone 
+  - Complexité en temps ：O^2
+  - Entrée ：*working_dir/tokens/all*
+  - Sortie ：*working_dir/metaphone_json/nlettres.json*
 
-
+- **match_mp_revdict.py** : Même fonction que ci-dessus mais inverser les valeurs des clés du dictionnaire. C'est plus rapide, mais étant donné qu'il y a trois cas de correspondance métaphone, il ne peux faire que la correspondance forte ( key1 == key1) et la correspondance minimale ( key2 == key2)
+  - Complexité en temps ：O
+  - Entrée ：*working_dir/tokens/all*
+  - Sortie ：Pas sûr qu'il soit utile par la suite, car les résultats sont incomplets
 
 **Combine_CSVs.py** :  combiner les fichiers csv
 
 ## working_dir
 
+### mesures_discriminativite
+
+Documents originalement sur Seafile, transférés ici
+
+- **output_quanteda_sans_TEI2** : keyness (khi2) et autres mesures (pas nécessairement de "discriminativité", il y a aussi des distributions de fréquences et un dendrogramme par pièce
+- **pydistinto** : Dépôt pydistinto cloné avec modifs @hyang1, y compris des diagrammes discriminativité et dataframe dont les résultats sont visualisés
+
 ### metadata
 
 - **temp** :  Fichiers de métadonnées provisoires générés par le script
+- **metadata_ratio_plots** : Diagrammes de distribution des pièces et tokens par période, auteur·e et région
 - **metadata.csv** :  Métadonnées complètes actuelles, colonnes =>  'FileName', 'Author', 'authorPlaceOfBirth',  'PubPlace', 'PubDept', 'datePrint', 'period', 'Tokens', 'TokensNoPunctuation'
 
 ### text_brut
@@ -53,9 +67,9 @@ Générer la clé métaphone pour chaque mot des fichiers .tok
 - **bas-rhin** :  Tokens de chaque pièce à partir du texte brut (bas-rhin)
 - **haut-rhin** :  Tokens de chaque pièce à partir du texte brut (haut-rhin)
 
-### metaphone
+### metaphone_json
 
-- **bas-rhin** :  résultats de metaphone à partir des tokens de chaque pièce (bas-rhin)
-- **haut-rhin** :  résultats de metaphone à partir des tokens de chaque pièce (haut-rhin)
-- **combined_csv_bas.csv** :  résultats métaphone combinés de bas-rhin
-- **combined_csv_haut.csv** :  résultats métaphone combinés de haut-rhin
+ La structure initiale, sans contexte
+
+- 6lettres.json : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 6 lettres (6477 keys)
+- 16lettres.json : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 16 lettres (62 keys)

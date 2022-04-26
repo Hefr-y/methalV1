@@ -13,6 +13,7 @@
 # Requirements: multiprocessing, pathlib, pandas, metaphone_als
 
 from collections import defaultdict
+import json
 from multiprocessing.pool import Pool
 from pathlib import Path
 
@@ -33,11 +34,22 @@ DIR_OUT.mkdir(exist_ok=True,parents=True)
 def all_toks_file(input_dir):
     return sorted(Path(input_dir).rglob('*tok'))
 
-# def isword(word):
-#     if word in punc:
-#         return False
-#     else:
-#         return True
+
+def mk_file_json(resultats):
+
+    json_file = DIR_OUT / Path("6lettres.json")
+    json_file.touch()
+    file_out_path = json_file
+    try:
+        if Path(file_out_path).exists:
+            with file_out_path.open('w',encoding = 'utf-8') as rj:
+                rj.write(resultats)
+
+            contenu_json = file_out_path.read_text()
+            print("==================================================")
+            print(f"Contenu du fichier {json_file} (au format json):\n{contenu_json}")
+    except IOError:
+        print(f"The json file =>{file_out_path}<= does not exist, exiting...")
 
 
 
@@ -72,52 +84,25 @@ def get_toks(filepath, tok_length):
 
 
 def main():
+
     toks = get_toks(DIR_IN_ALL, 6)
+
     keys1 = [dm(i)[0] for i in toks]
     keys2 = [dm(i)[1] for i in toks if dm(i)[1] != None]
     keys_mp = set(keys1 + keys2)
 
-    print("all", len(keys_mp))
 
-    dict_mp = defaultdict(set)
+    d = defaultdict(list)
+    for key in keys_mp:
+        for tok in toks:
+            if key in dm(tok):
+                d[key].append(tok)
 
-    # key1 匹配 Strong match
-    mp_tok_key1 = {}
-    for i in toks:
-        mp_tok_key1[i] = dm(i)[0]
+    match_key = {key: values for key, values in d.items() if len(values) > 1}
 
-    rev_multidict_key1 = {}
-    for key, value in mp_tok_key1.items():
-        rev_multidict_key1.setdefault(value, set()).add(key)
-
-    match_key1 = {key: values for key, values in rev_multidict_key1.items() if len(values) > 1}
-    # print(match_key1)
-
-
-
-    # key2 弱匹配 Minimal match
-    mp_tok_key2 = {}
-    for i in toks:
-        if dm(i)[1] != None:
-            mp_tok_key2[i] = dm(i)[1]
-
-    rev_multidict_key2 = {}
-    for key, value in mp_tok_key1.items():
-        rev_multidict_key2.setdefault(value, set()).add(key)
-
-    match_key2 = {key: values for key, values in rev_multidict_key2.items() if len(values) > 1}
-    print(len(match_key2) + len(match_key1))
-
-
-
-    # key3 Normal match
-
-
-
-
-    # print(mp_tok_key2)
-
-
+    # print(match_key)
+    resultats_json = json.dumps(match_key, sort_keys=True, indent=4,ensure_ascii=False)
+    mk_file_json(resultats_json)
 
 if __name__ == '__main__':
     main()
