@@ -37,7 +37,7 @@ def all_toks_file(input_dir):
 
 def mk_file_json(resultats):
 
-    json_file = DIR_OUT / Path("16lettres.json")
+    json_file = DIR_OUT / Path("6lettres.json")
     json_file.touch()
     file_out_path = json_file
     try:
@@ -84,7 +84,7 @@ def get_toks(filepath, tok_length):
 
 
 def main():
-    toks = get_toks(DIR_IN_ALL, 16)
+    toks = get_toks(DIR_IN_ALL, 6)
 
     keys1 = [dm(i)[0] for i in toks]
     keys2 = [dm(i)[1] for i in toks if dm(i)[1] != None]
