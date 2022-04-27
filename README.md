@@ -29,15 +29,20 @@ Tokenize et calcul du nombre de tokens
 Générer la clé métaphone pour chaque mot des fichiers .tok
 
 - **metaphone_als.py** :  Based on metaphone.py
-- **match_mp.py** :  Faites correspondre des mots avec au moins une clé métaphone 
-  - Complexité en temps ：O^2
+
+- **match_mp.py** :  Faites correspondre des mots avec au moins une clé métaphone identique
+  - Complexité en temps ：O(n^2)
   - Entrée ：*working_dir/tokens/all*
   - Sortie ：*working_dir/metaphone_json/nlettres.json*
 
 - **match_mp_revdict.py** : Même fonction que ci-dessus mais inverser les valeurs des clés du dictionnaire. C'est plus rapide, mais étant donné qu'il y a trois cas de correspondance métaphone, il ne peux faire que la correspondance forte ( key1 == key1) et la correspondance minimale ( key2 == key2)
-  - Complexité en temps ：O
+  - Complexité en temps ：O(n)
   - Entrée ：*working_dir/tokens/all*
   - Sortie ：Pas sûr qu'il soit utile par la suite, car les résultats sont incomplets
+
+- **forme_zeta.py** :  Faire diagramme à barres basé sur les différents scores(zeta) de forme
+  - Entrée ：*working_dir/metaphone_json/6lettres.json* et *mesures discriminativite par pydistinto*
+  - Sortie ：*working_dir/plot/metaphone_forme_zeta/.svg*
 
 **Combine_CSVs.py** :  combiner les fichiers csv
 
@@ -53,7 +58,6 @@ Documents originalement sur Seafile, transférés ici
 ### metadata
 
 - **temp** :  Fichiers de métadonnées provisoires générés par le script
-- **metadata_ratio_plots** : Diagrammes de distribution des pièces et tokens par période, auteur·e et région
 - **metadata.csv** :  Métadonnées complètes actuelles, colonnes =>  'FileName', 'Author', 'authorPlaceOfBirth',  'PubPlace', 'PubDept', 'datePrint', 'period', 'Tokens', 'TokensNoPunctuation'
 
 ### text_brut
@@ -71,5 +75,10 @@ Documents originalement sur Seafile, transférés ici
 
  La structure initiale, sans contexte
 
-- 6lettres.json : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 6 lettres (6477 keys)
-- 16lettres.json : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 16 lettres (62 keys)
+- **6lettres.json** : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 6 lettres
+- **16lettres.json** : Toutes les correspondances des clés métaphone pour les mots d'une longueur supérieure ou égale à 16 lettres.
+
+### plot
+
+**metadata_ratio_plots** : Diagrammes de distribution des pièces et tokens par période, auteur·e et région
+**metadata_ratio_plots** : Diagrammes basé sur les différents scores(zeta) de forme avec une même clé métaphone
