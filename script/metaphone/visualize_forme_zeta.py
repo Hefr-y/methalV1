@@ -11,8 +11,8 @@
 '''
 
 # Requirements:
+import argparse
 from pathlib import Path
-import sys
 import pandas as pd
 import json
 import pygal
@@ -32,8 +32,18 @@ mp_style = pygal.style.Style(
     opacity_hover=0.2)
 
 
+# Obtenir l'entrée de la ligne de commande
+def set_up_argparser():
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('key_metaphone', help="une clé métaphone")
+
+    return parser
+parser = set_up_argparser()
+args = parser.parse_args()
+
 # Metaphone key set
-KEY_MP = sys.argv[1]
+KEY_MP = args.key_metaphone
 
 # Path set
 zetawd = Path('../../working_dir/mesures_discriminativite/pydistinto/working_dir/output_methal/results')
@@ -41,7 +51,6 @@ wd = Path("../../working_dir")
 zeta_file = zetawd / "results_text-words-all_PubDept_Haut-Rhin-Bas-Rhin.csv"
 json_file = wd / "metaphone_json" / "6lettres.json"
 plot_file = wd / "plot" / "metaphone_forme_zeta" /str(KEY_MP+".svg")
-
 
 
 
