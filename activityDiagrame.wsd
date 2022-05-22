@@ -1,0 +1,108 @@
+@startuml activity
+!theme toy
+start
+
+partition "text extract" {
+
+    partition "TEI -> dataframe initial" {
+
+        :tei_reader.py;
+        note left
+            Créer la classe (object) intégrant les données
+            extraites des fichiers TEI
+        end note
+
+        fork
+            :tei_to_dataframe.py;
+            note right: pour corpus tei + tei-lustig
+        fork again
+            :tei2_to_dataframe.py;
+            note right: pour corpus tei2
+        end fork
+        note left
+            Traitement initial, parsing TEI fichiers avec pandas.DataFrame,
+            où les métadonnées sont extraites de ses tags XML,
+            tei2 est différent des autres corpus, il est donc traité séparément ici
+        end note
+
+        :file : tei_metadata_avec_text_brut.csv>
+        note left: Dataframe initial, certaines données seront manquantes
+
+        }
+
+    partition "Compléter les métadonnées et extraire le texte brut" {
+
+        fork
+            :extract_complete_tei.py;
+            note right: pour corpus tei + tei-lustig
+        fork again
+            :extract_complete_tei2.py;
+            note right: pour corpus tei2
+        end fork
+        note left
+             C'est à partir de ce [[https://docs.google.com/spreadsheets/d/1_xUK1uP209UCjJ9agqr_Zik65u08A8rOAVo53PTtj8Y/edit#gid=731925022 classeur]] google docs
+             ou [[https://gitlab.huma-num.fr/methal/corpus-methal-all/-/tree/main/autres/md autres/md]] que les métadonnées sont complétées.
+        end note
+
+        :files : metadata_tei.csv, metadata_tei2.csv,
+                 texte brut de chaque pièce dans un dossier>
+
+
+        }
+
+}
+
+
+
+partition "token" {
+
+    note left: Tokenize et calcul du nombre de tokens (ajouté aux métadonnées)
+
+    :alsatian_tokeniser_multi.py;
+    note right: alsatian tokeniser de @dbernhard
+    :token_count.py;
+    note right: calcul du nombre de tokens
+
+    :files : Tokens de chaque pièce dans un dossier>
+}
+
+split
+
+    partition "metaphone"{
+
+        partition "Générer la clé métaphone pour chaque mot"{
+
+            :metaphone_als.py;
+            :match_mp.py;
+            note left: Faites correspondre des mots avec au moins une clé métaphone identique
+            :file : nlettre.json>
+            note left
+                Toutes les correspondances des clés métaphone pour
+                les mots d'une longueur supérieure ou égale à n lettres
+            end note
+
+        }
+
+        partition "plot(forme-zeta)"{
+
+            :visualize_forme_zeta.py;
+            note left: Faire diagramme à barres basé sur les différents scores(zeta) de forme
+            :folder : metaphone_forme_zeta>
+            note left: Diagrammes basé sur les différents scores(zeta) de forme avec une même clé métaphone
+
+        }
+
+    }
+stop
+
+split again
+    :traitement pydistinto;
+    :files : résultats de pydistinto>
+    note left
+        Des diagrammes discriminativité et
+        dataframe dont les résultats sont visualisés
+    end note
+stop
+
+
+@enduml

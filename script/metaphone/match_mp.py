@@ -92,17 +92,17 @@ def main():
     keys_mp = set(keys1 + keys2)
 
 
-    d = defaultdict(list)
-    for key in keys_mp:
-        for tok in toks:
-            if key in dm(tok):
-                d[key].append(tok)
+    # d = defaultdict(list)
+    # for key in keys_mp:
+    #     for tok in toks:
+    #         if key in dm(tok):
+    #             d[key].append(tok)
 
-    match_key = {key: values for key, values in d.items() if len(values) > 1}
+    # match_key = {key: values for key, values in d.items() if len(values) > 1}
 
-    # print(match_key)
-    resultats_json = json.dumps(match_key, sort_keys=True, indent=4,ensure_ascii=False)
-    mk_file_json(resultats_json)
+    # # print(match_key)
+    # resultats_json = json.dumps(match_key, sort_keys=True, indent=4,ensure_ascii=False)
+    # mk_file_json(resultats_json)
 
 if __name__ == '__main__':
     main()

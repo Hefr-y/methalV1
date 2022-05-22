@@ -1,0 +1,858 @@
+# The file contains words that were extracted in Burrows' Zeta test:
+# this subset lists words significantly AVOIDED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+  —  
+h a b
+j e  
+n i  
+h e t
+  J a
+u f f
+  v u
+  z e
+  a u
+  w u
+n   .
+  z u
+J a  
+d d e
+w u r
+  ’ s
+’ s  
+a u  
+  w ä
+u e  
+f f  
+h u n
+v u n
+u e t
+w ä r
+b s  
+' r  
+c h u
+n i x
+i n i
+d i s
+a b  
+h a n
+  m u
+s a a
+  d ’
+e s c
+u r d
+d ’  
+n u m
+e j e
+!   —
+  g u
+h e s
+D i s
+m u e
+.   —
+  d ü
+.   J
+g u e
+z u e
+d ü  
+f o r
+k a n
+g s c
+d ' r
+a a  
+g e m
+i x  
+m m t
+  -  
+e r u
+i d d
+  m '
+  :  
+m ' r
+  f o
+r   .
+.   M
+  J e
+u e s
+m t  
+s   .
+z t  
+k u m
+ä r e
+r a u
+a m m
+e j  
+.   S
+l a u
+a a t
+g e w
+  k ö
+t   .
+r i  
+s e h
+e d d
+e   e
+g e b
+e m a
+.   E
+.   U
+t z t
+e r i
+j t  
+ü s s
+a u e
+h   ’
+l   .
+t   ’
+a n  
+e b s
+n   ’
+k e n
+.   W
+j a  
+d i c
+n   ?
+.   D
+v u m
+  E  
+a n n
+—   D
+g e l
+w i d
+t i  
+b i n
+h   .
+’ r  
+  A u
+a ß  
+d i r
+.   A
+h a w
+h e n
+?   —
+ä r  
+e t t
+u   n
+  b a
+j e r
+d e l
+ö n n
+r   ’
+a b b
+.   N
+k ö n
+d a ß
+.   H
+  f ü
+r r e
+  A w
+  d i
+d i n
+  G o
+t s  
+a u f
+—   —
+e   —
+  D o
+E s  
+z e  
+k e l
+.   G
+u r r
+,   z
+r j e
+—   A
+n e r
+d i  
+o   e
+l i  
+D o  
+  G e
+  j a
+.   I
+o m m
+e i j
+?   !
+g s a
+—   I
+?   D
+—   W
+e h n
+  E s
+m i n
+  B u
+ä t  
+  h e
+W i e
+d a n
+.   B
+M a i
+  G s
+u e h
+—   S
+u e m
+  g ’
+t e n
+a r i
+G o t
+n e m
+i e u
+i n n
+w w e
+e u r
+A w e
+  D ’
+n   G
+ß   i
+i ß  
+  M a
+,   h
+h n  
+u   e
+ä n d
+  W i
+z u  
+  n ä
+e n u
+  G r
+D e r
+t   —
+D i e
+s e l
+r a n
+—   d
+n s e
+o n n
+  d ä
+a a u
+m a n
+N a  
+e ß  
+a u b
+M a m
+e   .
+u r s
+f e l
+v o n
+d   .
+ä j e
+!   J
+o n  
+  g ä
+e w a
+ä c h
+w i  
+z e r
+b i s
+  s ä
+e m m
+u m m
+a i d
+o r j
+  n a
+n   B
+n   —
+r e j
+r   B
+o o c
+b b s
+u e c
+r   -
+g e d
+—   U
+u s  
+a i s
+—   J
+!   H
+e   ’
+c h m
+e   i
+b   .
+?   W
+  g h
+e c k
+?   J
+.   K
+l s  
+h e l
+!   M
+o r  
+r u e
+D a a
+J e t
+  g f
+a m  
+—   i
+i j e
+m   .
+e   D
+n   u
+n s i
+h r i
+w ä j
+r s c
+.   .
+g ’ s
+l a a
+i e b
+  B a
+t t e
+u b  
+n   M
+ß   d
+-   s
+h t e
+  k o
+n   H
+o r r
+  m o
+a a n
+r   —
+l u e
+  N o
+n   ,
+’ s c
+e l s
+e r ü
+o t  
+.   V
+—   w
+ü r  
+!   G
+?   A
+n   l
+y t t
+g ä n
+c h ä
+!   B
+d ’ r
+e j t
+n   W
+!   N
+  ' m
+u e n
+g r o
+a n k
+  M ä
+b a l
+M i n
+  n ü
+  M u
+!   D
+e h j
+h   —
+f ü e
+b e n
+?   N
+u   d
+t t s
+—   E
+n f a
+u e j
+ß   m
+d d  
+e l  
+n i c
+  S o
+ß t  
+  B o
+b e l
+e a n
+,   ’
+r e n
+u j e
+  e l
+' m  
+u r i
+r i c
+j   ,
+—   M
+D ’  
+e b e
+B a b
+!   U
+h u e
+  H ä
+k o m
+e i ß
+D ' r
+ä j  
+u c h
+n   K
+m ’ r
+—   u
+a j e
+  H a
+d a a
+,   u
+c h n
+M e r
+ä w e
+f   .
+!   A
+  B r
+  „  
+J e a
+—   a
+i j  
+n e n
+e   E
+n n e
+k e r
+h ö e
+e i c
+  W ä
+B o n
+h a u
+i   .
+j c h
+n   m
+ü e w
+e b r
+a l  
+n   A
+o b  
+f ü r
+!   I
+l e r
+k   .
+  k r
+n   F
+  d h
+?   S
+E i  
+  ’ m
+ä n  
+r o o
+—   H
+r u n
+  Z u
+  K i
+e r a
+g   .
+a n s
+d e s
+  ä u
+b e  
+  m ’
+l e n
+D a n
+,   v
+o   .
+n o o
+n   L
+  K a
+’ m  
+f r a
+,   k
+y n  
+d ä t
+b   ,
+w a n
+e   K
+!   W
+h e e
+e   W
+  ü e
+-   m
+  H o
+a l d
+?   E
+.   L
+u   g
+s   —
+  f a
+e t r
+e l a
+,   l
+.   O
+e t s
+ö l l
+u e ß
+g e j
+j   d
+n d i
+d a r
+,   b
+ö u j
+’   S
+!   !
+s a m
+n ä m
+l   ,
+s e s
+  r a
+z   .
+’   r
+’   H
+c k e
+  h y
+e l o
+m m e
+n   k
+n u e
+,   —
+  a a
+—   e
+a a s
+e d a
+  a r
+  G u
+!   E
+b   d
+  B i
+- e m
+u m  
+e n  
+r a c
+j o u
+  K o
+  “  
+g ’ h
+a w i
+n   !
+c h s
+  B l
+s   M
+o o t
+ö e r
+—   N
+a m s
+f r ö
+r o ß
+r a i
+g l ü
+i n s
+e e n
+a u w
+?   H
+o u r
+e k u
+!   S
+—   s
+G u e
+g h e
+n   -
+’   M
+G e w
+,   o
+o s c
+H a r
+u p t
+ä i t
+.   ’
+ü e j
+  H ö
+?   M
+u t  
+m s e
+n ü s
+ä i s
+a u s
+U f f
+d a  
+d a m
+  D i
+—   G
+m e s
+K i n
+ß   e
+s u e
+o d d
+h j  
+f f g
+s e r
+e r m
+  l u
+m m s
+r ü s
+i r e
+  K ö
+j e l
+o ß  
+i n f
+ü c k
+e z  
+l o n
+m s c
+u e r
+e e r
+a u p
+  E i
+r i k
+  P f
+g f a
+i k  
+d u e
+s   -
+G s c
+m   B
+s g e
+  l ä
+s ’  
+a   —
+w y l
+i l i
+a b e
+  Z e
+l ü c
+t e i
+e r o
+—   n
+ö j e
+  N a
+h m e
+s a l
+S o  
+e n e
+  L ä
+o l l
+j   .
+.   F
+u s c
+  s '
+t e h
+  s ’
+n n s
+n n i
+M o n
+  B ü
+  R u
+ü e n
+ö e n
+  M '
+ä u  
+e l l
+d a t
+a r m
+a r d
+e   :
+M ' r
+l   —
+G l ü
+ß   s
+o t e
+  S t
+?   G
+h t i
+u i  
+u f t
+n j o
+o n j
+b a b
+e   a
+o u s
+.   Z
+s t ä
+  L y
+a w  
+u t e
+  h o
+u   s
+z e l
+  N u
+t s c
+n   f
+r a t
+  L ü
+S c h
+w   i
+  L u
+h y t
+A u e
+r a a
+l e j
+  R a
+  F u
+-   t
+f e n
+-   d
+  A l
+p e r
+H a l
+h r t
+l l s
+s a h
+w a j
+e w ä
+H e s
+t ä n
+  l a
+K u m
+ä l l
+  K u
+e   A
+d o r
+r m a
+h n a
+e k t
+u   w
+a h n
+s   W
+u e w
+i w w
+i e j
+g s e
+a i n
+r   :
+g e z
+n   n
+  S a
+n d a
+h a f
+a r e
+h a r
+r ä c
+n e l
+  E j
+B u e
+ü t t
+a t s
+M i r
+  V e
+e r h
+ä s s
+  z ’
+z ’  
+D ’ r
+-   l
+g i  
+f a s
+n a  
+g e n
+  U e
+e   B
+u   m
+o   —
+e w y
+,   j
+a u c
+r   ä
+w e l
+  O  
+s   ’
+h j e
+j   i
+n   a
+m   S
+,   m
+a t t
+l   w
+h s  
+  K r
+ä i n
+i j t
+j l i
+o l d
+  o b
+  b s
+c i  
+  w ü
+u s i
+s i n
+  B e
+w ä i
+l o o
+s s -
+L y t
+y l  
+!   O
+b   m
+  ' r
+s   u
+s   G
+  S c
+u e l
+A u  
+b   g
+m a i
+o i s
+h ä n
+W u r
+S t a
+,   M
+c h a
+m e r
+m o r
+e r c
+u e d
+g ’ f
+  Z y
+L ä w
+Z e  
+G e m
+t   -
+e l i
+e t i
+  A b
+m   D
+l ä u
+b   i
+d i ß
+’   e
+x   .
+z a m
+g e k
+ü l l
+’ n e
+a d d
+r ö u
+:   D
+n i n
+n   g
+s   ?
+a   ,
+  p a
+B a r
+r r i
+  S p
+y t  
+h a h
+ä m l
+G r o
+g a l
+l a  
+t i n
+A l l
+ä f t
+h ä i
+s ä i
+e w w
+Z y t
+’   F
+,   n
+f f e
+n   P
+v o l
+n   v
+r c i
+r o s
+w i c
+ä u j
+-   w
+l a c
+e e l
+h e r
+r s  
+,   g
+n   V
+m a a
+  w ö
+e t l
+  ü w
+ß   ,
+-   b
+  F l
+u w e
+l ä n
+  a m
+m a l
+  F ü
+-   g
+r c h
+b a s
+u j  
+z u m

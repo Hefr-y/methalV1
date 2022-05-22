@@ -1,0 +1,981 @@
+# The file contains words that were extracted in Burrows' Zeta test:
+# this subset lists words significantly AVOIDED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+  n i t  
+  ,   u n
+  s i n  
+,   u n  
+  ,   d a
+,   w o  
+  h a n  
+,   w i e
+  d a s  
+- n -   i
+  ' s   i
+i e   ,  
+H e r r  
+  m e h  
+  f o r  
+  ,   H e
+  ,   w o
+c h   !  
+,   H e r
+- n -   e
+e r   !  
+e   ,   w
+i c h t  
+e i n e  
+' s   i s
+i e d e r
+e   ,   u
+g e   ,  
+e n   ,  
+  f u r t
+e d e r  
+c h   g l
+  !   I c
+  n u r  
+!   I c h
+  s c h o
+h   ’ s  
+r t   ,  
+i c h   w
+c h   ’ s
+  !   —  
+n   ,   w
+d e   ,  
+n   ’ s  
+  d ' r  
+n   d ' r
+  s c h w
+  b i s  
+t   ’ s  
+s c h   ,
+  S c h a
+s i n   ,
+  w i e d
+w i e   i
+e r   d e
+n i t   ,
+  g ü e t
+  S c h w
+f u r t  
+s e   ,  
+  u n d  
+e   i s c
+M e n s c
+  M e n s
+r   ,   w
+  d a ß  
+t   ,   u
+c h   e r
+  ,   d '
+  f i r  
+c h t i g
+w i e d e
+e r   g e
+  !   D i
+  w i t t
+a n g e  
+d e n n e
+i t   ,  
+j e t z t
+w i s s e
+s c h   ’
+c h   s e
+r   ’ s  
+s i n   .
+e   k u m
+m i t   e
+e   w e n
+r   H e r
+n -   i s
+e r   d o
+  .   .  
+g ' s c h
+  - n -  
+i e   s i
+n   d ’  
+n i t   .
+e   d e r
+  D a s  
+,   d a ß
+s t e h t
+  ?   !  
+t e h t  
+g ü e t  
+  ,   M a
+-   i s c
+s c h w i
+  I h r e
+w e r   d
+e   - n -
+  ,   ' s
+  w i r d
+  !   D o
+s   n i t
+,   ' s  
+c h t   d
+  ,   w i
+s c h l a
+e r   h a
+t   m i c
+c h   d e
+  k e i n
+w i r d  
+i c h   e
+  m e r  
+e l   !  
+e   w i l
+n   d e r
+s c h o  
+i t   .  
+r i c h t
+e   m i t
+e n n   '
+i e   e  
+  g r o s
+e n n t  
+i g e r  
+  h e t  
+t   s c h
+  w e n i
+u n   d '
+t e   !  
+r   m i c
+  g ' s c
+r   s o  
+e r   …  
+  e r e  
+  i h r e
+e   k a n
+  l a n g
+r e c h t
+  k e n  
+i e   i c
+t   ,   w
+g r o s s
+  u n   e
+h r   ,  
+  s c h e
+e   !   D
+  i m   H
+  …   ' s
+…   ' s  
+i s c h e
+n i t   d
+  h a t  
+h   h a  
+w e n i g
+  ’ s   i
+  .   E r
+i n e r  
+a h r e  
+i c h   !
+  u f   d
+  W e r  
+h e   !  
+  g a n g
+,   d a s
+e c h e  
+  s c h n
+e n   .  
+  v o n  
+i t   d e
+e   !   …
+t t   !  
+t   m ' r
+  i m   S
+w i t t  
+  .   A h
+h   g l a
+  A h   ,
+A h   ,  
+  D i n g
+  l o s s
+t   i m  
+f a h r e
+t   d e n
+a s   i s
+m   S c h
+!   D o  
+r   i m  
+  d e r n
+n i t   a
+  u n   d
+t   m i t
+i t   e m
+m   H e r
+  H e r r
+i n   ,  
+  ’ s   n
+c h w i n
+s   j e t
+t   ,   m
+  H a n d
+e   !   I
+d e r n o
+h   d e r
+w i e   s
+l i c h t
+  f i n d
+  !   S i
+s c h   v
+e n n e  
+  !   W i
+d e r   e
+  s t e h
+l l i c h
+S i e   w
+b   i c h
+  !   S o
+n i t   e
+n i t   w
+t   d o  
+  .   S i
+a a u e  
+a c h e  
+S i e   ,
+d e r   d
+n e   !  
+g a n g e
+e r   h e
+m e i n e
+- n -   A
+  H ü s  
+' s   n i
+n   d e n
+l w e r  
+a n   ,  
+  !   U n
+.   E r  
+r t   !  
+e   ,   H
+i c h t e
+  k a n n
+e r   H e
+s e l l  
+g e   .  
+n g e   ,
+n   n o c
+r e   !  
+  z ü e  
+  h a w i
+e   n e  
+h w i n d
+e r   ,  
+  w o   d
+  s a g e
+  ,   m e
+  ,   m a
+  u n   a
+o h n e  
+g a n z  
+e   i n  
+  !   .  
+e r n o  
+  ’ s   g
+  s o t t
+c h   g '
+w o h l  
+  w o   i
+s i c h t
+  w o   m
+s c h i n
+n n e   ,
+s e   - n
+i n d e  
+I c h   s
+n e   - n
+a n n   d
+  D o c h
+s s i e r
+n i t   g
+o t h e  
+I h r e  
+d a s   i
+’ s   i s
+c h u l d
+a s   ,  
+,   d '  
+t   !   D
+n   v e r
+i n   d '
+a   - n -
+- n -   u
+  ,   f i
+i n t e r
+a t e r  
+b i e n  
+  w o h r
+s   ,   w
+i e   i s
+i n   ?  
+d e r   s
+  ,   s o
+r o t h e
+  ' s   w
+  e r   h
+n i t   v
+  !   …  
+l e   !  
+  k e i  
+e t t e  
+e   !   A
+  n i m m
+e r   s i
+t e r   !
+v i e l l
+r   d e r
+  h i t  
+  i w e r
+h   b i e
+c h e   !
+h   w i l
+v i e l  
+  g s i  
+m e   !  
+w a r t e
+r e   - n
+  .   M a
+.   A h  
+u n   e  
+  ,   i n
+m i t   d
+  …   a w
+…   a w e
+  s a a  
+t e   - n
+,   n i t
+h a   !  
+  w o h l
+s i e r t
+s p i e l
+h   b i  
+o c h   i
+c h t   h
+c h e n  
+  G e l d
+e   z '  
+e   ’ s  
+s c h l e
+-   i c h
+u n n t  
+s a g e  
+H a n d  
+i n   d ’
+  U n   i
+c h e r  
+n n   !  
+  …   w e
+e n i g  
+i c h t i
+f e   .  
+  g e h t
+o   - n -
+l i c k  
+c h   d ’
+  i n s  
+  w o   s
+  .   G e
+o f f e  
+t   d '  
+k u n n t
+f o r   d
+n o o c h
+!   S o  
+e r e r  
+!   S i e
+  s i n i
+s i n i  
+G e l d  
+  d e r t
+e r   -  
+u n d e  
+m   H ü s
+k e i t  
+a s   h a
+e   w ä r
+t   !   …
+  .   E s
+h i e r  
+S o   ,  
+  o h n e
+r   ,   s
+t   d e m
+s   d e r
+e   u n  
+s s e   ,
+k t e r  
+n -   i c
+  d '   r
+g e   …  
+i d e r  
+e l l i c
+u r   ,  
+  S o   ,
+e h   !  
+a s   w i
+i c h   l
+i t   ?  
+r   m a c
+  D i c h
+  k u n n
+e   …   i
+  M i t  
+s t e c k
+k e n n t
+a s c h t
+e   j o  
+  h à n  
+r   d ’  
+i s s   ,
+t u n g  
+e r   d r
+  d ’ r  
+i e l l i
+.   E s  
+i e   !  
+J e t z t
+r   e i n
+r t   ?  
+e   s i c
+  ,   ’ s
+,   ’ s  
+i h r e  
+n i m m  
+  ’ s   d
+n n   ’ s
+j a   ,  
+d e n k t
+,   i n  
+s s   ,  
+  J e a n
+g s i n  
+,   f i r
+e   !   S
+w a s   h
+  V a t e
+V a t e r
+!   D i s
+r   h a t
+e   v u n
+n -   e r
+l l   !  
+h t i g  
+W a s   s
+  D i r  
+e   ?   …
+  v o m  
+d ' r   S
+i s s   n
+s s   n i
+  ,   j a
+e   w u r
+  e r u m
+e r   v e
+  ,   w a
+D i c h  
+D o c h  
+t   w o h
+  !   A h
+n i t   m
+e r   F r
+n d   !  
+h   i n  
+H e r z  
+l o s s  
+r   ,   u
+w e r   g
+e n s c h
+l a n g  
+c h   w e
+.   ' s  
+  …   W a
+e s   !  
+c h i e r
+a s   ?  
+o   l a n
+S a c h e
+a   ,   s
+e r e   S
+t e r   d
+  h a   -
+  —   u n
+  ,   d ’
+  e r s t
+h ö r t  
+  i h m  
+  e w e  
+  ,   s a
+n i t   z
+d e n k  
+  ?   —  
+s c h i e
+h a   - n
+  g ' s à
+t   h a t
+e   ,   S
+d e   - n
+k ö n n t
+  s o   l
+  d e   S
+n -   a n
+n s c h  
+e r   w i
+.   .   .
+e   S e  
+o o c h  
+d e   !  
+n e   ?  
+t   ,   z
+  r e c h
+!   —   D
+e   h a t
+  n o o c
+s c h n e
+!   W i e
+i e r e  
+w a n n  
+h   d ' r
+m e   - n
+,   j a  
+r o s s e
+m m   ,  
+e t   !  
+j o   ,  
+s   w i l
+  ,   h a
+  g l a ü
+t e   …  
+l t   !  
+e   g r o
+o   ,   w
+  .   ' s
+  s a a u
+h t   m i
+w e   ,  
+c h t   g
+s a a u e
+e   g ' s
+i t s c h
+m m e   !
+o h r   ,
+n   d a s
+c h t   ,
+s c h   !
+  B a b b
+o c h t e
+  ,   w u
+,   d ' r
+  E h   b
+  D ü   b
+r   e m o
+  w i s s
+n i m m i
+r e   …  
+c h i c h
+e   s e  
+v e r g e
+o n   .  
+  E n d  
+c h   z u
+i   s c h
+a b b e  
+i n g e r
+h   !   …
+w e r d e
+  w e r d
+u n   s i
+w e   !  
+i t   g e
+m t   ,  
+h   ,   u
+t e   ?  
+  v i e l
+  m ’ r  
+b b e s  
+  S t r o
+m ' r   s
+e   ,   M
+r   d r  
+t   m a c
+  g a n z
+e m a c h
+—   u n  
+e b b e s
+  e   w e
+  i m m e
+ß   i c h
+  …   d a
+…   W a s
+  e i m  
+  n e m m
+  s i t z
+e d e n k
+w o h r  
+o c h   a
+e n   !  
+B a b b e
+t   m e r
+  m u e ß
+f i r   e
+t t   …  
+i w e r  
+S i e   k
+r s c h i
+h   n i x
+l l   m i
+  S a c h
+…   w e n
+d ' r   H
+d a ß   i
+G ' s c h
+  G ' s c
+a n n   s
+a t   .  
+r   ,   e
+.   W a s
+d r   H e
+t   z '  
+e m m e  
+  ,   f o
+  g e w i
+  .   D ’
+s   z e  
+h   !   D
+h   w o h
+t   a l s
+  j o   ,
+  e   S t
+i s s e  
+  k ö n n
+b r ü c h
+ü e w e r
+e w i l  
+,   f o r
+!   A h  
+e i t e  
+h r e m  
+t   m i  
+,   w e r
+w e r   m
+s o   w i
+e   d o c
+i r o t h
+  t h à t
+e   d ’  
+h r e r  
+D a s   i
+h t   …  
+  H a l t
+h a n   ,
+  ’ s   s
+h r e   ,
+  u n   v
+  w i l l
+  …   i c
+…   i c h
+n i t   s
+n t e r  
+  w o   -
+w o   - n
+l e   …  
+  Z i t  
+c h w a r
+s i   ,  
+i e n   ,
+  !   A w
+n -   e m
+e t t   m
+t i l l  
+b a l l  
+  s e l b
+s   w ä r
+e r   i m
+  d i s  
+  g ' h a
+e r r e  
+c h n e l
+h n e l l
+l e   - n
+v e r l i
+r   M e n
+  ,   v o
+u n g   ,
+c h   v i
+a i r e  
+  h a   ,
+…   d a s
+t   s i e
+h e   …  
+h i c h t
+u r i c h
+h   m i  
+s c h w a
+  b i t t
+a s   s i
+h t   !  
+  d e r f
+b e s s e
+  d a n n
+m u e ß  
+g l a ü b
+s ü e c h
+  G u e t
+e s s i e
+n g   !  
+  .   W o
+i n e   ,
+t a n d  
+e r   M e
+t e r   h
+  j a   ,
+s e l b s
+i g   !  
+t   !   I
+e r   ' s
+r e   u n
+  .   D e
+.   S i e
+i t   !  
+s à i t  
+e r   —  
+s c h e e
+a n   !  
+  d i n e
+  l o n  
+  k l e i
+s   d ' r
+w o t t  
+h a n   .
+i t z e  
+l   u n  
+  e b b e
+,   z e  
+r   d e n
+m a n n  
+h   d ’  
+  ’ s   e
+  !   M a
+c h   m ü
+  D e n n
+’ s   n i
+U n   i c
+s s   e s
+n g e   .
+  b e s s
+n -   i  
+c k e r  
+d a ß   d
+g ü e t e
+s s   !  
+n   m e r
+- n -   I
+e   l o n
+f f   d e
+- n -   E
+e   k ö n
+  E r   h
+r   g a n
+t e r   g
+g e m a c
+s c h   u
+s   v e r
+e n   S i
+u m   ,  
+s i n e  
+g e   !  
+D ü   b i
+h t   u n
+f i n d e
+s s e   !
+c h l e c
+a n g t  
+e r   g s
+o c h   z
+n k   ,  
+s i n   d
+c h   ,  
+e r   n i
+h a t   m
+' s c h i
+e r s p r
+t   .   H
+e   !   U
+a l l e m
+  A h a  
+h   v i e
+l   ,   i
+t   k e n
+a   ,   w
+a n t e  
+h   D ü  
+c h   D ü
+o c h   !
+n e l l  
+  !   D a
+E h   b i
+  z e   h
+s c h u l
+  ,   l i
+,   a l s
+e r   w a
+e n n   a
+t   .   N
+i c h   n
+  m ü e s
+  t h ü e
+?   !   —
+  s p i e
+t   h a  
+h e   - n
+i n   ’ s
+  v o l l
+g e n u e
+i n g t  
+l l e m  
+W a s   m
+w e i s s
+d a n n  
+  d e s  
+j o u r  
+r   z '  
+d u r i c
+i s   ,  
+c h e   -
+h   d a s
+s   d r  
+  d ’   H
+n   .   —
+t   u f  
+  b a l l
+a u   n i
+n i t   i
+o   b i n
+  b r ü c
+h a   …  
+  …   e r
+  d ’   S
+,   M a d
+h   s e  
+H e r r e
+  ü e w e
+m e r   d
+i c h   ’
+i g k e i
+o t t e  
+  ?   S i
+h   n i m
+o   w i e
+s   g a n
+  n u m m
+  g e m a
+  ,   U n
+' w i s s
+  d ’   r
+i e n s  
+e i d e r
+e r s t  
+g e s s e
+g k e i t
+  h e l f
+i n   i  
+d e r   S
+  v e r b
+s c h e i
+k e i n e
+g   ,   w
+r f a h r
+i   u n  
+ü c h t  
+c h t   b
+r ü c h t
+  M a c h
+a l l i  
+e n n   e
+t   ,   e
+S c h w e
+  w à r  
+  z ü e m
+n -   u n
+t   …   i
+!   A w e
+k l e i n
+l a n g e
+t   ,   f
+t e r   u
+d   ,   w
+  a l l i
+…   e r  
+h   m ü e
+r u n g  
+r   e b b
+  v e r w
+e   V e r
+n u r   e
+f   d e  
+s   u f f
+,   h e t
+t   !   S
+u n   n i
+  s o   i
+n d e   ,
+e r   s e
+k a n n  
+t   .   S
+w e r   i
+a m s e l
+t h à t  
+  ’ s   G
+g a n g  
+d ' r   M
+i t t   m
+  u f   e
+e t   s i
+l a u b  
+n i t   !
+i n g s  
+e   !   E
+s o t t  
+h n   .  
+  d i e s
+  w e i ß
+k e i n  
+z ü e m  
+v e r z e
+  z '   s
+e   …   d
+  d u r i
+  s e   n
+w e   - n
+a   ,   j
+m m t   ,
+o   n o c
+h n   !  
+i n   a l
+m   i s c
+w i e   e
+  M a m s
+p f e r  
+o   n e  
+  F r i n
+F r i n d
+r e d e  
+i t   …  
+a   ,   u
+  d '   L
+  z e   w
+s   h a n
+e   r e d
+t e r s c
+i n   ' s
+e l   ?  
+i c h   ?
+  j o   e
+i t   i n
+,   s o  

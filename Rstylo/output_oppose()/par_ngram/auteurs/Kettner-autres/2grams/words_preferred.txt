@@ -1,0 +1,230 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+ö j
+g ä
+m r
+w  
+r ä
+d ä
+h z
+ä c
+- e
+F e
+ä m
+p ä
+ö e
+k ü
+J u
+  »
+»  
+«  
+  «
+z w
+J o
+m u
+n r
+2 5
+n ä
+k g
+z k
+5  
+e p
+o o
+s '
+  2
+e j
+  …
+…  
+K ä
+T r
+H o
+ü l
+l ü
+A l
+g u
+u t
+s r
+ä u
+  :
+  —
+—  
+s d
+z ä
+ä s
+d ü
+n j
+t -
+i k
+' s
+S ö
+ä n
+H ö
+g o
+K i
+a a
+H ä
+  '
+j  
+M i
+ä j
+l f
+ä i
+D o
+E m
+k t
+B i
+h ö
+B l
+W i
+u e
+b ü
+g f
+'  
+M o
+r m
+D u
+a u
+P f
+b ö
+h u
+ä l
+G i
+F r
+:  
+e u
+Z m
+l w
+j c
+Z i
+j f
+J ä
+a e
+h ä
+O w
+t s
+i x
+O  
+M ä
+ä g
+i d
+K a
+ä ä
+h ü
+h m
+  )
+)  
+g l
+b a
+t n
+S '
+u w
+A u
+o m
+h -
+e k
+' r
+A e
+f g
+w ü
+f l
+m t
+m ä
+P o
+I s
+- r
+V u
+D r
+t k
+S ä
+G o
+d d
+E i
+J a
+M a
+A w
+t ö
+u b
+x  
+r g
+z u
+G ä
+h s
+n k
+l u
+j a
+D i
+n a
+m l
+z i
+m s
+l s
+g i
+  P
+U n
+S u
+a b
+r n
+ü  
+U m
+m '
+E  
+f f
+ö n
+l d
+h h
+W e
+S c
+K ö
+o w
+m o
+o p
+a j
+ä r
+E n
+f o
+d '
+G s
+D '
+p h
+' e
+  °
+°  
+ä f
+k u
+  |
+|  
+ä k
+L ä
+O m
+f t
+f '
+b -
+  9
+  U
+v ö
+1 2
+9  
+f ü
+N  
+P s
+o n
+V ö
+r u
+n u
+J e
+ä w
+b n
+d g
+i b
+d r
+ö b
+  O
+l o
+u l
+R ö
+o g

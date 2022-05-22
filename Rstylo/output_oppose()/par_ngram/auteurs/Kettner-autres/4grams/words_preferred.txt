@@ -1,0 +1,3215 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+  ,   …
+,   …  
+,   .  
+  ,   .
+g ä n n
+u r r e
+M a m m
+  M a m
+n u r r
+ä n n  
+r a u  
+i n n  
+F r a u
+s i n n
+  g ä n
+F e l i
+l i x  
+t t   .
+e l i x
+e   m r
+j e l e
+J u n g
+  J u n
+i t t s
+  F e l
+w   i c
+n   m r
+a m m e
+  m r  
+h a w  
+n i t t
+a w   i
+  M i n
+i c h s
+h z i t
+c h z i
+.   D i
+d i s s
+n n   ,
+w e i  
+o c h z
+ü l l i
+e   a n
+h ü l l
+f o n s
+l f o n
+c h ü l
+A l f o
+  d r  
+s s   Z
+r i n k
+  .   —
+z i t t
+.   —  
+  »   .
+»   .  
+  H o c
+H o c h
+t e   J
+  A l f
+h e t t
+D i s s
+n n   .
+T r i n
+s   Z i
+l l i  
+e m   Z
+  l i e
+h m u t
+S c h ü
+  T r i
+.   D o
+u t z  
+m u t z
+c h m u
+l d e r
+t t   a
+r r e  
+  Z i m
+Z i m m
+l i e w
+.   A l
+i x   ,
+  d i s
+  F r a
+s   .  
+h i t t
+d o   i
+  n ä m
+e t t  
+x   ,  
+k t   .
+k e n n
+  a u  
+i n k e
+g u e t
+o r   2
+r   2 5
+t t s r
+  K ä c
+K ä c h
+t s r e
+  n o  
+o n s  
+i n j e
+e   n r
+r   K ä
+t   ' s
+n i k  
+  n r  
+2 5   J
+s r e i
+  g u e
+S c h m
+a b   d
+i n i k
+z u e  
+s   m a
+n j e l
+l d i c
+5   J o
+i n k g
+  2 5  
+g e d ä
+l t e  
+o m i n
+D o m i
+d ä n k
+ä n k t
+l e   ,
+h e l e
+e d ä n
+  a l t
+  .   E
+u f f  
+  D o m
+o l d i
+  s '  
+u n g i
+  e   D
+  D i s
+k e   .
+u e t  
+l e   g
+z w e i
+e r   .
+h a b  
+K i n j
+e i n  
+  g o l
+W i e w
+e l   d
+h   ' s
+  u f f
+g o l d
+e m e  
+t t   n
+  h a w
+m i n i
+g e l l
+  z w e
+W i n  
+  D o  
+  a s s
+c h   .
+t   a n
+e l e  
+ä c h e
+e   M o
+n g i  
+k t   d
+s a u e
+l e m o
+c h s  
+c h   '
+h r   e
+m   Z i
+c h e l
+m e   .
+d r   H
+f f   d
+r e l  
+m r   h
+n s   e
+r   g u
+  s a u
+o l l s
+s s   i
+ä s s e
+i r   a
+h e r z
+r e   e
+i d d e
+l t i  
+n   d r
+e   F r
+w e   .
+m e   u
+e u r  
+o o r  
+t z   .
+e r   M
+  A l l
+r e i s
+.   E i
+u m   e
+h u n  
+  K i n
+,   d i
+  e i n
+l e   n
+i e w e
+e t z  
+t r i n
+m r   n
+s   h e
+  e r s
+h   .  
+a b   g
+.   J o
+l l s c
+  n u r
+f   d r
+u m m t
+d o   g
+  W i n
+o   h e
+r   H o
+D o   i
+i n i  
+  h a b
+e   m u
+  ü s s
+  z u e
+M o n s
+i s s  
+m u e s
+c h ö n
+A l l e
+h   j e
+.   M i
+  k e n
+m m e r
+e   H o
+g s a a
+i   M a
+l ü c k
+  h e s
+e   Z i
+o n s i
+t z   e
+c h   t
+  h i t
+,   a l
+  g s c
+e r   b
+e   u f
+h e s c
+E m m ä
+m ä j e
+m m ä j
+z k r ä
+,   n o
+t s p ä
+J a g e
+M o o r
+n n   u
+k r ä u
+t t s d
+n s i e
+d d e r
+  A l t
+t t s p
+  S ö j
+.   O  
+t   z u
+  ' s  
+z   g ä
+e r   »
+  .   J
+t s d a
+  z ä l
+z ä l l
+n   g o
+u e   .
+r   »  
+  J a g
+r g ä s
+.   E m
+t z k r
+G i t z
+r e   h
+ä j e l
+u r   K
+n ä m e
+h m ü s
+s   k ü
+n n   S
+  m u e
+K a l t
+g ä s s
+n k g e
+  M o o
+o g i e
+v o r  
+l e s t
+.   F e
+n k t  
+s s   s
+  h e t
+  .   O
+r   j e
+k g e l
+m ü s e
+d e   H
+t t   v
+i t z k
+n t   .
+  G i t
+D u r s
+n   n o
+  E m m
+E m m a
+A l t i
+e   J a
+  .   B
+  .   A
+ä r e l
+i l w e
+l l   M
+t   a u
+n i   l
+ä c h t
+e r   e
+r   .  
+c h m ü
+ö e s  
+H ö e r
+s i e u
+i e u r
+w i d d
+a g e r
+  g ä l
+l   M a
+z   .  
+e   g u
+s   e  
+i e   u
+n ä m m
+g i t t
+  b ö e
+b ö e s
+g e l d
+m e l e
+s a a t
+l i e b
+e l e s
+z i c h
+s o   h
+c h u n
+ä l l e
+  H ö e
+  .   a
+s t a l
+  :   «
+:   «  
+h s   ,
+a u   u
+  t r i
+  h e r
+u r s c
+e b s  
+ä m e  
+i h r  
+  k u m
+s d a a
+a j a  
+i x   !
+e r   ?
+ä i s s
+e l d e
+t i   S
+l s   u
+  d ü  
+  .   N
+a l t e
+s e j  
+t   M a
+l o f e
+h   i c
+t e   .
+  K a l
+.   H ö
+e   D u
+,   g e
+w e l e
+U n   e
+r   i s
+  s e j
+  D u r
+ö n e r
+s c h ö
+m m a  
+t z   g
+n g s c
+r   a u
+e i s c
+t t   w
+u n   h
+t a l l
+z t   .
+i   l i
+M i n  
+n o   g
+o   w ä
+d r a n
+  D a  
+l e   ?
+e   d i
+  h ä n
+e   h i
+s s   e
+e r r s
+.   E n
+t t   d
+e   g ä
+b   .  
+h a n n
+  g e d
+o   n i
+s s e l
+n k e  
+e s t a
+,   m r
+l i   ,
+  J o  
+S u n n
+o   j e
+e i s  
+s   W i
+M i r  
+  e   a
+f   .  
+a a t  
+  u m  
+u e s  
+e   J u
+x   !  
+o l   e
+i n   i
+  M i r
+s c h m
+.   U n
+i r   b
+  .   W
+  U n  
+o   w e
+s   k u
+o   i s
+u e r  
+d i c h
+r r s c
+g i b  
+n   i c
+i r   j
+o f e  
+  e   Z
+  g s a
+n   l i
+w e   S
+J o h r
+.   W e
+h l o f
+  e r i
+m i t -
+f r i s
+e   e r
+l s c h
+t z   b
+r a n  
+e w e l
+J e t z
+l u e j
+g f a l
+n i   M
+m r   e
+u e s s
+t t   s
+u n   i
+h t i  
+  J o h
+  J e t
+l e   m
+  w i d
+r s t e
+l e   s
+s o   e
+  a n d
+t z   k
+o   i m
+l e   .
+h   w i
+k u m m
+r   W i
+l e   a
+e   b e
+i e   d
+s c h u
+  v o r
+r e   a
+  g s t
+t z   m
+o   d i
+r   m u
+e s c h
+t t   k
+u n g e
+r   A l
+.   N o
+n s   ,
+,   m i
+ü s s  
+e   k e
+  g f a
+o   m a
+r e j  
+  n a t
+  ,   r
+a b   m
+e   l i
+  M o n
+n a n d
+  g i t
+u n   n
+e r i n
+r z e  
+s s   k
+t e   M
+l o n n
+m   .  
+n   h e
+  ,   g
+e s   .
+h   d ü
+h   m r
+.   I s
+s s   m
+i d e l
+u f f g
+i e   g
+ä m m e
+M a n n
+e n a n
+m i n  
+u n s  
+n   d i
+d a a  
+'   M a
+  b e k
+  ,   m
+d o   w
+- e m  
+l   u f
+  g e l
+  .   U
+n i   F
+n   h i
+i t t  
+m e   ?
+z   g e
+s o   b
+  z e  
+n   .  
+t t   z
+j o   n
+m i n e
+t   s o
+  d e  
+s s   .
+h   h i
+  S u n
+a n d e
+t z   h
+u e   d
+e   M i
+b   m i
+?   D o
+n   d e
+c h m e
+h n t  
+e l   a
+c k t  
+h ö n e
+i   d o
+e s   i
+n n   s
+L i e b
+r u f f
+n n   i
+t   w ä
+h   s o
+  .   D
+u n n  
+d   d o
+  L i e
+b i n  
+  g i b
+e l   u
+  ?   A
+m e   ,
+  .   M
+d ü   d
+z e   v
+s i e  
+i   S c
+a u   e
+d e r e
+  M a d
+w e l l
+h   n o
+h t e  
+  J ä g
+g l ö c
+J ä g e
+O w e g
+r a u l
+i r   s
+h t   i
+e g l ö
+k   h ä
+«   K a
+d a e s
+d d a e
+f l u t
+h o i r
+i s e u
+m a   d
+s p ä r
+ü s s e
+a b   .
+n   e  
+i e   m
+e   J ä
+p ä ä r
+s p ä ä
+ä g e r
+a u l e
+J o o  
+  M o u
+  Z m i
+b s e t
+m   Z m
+p ä r e
+S ö j e
+Z m i d
+e   K i
+  e b s
+s   s i
+  ?   «
+?   «  
+'   B l
+b r ä n
+r ä n n
+w e g l
+l l   F
+u c h o
+r   h i
+d e   g
+a e s s
+e b r ä
+b a   ,
+P f l u
+ü   M a
+u r m e
+a u e  
+  J o o
+G e p ä
+h   t e
+.   a l
+m m t s
+m t s  
+n n   T
+h ö n  
+i n   n
+o o   ,
+a u   l
+  «   K
+  k e t
+e l e m
+e   z w
+n   s c
+e   S i
+u m m  
+«   W e
+e p ä c
+i m m u
+j f e l
+s   E m
+A e r m
+!   F e
+r z i c
+t   w ü
+j c h  
+t e h  
+e   g a
+r   a n
+  G e p
+i e b l
+s i l w
+f e i e
+o   A l
+,   g o
+g i e  
+ü c k  
+  .   P
+r e   M
+n e r e
+h   h a
+a m a  
+h l ü s
+- e m e
+h   J u
+g a l d
+a n s  
+  N o c
+N o c h
+l   d o
+  d i r
+l u t t
+ä r z e
+i s s -
+o u c h
+r l e  
+s c h ä
+  e   P
+n   k e
+e   ?  
+  .   «
+.   «  
+e l e b
+e r g ä
+u n g f
+p ä c k
+  s i l
+h s   W
+i k   h
+o   b ö
+r   b s
+h t   '
+.   A w
+s   u n
+  w e l
+  b i n
+s e u r
+  D '  
+D o   h
+e   d '
+s o l l
+t   n i
+H ä r z
+u l e  
+l ü e m
+n   »  
+n z i c
+k e t t
+u t t  
+ö j e r
+i e   .
+l ü s s
+e   «  
+h o n i
+o r i t
+  «   E
+F r i s
+r   O w
+m m u n
+m u n g
+s o r i
+t z   r
+e j   w
+J a   s
+  O w e
+g e b r
+o   i n
+  «   W
+t   «  
+.   B l
+a b   )
+b   )  
+n   H ä
+f u e r
+h ä m  
+' s   a
+h   g s
+l   d i
+  «   D
+u e m e
+D e p e
+r m e i
+e s   Z
+c h   J
+B r i n
+m i d d
+r i t  
+h ä n k
+l s   H
+?   D i
+h   m i
+r ä u j
+g ä l l
+  A e r
+  …   !
+…   !  
+i   A l
+m a   .
+H o p p
+.   N a
+s t i l
+m i r  
+  D e p
+  b s t
+h   W i
+e l l t
+t   i s
+e p h o
+m e   L
+l o g i
+.   G s
+w e r n
+i   S p
+ä n k e
+u   n o
+e s   m
+,   a s
+  m i r
+e l e p
+a   M a
+e p e s
+p r i t
+b s t e
+t i   G
+z   s e
+h   d ä
+s e   n
+i m m e
+  ,   b
+s   T r
+n   A l
+.   G i
+n   n ä
+j o   z
+l e p h
+l u e m
+w e i c
+s   M ä
+  .   …
+.   …  
+c h o i
+i   g u
+j t   u
+n   T r
+e t   g
+o h r  
+  a w e
+l   F r
+  t e l
+o   f e
+r i n  
+w ä r e
+p e s c
+d e   J
+r   g ä
+  s i e
+,   g ä
+.   P o
+  f r i
+r e   m
+a w e r
+ä c k  
+.   S '
+m r   u
+D o   g
+t   g f
+r d   w
+z   b e
+m e r  
+  D r a
+e r n s
+ö n   ,
+s   H o
+  H o p
+—   U n
+v e r d
+l l   .
+i n   s
+p h o n
+m a   ,
+a u   ?
+i m   k
+h - e m
+z   w u
+g e   F
+l   j o
+N e i n
+l l t  
+.   W i
+  u n s
+n d e r
+P o s c
+h ä i s
+'   S u
+W e l l
+u   d r
+  —   D
+  M a n
+z e l e
+r   E m
+d r   D
+  )   .
+)   .  
+e   »  
+  U m s
+z   m a
+l t   S
+  e r n
+d a m e
+s s   g
+e r   j
+,   s i
+h   e  
+B l ü e
+c h l ü
+n a t t
+r z e l
+e i   a
+m   L ä
+u c k e
+  d r a
+  A w e
+A w e r
+,   d o
+h   a l
+  s o l
+M a m a
+  e n a
+  f e i
+ö e r  
+  b s o
+o r   h
+l   w u
+  H ä r
+i b   m
+'   E h
+  J a j
+l e   M
+m   j e
+b s o r
+i e   z
+n   j o
+e   S c
+i k   ,
+e s   H
+k t   s
+z   d e
+J a j a
+ü   h e
+t t   u
+h t   n
+  .   H
+a n   d
+G s u n
+g r i e
+i   M o
+s   M o
+c h - e
+e   A l
+u g e n
+r   n u
+a m e  
+U n   d
+u r d  
+r s c h
+r   F e
+  G s u
+n n   G
+…   n u
+h   M a
+l i   .
+d e   K
+e m o o
+  r ä c
+E n d l
+n g e b
+k ü m  
+h e   a
+  w o r
+r e   .
+o p p  
+p p   ,
+e h n t
+'   K i
+f e   g
+r   e n
+a   w e
+G a r t
+d e   A
+r   B l
+  j e d
+r t   i
+K i n d
+a s s  
+  B l ü
+n   U n
+o s   .
+c k   a
+e   f r
+r   S u
+l   e s
+b e k u
+e i n t
+s   n u
+s e r  
+d e l e
+  d i t
+,   g i
+e i   A
+d e   e
+e i e r
+u n   I
+  …   e
+n n   w
+,   d r
+i n g s
+  w a s
+a   s o
+i d d a
+p   ,  
+e r   O
+e b   ,
+f r ö j
+t z   ,
+n   h ä
+  e   s
+w u r d
+k e   m
+b   d e
+l l e i
+n   I h
+  .   F
+w a s  
+m i n n
+U n s e
+f f   a
+p f   .
+!   M i
+r i s e
+z   e  
+E n t r
+s s g e
+m t   n
+c h   W
+e i n z
+  j e t
+j e t z
+a   s c
+d r   P
+n e   A
+b   d o
+n e   m
+i   .  
+  r a c
+a t i r
+t a r i
+' r   n
+n   i h
+r l i  
+  w ü e
+o   b r
+f f   u
+n o   b
+t t   g
+  d '  
+t i r l
+  k a l
+o   g i
+c h ä m
+n n s  
+e z   !
+u   u n
+w ä i s
+c h n u
+j e r e
+r n s c
+t r e z
+n   t r
+j e   h
+  k ü m
+  E r s
+b i e  
+k a l t
+W e i s
+k e   u
+u n   H
+u n   t
+z   k u
+ä n n e
+k e   ,
+e r m  
+i n z i
+n   w ä
+t   w e
+i l l e
+e j e  
+g e r  
+  ,   a
+n n e l
+W a n n
+r   J u
+E s s e
+m   F r
+o l   w
+' r   ,
+e k u m
+  ?   D
+  e j c
+e j c h
+  S '  
+B l u e
+i r l i
+l e   b
+r e z  
+ä n d  
+V u n  
+m m   .
+  —   U
+ä r e  
+a f t e
+u t s c
+u   ?  
+  e   H
+  w e i
+e r e j
+e   g s
+o   h a
+n n   m
+a r i k
+  V u n
+t e   D
+t t   S
+n n   z
+r   n a
+  a n g
+  h ä i
+a u s  
+.   B r
+d r   B
+f f g e
+H a l s
+t e   e
+t e   G
+e   D e
+e   u m
+  W e l
+n g l ü
+  P o s
+—   e  
+' s   M
+l   a l
+l i t t
+i m   F
+s   f ü
+d r u f
+S c h ä
+  N a t
+m   K a
+c k   g
+u   w i
+c h l o
+l w e r
+o   e  
+u n d h
+  w ä i
+i   H o
+d '   E
+a r i c
+e j   d
+a h   ,
+z   m i
+n   g u
+e t   z
+l   .  
+e r   i
+m e c k
+h m e c
+j o   w
+  e s  
+n d h e
+t - e m
+t   S c
+h   g i
+h e   i
+i e   v
+n s   .
+e m   h
+t   v u
+o   g e
+h n e  
+i e   s
+  P f l
+t   t r
+i   a l
+j   d o
+a   d e
+a n   g
+b   g e
+?   J a
+G l ü c
+i c h i
+s   d u
+a u   w
+D o   w
+u n   w
+h ö e n
+ä l l  
+u e j e
+d r   W
+i n   A
+z e   .
+o r   .
+?   A l
+r   i c
+ä u j e
+c h ö e
+s s - e
+t e l e
+u e t i
+e k t  
+s o   u
+f e   ,
+—   a w
+e r i c
+r i e n
+f l e  
+  U n s
+o   b l
+l l   j
+b   n i
+t i l l
+r   ?  
+e   b i
+  E s s
+d '   B
+c h   M
+n o   d
+l l   ?
+t e h n
+.   J a
+b   ,  
+i n e r
+M ä n n
+  B l u
+.   i c
+l t   a
+s s   f
+s e r e
+i t - e
+m   s o
+e s   s
+s a h n
+d r   M
+  .   i
+ä s c h
+P a r d
+t   n o
+g s c h
+e   s o
+  ,   n
+m m e  
+ö j e  
+d i m  
+a t   h
+u   s c
+t t   l
+H e r z
+  h e i
+  —   h
+  W a n
+  d i m
+f f   .
+g e h n
+n n   n
+s e l e
+'   F r
+l   v u
+n   e m
+l l e  
+ä n d e
+d r u c
+o   g s
+d   s o
+b   e  
+i e   n
+M o l  
+c i   ,
+  z e h
+r   u m
+n e l  
+n ü s s
+i r   '
+  l u e
+M a d a
+U n   w
+r t   h
+r   e r
+c h ä f
+  K a m
+A l t e
+h r   ?
+z   h a
+b   d i
+n n   ?
+r a c h
+g e h  
+t   .  
+a u   .
+r n   ,
+I h n e
+.   H e
+  s t i
+t   d i
+t t   ,
+t e r n
+  g r i
+t t s c
+e b l i
+n n   k
+'   i s
+d h e i
+s   e b
+i n   l
+h n u n
+e t i  
+  S p r
+e r e m
+u e   m
+m   m i
+r   l o
+d e r s
+  v u n
+e l l  
+  M ä n
+u e h n
+' s   b
+p f t  
+f   e i
+w e   h
+b l i e
+a u   n
+r i k  
+m r   s
+o   g u
+n o   s
+i   F r
+l   ?  
+n s e r
+d o c h
+  d o c
+m ü e n
+  e   n
+B i s c
+e   P r
+D e r  
+m m t  
+ä n n t
+g l ü c
+n ä m l
+e r z i
+r i s c
+w e i s
+t   g e
+i m e  
+D a n k
+h r   .
+i e   l
+e   e m
+a r   n
+.   I c
+ä m l i
+a r d o
+m u e h
+w e   n
+r   M a
+  d r u
+  …   j
+a d a m
+t z   d
+u n   m
+  i h r
+  .   I
+e   m i
+  B r a
+  L ä w
+i e r l
+n s   !
+s t a r
+e l i e
+l e   i
+s   m r
+e   e b
+m e i s
+L ä w e
+W a s s
+i r   .
+t t   ?
+i r   d
+f a l l
+a i d e
+  W e i
+h   S i
+e l   w
+i r   k
+c k e l
+  g e h
+M i n i
+r ä c h
+r d o n
+f f   e
+r e   F
+  A m  
+m   s c
+i n   !
+u m m e
+o i r  
+n e i n
+B e t t
+e l   v
+n   k u
+M o m e
+  I h n
+e h r e
+i t   m
+e t   ,
+,   a w
+n n i  
+e   m o
+n o   h
+h   w ä
+i   j e
+.   B i
+  m i c
+n e t t
+.   D r
+t   k a
+s   v u
+s s t  
+  ,   s
+d o n  
+i n   .
+m i c h
+i n n i
+u   e  
+  M o m
+e   P l
+a b   e
+i m   L
+l   e  
+n   g r
+,   e s
+c h   j
+d ü   h
+r   M o
+h n   m
+s   g l
+l   s c
+h r t  
+M a i d
+  E n t
+  M o l
+f t e  
+a b   n
+  A l s
+s   a n
+m ' r  
+e   v e
+v u n  
+r   e  
+s c h t
+r   K i
+r i t z
+d '   F
+  m ' r
+t   h e
+  d u e
+e t   .
+c h   h
+e t   a
+b l i c
+i n   M
+s o   m
+r   b r
+  …   D
+  m o l
+g s t e
+n t   i
+f f e r
+g i e r
+t   n e
+a u   d
+h e i m
+.   J e
+  W i e
+  G a r
+o m e n
+a l l e
+  G l ü
+d e   W
+d o   .
+i   ,  
+O w e  
+m o l s
+i e   H
+a u   s
+n   M a
+.   N e
+w o r u
+s o   f
+e r z e
+e r l e
+s t e h
+r   Z i
+  G a n
+e   i h
+h   h ä
+i n   g
+w ä j e
+i r   u
+n e   K
+l s   n
+n   v u
+d i r  
+m e   d
+c h a f
+m l i c
+e r   N
+n i   S
+  A r m
+  A n d
+e b r o
+d ü   b
+m   h a
+l e i n
+e r   Z
+o t t s
+d o   k
+r e d d
+g e r n
+  N e i
+d e   .
+  n e t
+  o b  
+z e   b
+  S c h
+  a l l
+  B e t
+t t   '
+e r   E
+  !   F
+n i e m
+l   h e
+o l   g
+,   b i
+e r s t
+ä w e  
+e   h ä
+h r   h
+f   u n
+  f a l
+e s   ,
+o n n  
+d '   K
+t i m m
+h e   d
+o   v e
+r   n o
+u w e  
+  …   H
+o l s  
+.   O h
+i n   j
+  W o h
+e   a u
+d o   b
+s   S c
+?   W e
+e   j e
+i g   ,
+e h n  
+i e n e
+d l i c
+s   a u
+b i s s
+r o t  
+t n a n
+h   w u
+n t r e
+.   N i
+—   —  
+  —   —
+d e l  
+!   W e
+o   .  
+w i e  
+i t n a
+ü s e  
+,   h e
+b s c h
+t   S i
+e   K o
+g   i s
+,   d ü
+  j o  
+M e r c
+r d   s
+u n   u
+b r o c
+  e   S
+c h   m
+i e b s
+e s   h
+d r u m
+W e n n
+  ,   —
+,   —  
+  —   e
+r   a s
+c h i  
+e r t i
+o   u n
+  D e r
+e r   B
+i e   S
+e w e  
+,   F r
+g e j e
+m   M a
+i c k t
+a   .  
+c h   —
+n n   h
+  a n s
+  g e b
+  m i n
+  f ü r
+f ü r  
+n e   M
+s   s o
+s s   d
+l   n o
+e i m  
+t   i n
+  B r i
+  ,   G
+  v e r
+s   i s
+e d d  
+s   g s
+f e r t
+r e   k
+S i e  
+e r s c
+' s   h
+-   a l
+k e l  
+  d e n
+…   w a
+ü e n  
+g   u n
+r e   n
+t   e r
+r i n g
+  W e n
+g f e d
+r a z  
+t r a z
+g ä l d
+g r ä n
+i g r ä
+k g ä l
+n k g ä
+  d ä t
+u   .  
+m a t r
+  »   w
+  M i g
+  z ä r
+'   V ö
+ä n s t
+M i g r
+o o   .
+u l p e
+z ä r t
+  v r g
+' e m  
+ä f l e
+a l l ä
+b a a s
+c k s b
+d ü w a
+e b o c
+f d ü w
+h n   »
+I m   k
+k   g l
+n n ä m
+n r   m
+ö c k e
+p f d ü
+s '   O
+t   E m
+t ö n t
+t t   »
+u p f d
+u s   »
+w a u e
+w e w i
+  i s t
+u j e  
+h r   s
+d u m m
+  b r i
+h   g a
+i n d e
+e   .  
+g s v o
+H e l a
+r n l e
+  …   ä
+…   ä h
+ä ä r e
+ä ä r l
+A m   H
+e r n l
+h r   »
+l e b a
+t u l p
+z e w ä
+  v r l
+—   E m
+«   G o
+ä j e -
+b l u n
+e h e h
+e r ä u
+f   r u
+g e t t
+i f t s
+i r o n
+k g a l
+L ü s a
+m   k ü
+n k g a
+n n   »
+O h   i
+s   O w
+s c h g
+s e   »
+ü j   n
+z   I h
+  l ü p
+.   a b
+.   j a
+.   j o
+…   E x
+«   E n
+«   m i
+»   g s
+»   h e
+ä m e l
+b   g f
+B a t s
+b i e -
+c h u p
+c k e k
+D r   k
+E   w u
+e h i c
+e l k o
+e w ü s
+f g s u
+g i   .
+G i t s
+h   R u
+h h a n
+h h e e
+h t   «
+i e - r
+i e f u
+k e m e
+k n ä c
+l i   j
+l k o p
+L o g i
+m a   w
+m e k t
+N ä m e
+n i b ü
+n i w w
+n r   ?
+ö j   w
+r   v r
+r e   1
+r o t b
+t - n e
+t c h  
+t e j t
+t i   a
+t o   ,
+t s k r
+t t   «
+u   l u
+u e t n
+u e v e
+u k e l
+u m p t
+ü r k e
+u s   S
+w ä t t
+z   »  
+m i t n
+  d u m
+t t   h
+i t t e
+T ü r k
+K a p e
+- n e m
+ä r l e
+c i   M
+s t u l
+…   F e
+«   E r
+ä f f e
+g ä l t
+I n d r
+n f e  
+r ä n s
+S o   f
+  t ö n
+.   h i
+«   S c
+1 0   M
+a n n ä
+ä u s  
+c h ä h
+d o r  
+E h e  
+e n u s
+e r v ö
+F a c t
+f t ü w
+G ä s c
+h ä h n
+i   »  
+i d o r
+I s i d
+l l ä i
+l ü p f
+O   s a
+o p f s
+p f t ü
+r v ö s
+s i d o
+t   G i
+t   I m
+t ü w a
+  ?   a
+  «   m
+  g i c
+  k ü h
+  N a j
+  n i i
+  O   W
+- i s c
+,   ä c
+…   G s
+'   A e
+a b - e
+a l z t
+a s b o
+a t   G
+A u   m
+b s   M
+d d   S
+d s   M
+d s   W
+e   v r
+e m a t
+g e p u
+i   S ö
+i n l o
+j   w a
+K a m r
+k i g  
+k ü h l
+k u m s
+l l o c
+m e   «
+m t   ü
+n   S ö
+N a j a
+n r   a
+n r   d
+n r   e
+n z   D
+o b   g
+o r d g
+r   b ü
+r e n i
+r m   w
+s '   Z
+s t e j
+s t m o
+t i   k
+T u e r
+u   H o
+u i   D
+u l a t
+ü m   .
+u n r u
+z   d ä
+z   m ö
+z   n ä
+  n ü s
+d r   S
+e l   n
+  …   d
+e l   .
+e r e  
+n g f e
+  A l p
+A l p h
+l p h o
+n g s v
+D '   V
+e m l e
+h g e b
+i k   w
+ö n t  
+  ä c h
+  I s i
+  n i w
+  S ä n
+  z u c
+a h e i
+A n d l
+h a b -
+k s b ü
+k ü e h
+L o c k
+n r u e
+O h   w
+R a s i
+s b ü c
+t e   »
+t z   I
+ü e m l
+ü p f t
+  :   …
+  «   F
+  L o g
+  O m n
+,   . .
+:   …  
+?   F e
+…   H ö
+…   l ü
+B e k u
+e s s r
+f   a s
+f   z w
+f g e p
+g i c k
+g s ä s
+i k   e
+i m   «
+i m   t
+i t - n
+i t s k
+i t s p
+J a   z
+J o   m
+l   b s
+l o   m
+m n i b
+m p t  
+m u s  
+N a   z
+n g s p
+O m n i
+o s   k
+o s s g
+r a s b
+r g   m
+r o n i
+s   g o
+s '   h
+s b o u
+t   g m
+t   P f
+t s p a
+t u l a
+z e   I
+  w a n
+r ü s s
+r   G e
+u n   z
+l t   ,
+t   v o
+w e l k
+  ,   »
+  »   D
+,   »  
+h o n s
+l e   O
+- e   -
+a t r a
+e l a b
+g s t u
+t   L o
+  «   h
+a c t e
+ä t   w
+d   n ä
+h   D o
+i c h b
+n d   :
+r d e c
+u e   :
+ü e m e
+  «   Z
+,   G i
+'   M ä
+b e   …
+B i m b
+c h b l
+c k i g
+g ä r n
+g s t ö
+h u p f
+p f s c
+s h u n
+S o o  
+u r i g
+  i n l
+?   S '
+…   H o
+'   K ö
+A b a  
+ä m   m
+ä n   -
+a u   H
+B a d  
+B o u g
+D '   P
+d ü   M
+e   T u
+e h   o
+G ä n n
+h m e k
+h r   J
+h t   L
+i e - e
+j   w o
+j o   A
+k   a u
+l   s '
+l t   P
+M o m a
+o u r g
+r m   v
+R ö s s
+r u e j
+s   i .
+s   I s
+s i g s
+s s d r
+t   S ä
+t r a w
+ü   g s
+u e   F
+u g i e
+u n a n
+ü s s d
+z   b r
+s e   m
+l   i n
+i m   K
+t   d r
+c t e u
+n   b s
+u t t k
+  ä h  
+G r a t
+G ü s c
+j e - n
+l u n d
+n n   C
+r ä n d
+ü e s e
+,   b y
+a u   D
+D e j f
+H o l d
+j   …  
+l p e r
+m   f ü
+n u p f
+  A a h
+  a b n
+  s i g
+A a h  
+b   a c
+c h t ä
+h   F e
+i b   a
+l z t  
+m   E m
+n g f r
+r t i c
+t s   T
+w a l z
+w i   j
+w ü s s
+  »   h
+  1 2  
+  m r s
+-   A h
+a c k i
+a u   —
+D ö j  
+E   M i
+e   o b
+e - r e
+e h t e
+j   a m
+k   m e
+k a p i
+M i n t
+m r s  
+n z e w
+o   n ä
+o f   v
+o u g i
+s g e t
+t o   m
+w u e t
+x   h e
+n n   j
+t t e r
+  n o c
+l l o  
+  h e h
+u f   H
+a p e l
+d a u w
+ä l d e
+b a c k
+d ä u w
+u   D o
+  K o f
+b ü e s
+K o f f
+n ä t t
+S ä j e
+t r e j
+b l i g
+b r o w
+e j f e
+h n u p
+n d r u
+r - e r
+s ü s s
+  r u t
+.   e s
+b o c k
+b ü c h
+g i   ,
+j e   o
+m a   !
+m b o l
+n   z ä
+n n - e
+r ä d l
+r z k ä
+u m   j
+z k ä f
+  :   —
+  »   ?
+  D ö j
+  l ü j
+  P o h
+- r e  
+—   H i
+,   z ä
+:   —  
+»   ?  
+a n   :
+d   r a
+e   1 0
+E   G o
+E   j e
+e r a u
+i   b ö
+i b ü s
+i n t w
+j   d r
+l a t i
+m i r s
+n   M ä
+o r d s
+P o h  
+r g s t
+s   r ü
+S o   n
+ü m   ,
+ü s s k
+w o r r
+.   D '
+  B i s
+n d   s
+  e   b
+s t e l
+h t   s
+,   i c
+a r e l
+a b a  
+  Z a u
+r e   O
+Z a u b
+a z   ,
+p e l l
+J a   M
+s   »  
+  »   !
+  N ä m
+»   !  
+B u t t
+e h   K
+f e d e
+h   r ä
+k e r i
+ü w a c
+  L ü s
+  s ü s
+ä r t l
+b o u r
+e b a a
+e n s g
+i g   t
+K r a m
+u b   .
+u n t r
+…   j a
+»   u n
+ä n k  
+ä r n  
+B l e i
+d r   z
+e l   U
+f f   G
+g a n  
+h   t i
+i   i c
+m m   M
+m s   G
+n a n g
+n e r v
+n s   t
+O   i c
+P r o b
+S a l z
+U m s  
+ü r   w
+  T u e
+  u n a
+—   a n
+?   C '
+A u t s
+b ü s  
+D '   K
+E i m  
+e z i t
+g   t r
+G f a l
+h i   H
+h i k t
+i   F l
+n o d e
+O   d i
+o   s '
+o r   …
+o t   e
+t s t e
+ü   v u
+z   e b
+i e b t
+  t r a
+s   b i
+a p e t
+m a   s
+  K ö f
+K ö f f
+ö e n s
+s v o l
+  G ü s
+u   S c
+?   A c
+e t l e
+s e   K
+  n ä t
+- e r  
+.   P s
+e k o p
+h   g ä
+l a b a
+v e r ä
+  ,   1
+  .   j
+  O   s
+b e z i
+G e n u
+m o r d
+t i f t
+t r a s
+z u c k
+  »   u
+  S o o
+!   G ä
+'   M o
+ä u m e
+b t   S
+e   A e
+e f u n
+f e m  
+i s e h
+k   e  
+k e n d
+m b i e
+M i n n
+m r   r
+n   G f
+n e w a
+n u s s
+O h   d
+r m   d
+r o b  
+r u e s
+u e l e
+Z u m  
+  i .  
+a   L i
+d o   S
+e   S ö
+e t   W
+f f   I
+h i   B
+k   w a
+m   «  
+n o w e
+o   g ä
+p t   .
+r   M ö
+w ä n d
+z   r o
+u e t e
+h   d r
+s   i c
+h ä n  
+  V ö j
+V ö j e
+h l ä c
+  G ä s
+  D e j
+.   A a
+s   e j
+  D r ä
+. . . .
+e r ä n
+e r z k
+n n   U
+z i t s
+. .   D
+ä h   ,
+f g e h
+h   K a
+h   K i
+n   A h
+n n e w
+s i n k
+W i e l
+z   l i
+  …   «
+- r   m
+…   «  
+«   S i
+a c h h
+ä m   d
+D u   b
+j   m a
+l ü j  
+r s i n
+S e l b
+s o   :
+s s r e
+ü h l t
+ü s a n
+u w e r
+w ä i t
+W ä n d
+w e   N
+  E   j
+—   V u
+' s   O
+d e f u
+d o r w
+e   R ö
+E i   j
+e j   a
+f g e z
+G r u e
+j   s t
+l   S a
+l t   G
+m r   l
+n ä m  
+o b   S
+r r e c
+s s z e
+u   l o
+u m   J
+  E i  
+r w e  
+e r   A
+h   j o
+  d o  
+r e m a
+  R ö s
+,   D '
+F l a s
+n c e r
+c e r t
+C o n c
+e i   L
+i m b e
+o   M o
+'   B u
+h e h e
+P f u i
+r ä u e
+  l o g
+  O   i
+:   M i
+a l z  
+b   g s
+e b a c
+e f u e
+e l u e
+H i t t
+k   a s
+m   t r
+m   u m
+n i   n
+o r - e
+r ä u m
+ü   d r
+w e   F
+  Z u m
+e s   I
+f f e m
+g s p r
+l   e n
+s   b s
+S e j  
+S o   j
+  E i m
+  n o w
+e v e r
+f f g s
+i c h -
+J o   w
+m   w ä
+m s t ä
+n s   A
+ö j   d
+r s u c
+s d r u
+s z e s
+ü s s z
+z e s t
+m   d e
+n   b i
+s o   i
+n e r  
+n o c h
+e i j c
+  C e n
+C e n t
+  o   j
+B l u t
+e l l o
+  b ü e
+E   g u
+e - n e
+s   s '
+t t k o
+ä i s e
+h   e x
+o r i  
+  w u e
+a m   f
+e   I s
+h ä t z
+i b s l
+  B a t
+'   n ä
+b s   k
+d ü   z
+h s   h
+h s   M
+i e f l
+K a m m
+t   b s
+u   g s
+  E   w
+?   Z w
+a a   z
+D o   n
+e r d o
+o r g s
+P r a t
+t o c h
+  g l i
+  D i t
+ü n f e
+  «   G
+  B u t
+p e r t
+  I n d
+a t u l
+f r u e
+ö n   i
+S i l w
+b o r e
+e   g o
+r n i  
+  B i m
+  k ü e
+.   P f
+g r o b
+r u t s
+s s   P
+t w ä j
+ä d l e
+i e r m
+l l e l
+O   w i
+r   L o
+r m   g
+s '   M
+t i   m
+a t i k
+a u   …
+e j   z
+h   D a
+j t   e
+o   w ü
+r d o r
+t   W o
+v o r -
+  —   a
+e w i l
+,   i h
+ä t t e
+  w u r
+r m a t
+ö p f l
+e   E m
+t   »  
+o w e l
+r a t u
+S p r u
+  S ä j
+B a r i
+t k o p
+f u i  
+n s t i
+W i d d
+  !   ,
+  g h ä
+  l i t
+  n e r
+!   ,  
+?   H ä
+b r u m
+h j   g
+i   m u
+k ä f e
+r   O r
+r a m b
+  »   g
+  S e j
+- n e  
+,   g s
+a c k s
+a h   .
+a m   O
+a n k b
+e l   j
+J a   m
+l l   Z
+m m   j
+r m e s
+  A b a
+  d e l
+d d   h
+e z ö j
+f   i m
+g m e i
+ö n   .
+w e   G
+s s   S
+  …   n
+.   S c
+t t e l
+d   n i
+P l a t
+o   k u
+e h   i
+n e   a
+w e n n
+c h   a
+u b e r
+l ä i n
+G a n s
+m   J u
+  g ä r
+ä i t e
+e b o r
+l f   d
+r ö j t
+s   E s
+y   d e
+c h i k
+d ä u b
+e   l ü
+g f r a
+g f r ö
+l a j t
+l i   e
+n   s ü
+  »   …
+  W ä n
+»   …  
+e k l o
+h   v '
+i n g a
+n s   L
+O   m i
+r l e h
+w i   ,
+Z e r s
+g e   :
+i   K ö
+i x   h
+j   w i
+j   z e
+  I s c
+M i e s
+i j c h
+u i   !
+f a n n
+r   T ü
+ü h j  
+u m b i
+f e r l
+G s p a
+r z l i
+  E h e
+  e x t
+e   S ä
+e j   s
+g e   l
+n t   I
+s e   D
+u   v o
+  b h a
+,   r o
+A h   d
+e w ä n
+f u n g
+H ö r e
+i r   M
+n t w ä
+r a   g
+t   o w
+u b s c
+u m s c
+  u n r
+b e d ü
+e i   b
+h   A l
+H ü f f
+l i   ?
+n   r u
+r l o n
+t   G o
+t ö r t
+u   e i
+z ö j e
+  h u c
+f   u f
+m   G ü
+r m   u
+t   s u
+i e m e
+I s c h
+  s i n
+  d ä n
+n t i m
+a u   S
+  g à n
+e w i n
+P f a n
+s a n g
+a m e l
+B l i e
+j e r u
+o d e l
+  i   !
+e i m l
+m m e t
+ö e n e
+t t - r
+u   —  
+  B o u
+—   n u
+e x t r
+F u e s
+ö j t  
+  R a s
+  w ä s
+a u b s
+e   K ä
+e   L ü
+e i   n
+h r   W
+k   a l
+l i   v
+n z   z
+  H ü f
+  r u h
+e   r ä
+f f   z
+h   W a
+o   j u
+s c h h
+h e   P
+z   w a
+  D a n
+Z i t t
+o r r e
+l e   h
+  l e i
+j o   d
+  J u g
+J u g e
+t i m e
+  F a c
+—   d r
+D r   S
+e   e j
+m e   T
+'   P o
+m i   b
+s t i f
+d d   n
+s   g ä
+u f f -
+  -   A
+.   d o
+.   T r
+g h ö e
+H ä t t
+h e   B
+k b a r
+n k b a
+n z   w
+r   l u
+t i   Z
+z   f a
+?   A m
+a d   r
+f f - e
+h i   S
+n s   F
+o   :  
+o l   ?
+r i   h
+t   v r
+t t   M
+w ü e t
+z w i e
+  g m e
+b t   u
+e   U e
+l i   h
+r s   e
+z   b a
+n   u f
+u n s e
+t t   i
+ö f f e
+p e t  
+e   O w
+D '   M
+m b e l
+d i   d
+  E x k
+D r a c
+e   G i
+E x k ü
+g e w ü
+…   e s
+g s u e
+j e   …
+j e   a
+l e l e
+r   w ü
+  f u e
+'   W o
+ä f e r
+e f l e
+e j   u
+e l   t
+e t   M
+i   B l
+j a   w
+K ö p f
+n n   H
+?   P a
+e l a j
+e r z l
+h e r a
+i k   i
+l   g h
+m   E s
+o r   v
+r   M ä
+r u h i
+t   b '
+u   u f
+u h i g
+  g h o
+a m   n
+ç a   ,
+e   m '
+c h e  
+c h   e
+a u e l
+P f e r
+H u e t
+a r   H
+i g e s
+j o   j
+  .   h
+  t r ä
+t r a  
+?   S t
+…   D '
+c h ä t
+d r   e
+h   g f
+r a u s
+U m s t
+z e n s
+  1 0  
+  O   m
+D '   S
+r   m r
+S t r i
+  r ü s
+,   r i
+e j   m
+h o l f
+m   k a
+n o   v
+o l f e
+s e h t
+g h o l
+i r s  
+n s   W
+s o   ü
+t   n ü
+r   v u
+e l   s
+c h t k
+0   M a
+s '   e
+  «   S
+o n c e
+  d ä u
+d r   O
+…   h i
+a   S i
+e n k s
+s   P f
+s t   S
+i m l i
+N a t ü
+u e j t
+  H ä t
+  Z e r
+a n n '
+e   E s
+h a u e
+i r   A
+k t   '
+o   m '
+s g e l
+  k a p
+  K ö p
+.   w i
+m t   u
+f   I h
+h   b s
+l i   a
+n s   M
+r s e h
+u p f t
+?   K e
+k   z e
+t i   w
+u n   g
+B r a n
+S t r a
+W u e t
+d u e  
+t r ä u
+.   N ä
+j e   f
+'   H ä
+b   s o
+e   v '
+r ü h j
+B i e  
+h t   t
+s p a s
+s r e d
+W i b s
+—   a h
+b   g a
+b b   i
+b y   d
+e   s '
+h t   E
+M o r d
+S o t t
+t t l i
+  f r u
+,   G s
+A h n u
+c h h a
+d i t t
+d ü r e
+e d ü r
+k t   a
+w ä s c
+'   Z i
+j e d s
+s   k ä
+  d e f
+h i g e
+n   l u
+n d e l
+j e d e
+  a b  
+t   k u
+e   s c
+  m a c
+l o f  
+ö j e l
+  T ü r
+p r u n
+  G f a
+a i m e
+i r   —
+r f ü e
+s i   S
+-   a r
+—   K u
+g   i  
+r g a s
+  j e r
+  P f u
+—   h e
+ü s e r
+n - e r
+r z e n
+  W i d
+b   j e
+j o   b
+l   Z i
+n   G s
+t i   P
+  A h n
+b h a l
+e b   s
+i   w ä
+n g   —
+?   A r
+e i   F
+s   r a
+i b   d
+l e   H
+e j t  
+r   B a
+s   s e
+m s c h
+t r ü w
+t r i s
+' s   T
+u e   S
+  L o c
+r z w i
+x t r a
+m   h i
+J a   .
+p f   u
+b s l i
+e h m  
+g e b o
+n k   m
+r   T e
+e t t -
+f t e r
+M ä i d
+w i g  
+  b i l
+A u g e
+b ' h a
+d ä t s
+l   m '
+l s   f
+n o   ?
+a   z e
+ü r   e
+,   s e
+h e   ?
+l s o  
+a m b o
+  W u e
+u e h i
+' r   T
+e r d  
+ä u w e
+u m m i
+z t   v
+ä i d e
+h a n k
+r i e c
+—   g e
+a j t  
+c k e s
+f r ü h
+m   v u
+  .   -
+.   -  
+.   d i
+d e   j
+g h i r
+G i b  
+h i e l
+i   S e
+l d   n
+R o s s
+a u w i
+b   w e
+h   o d
+H a n n
+ö s s e
+  E   G
+ä j   ,
+i k t  
+a a   s
+a a   v
+h u c k
+u r   v
+  !   !
+!   !  
+,   s c
+h e   ,
+h w e j
+e t   N
+' r s t
+a n n -
+s   A l
+r o w i
+o w i e
+f f s  
+r   z a
+r t   S
+g   k e
+h ä n d
+i   D e
+r s   n
+b   g r
+d ü   v
+g e   e
+o   S c
+p a r e
+s t o s
+z   k e
+i e   '
+n g   .
+  p a a
+m e i n
+e   g e
+l o c h
+l a s c
+o m a n
+i e   J
+N u r r
+r e   j
+S p r i
+  G s p
+r a i m
+a   k u
+a s s '
+i m   b
+n   S p
+ö s e  
+r   G ü
+?   L o
+a a   e
+c k   ?
+e n e h
+e w o h
+l i   w
+m   T i
+m t   '
+n   g i
+r   m o
+s c h -
+w i e f
+  ?   C
+  S o t
+b   S i
+t t   t
+…   g e
+…   M e
+o r   g
+r l o s
+Z u e m
+  r a n
+e s   r
+i n   r
+m   v i
+o   z w
+s o   j
+z   g a
+z e s c
+h   n ä
+s t o c
+a l s o
+G o t t
+  s e  
+t - r  
+  H u e
+  S i l
+  ,   ä
+  K a p
+h   S e
+s s ' r
+a   g s
+E i n s
+k e s  
+d '   n
+j   n i
+n   s '
+t e r g
+  b ' h
+d u e n
+m   e i
+t i k  
+ü   m e
+w e r i
+b   s e
+g e k l
+i r   ü
+m   z u
+n a b  
+t t   o
+b   i s
+  e   U
+i e n a
+o s c h
+ä j e  
+e   H a
+  G o t

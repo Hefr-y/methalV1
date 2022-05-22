@@ -12,11 +12,14 @@
 
 # Requirements: pathlib, pandas
 
+from collections import Counter
 from pathlib import Path
 import pandas as pd
 
 wd = Path('../../working_dir')
-tokpath = wd / "tokens/all"
+rwd = Path('../../Rstylo')
+# tokpath = wd / "tokens/all"
+tokpath = wd / "tokens/bas-rhin"
 metapath = wd / "metadata/temp/metadata_avec_period.csv"
 outpath = wd / "metadata/metadata.csv"
 punc = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~«»'
@@ -44,15 +47,57 @@ def count_tok(p):
                 data_sans_punc.append(line)
         df_meta.loc[p.stem[:-4], 'TokensNoPunctuation'] = len(data_sans_punc)
 
+
+
+
+
 def main():
+    # num of token of each piece
+    # txts = all_txts(tokpath)
+    # for i in txts:
+    #     count_tok(i)
+
+    # print("Total : ", len(txts))
+    # print(df_meta)
+    # df_meta.to_csv(outpath)
+
+    # frequency
     txts = all_txts(tokpath)
+    alltokens = []
+
     for i in txts:
-        count_tok(i)
+        # print(i)
+        with i.open('r') as f:
+            data = f.readlines()
+            alltokens.extend(data)
 
-    print("Total : ", len(txts))
-    print(df_meta)
-    df_meta.to_csv(outpath)
+    # delete "\n"
+    alltokens = [x.lower() for x in alltokens if isinstance(x,str)]
+    alltokens = list(map(str.strip,alltokens))
 
+    tokfrequency = Counter(alltokens)
+    # print(tokfrequency)
+
+    r_bas_zeta_words = rwd / "output_oppose()/par_token/region/bas_chi2_zeta/words_preferred.txt"
+    test_out = rwd / "output_oppose()/par_token/region/bas_chi2_zeta/words_preferred_frequency.txt"
+
+    wordspre_frequency = {}
+    with r_bas_zeta_words.open('r') as f:
+        for i in range(7):
+            next(f)
+        words = f.readlines()
+        words = list(map(str.strip,words))
+    for word in words:
+        wordspre_frequency[word] = tokfrequency[word]
+
+
+
+    file_write_obj = open(test_out, 'w')
+    for var in wordspre_frequency.items():
+        file_write_obj.write(str(var)+"\n")
+
+    # file_write_obj.close()
+    # print(tokfrequency)
 
 if __name__ == '__main__':
     main()

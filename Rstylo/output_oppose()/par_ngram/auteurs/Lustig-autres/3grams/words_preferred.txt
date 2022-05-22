@@ -1,0 +1,743 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+z '  
+  z '
+…   i
+!   …
+…   '
+?   …
+…   d
+f i r
+…   w
+  w à
+t   …
+e   …
+  t h
+h   …
+…   u
+…   a
+l a ü
+  d à
+d r  
+  h à
+v o  
+h a  
+  m r
+-   i
+k u  
+m r  
+à n  
+r   …
+h à n
+h a t
+g ' s
+  g '
+à h  
+a   -
+ü e  
+k a  
+h o  
+d à  
+s i  
+l i g
+i   …
+b i  
+S e  
+' s c
+' s à
+…   S
+  a s
+a ü b
+o   -
+z ü e
+…   m
+ü e t
+s   …
+…   D
+…   e
+r a ü
+g ' w
+…   I
+s à i
+à i t
+k ä n
+…   W
+  G '
+h à t
+w à r
+  k ä
+g ü e
+t h à
+k u n
+  f i
+à n n
+…   s
+t h ü
+-   e
+a   …
+u f  
+c h o
+s à h
+h ü e
+a ü  
+a g e
+g   …
+o   …
+i r d
+à r  
+  o  
+h   '
+  …  
+e g e
+…   A
+' w i
+,   '
+  g ü
+e s o
+  s à
+o t h
+  - n
+- n -
+n   …
+g ' m
+à t  
+n -  
+g ' h
+n u r
+s a g
+  z ü
+w i r
+w à n
+i l  
+ü b  
+u n n
+D a s
+ü e s
+' s  
+t h e
+n i g
+  ' s
+l   …
+' h a
+m i g
+w o  
+m i  
+…   n
+e b b
+  g à
+G ' s
+e n i
+n   '
+b b e
+i r o
+'   s
+-   a
+  b '
+ü s e
+ü e g
+e i g
+k e i
+e i  
+'   v
+a g  
+d a s
+g à  
+ä n n
+' m a
+o   n
+  S e
+…   g
+g ' f
+i w e
+…   E
+r   '
+d '  
+g ' l
+g l i
+l o  
+  n à
+e   -
+i g  
+w e g
+' s t
+t   '
+h i r
+w o h
+w i s
+u m p
+m ü e
+'   h
+b ' s
+b e s
+s s  
+n n t
+i g e
+i e d
+g ' r
+  i  
+'   g
+a t  
+c h à
+E h  
+r n o
+d   …
+e   '
+à   ,
+s   D
+i t e
+t z  
+…   O
+o g e
+g l a
+D r  
+…   j
+…   N
+o   m
+e r n
+-   u
+à   m
+t h i
+'   m
+J u m
+i e h
+. .  
+g s i
+. . .
+,   D
+e i h
+i e n
+e i m
+z   g
+r v o
+g   i
+  d '
+  F i
+à m m
+…   h
+  e s
+a ü f
+D i  
+s ü e
+z   e
+z   d
+,   W
+  n e
+…   H
+  E h
+…   U
+m p f
+h i n
+-   I
+e   t
+…   M
+e g  
+h a s
+h   D
+à   …
+a   n
+z   n
+  m ü
+g   ,
+m ö g
+  e m
+  i w
+u   …
+m   …
+n à h
+  g l
+g e  
+!   '
+o r u
+g   g
+e i s
+g   s
+  Z i
+e   j
+F i r
+…   v
+h ö n
+' f a
+Z i t
+l e w
+'   f
+s   e
+  J à
+'   r
+r o t
+t h  
+  D r
+'   e
+g   d
+J à  
+à c h
+h a ü
+D i n
+t   S
+s t  
+e r v
+g i e
+t e t
+ü e m
+  e n
+r o g
+o   g
+' r e
+r a  
+m m i
+g   z
+ä t t
+E n e
+g   e
+…   G
+a ü e
+ö g l
+u r  
+a s s
+p o s
+O h  
+r s t
+à n e
+c h i
+n t l
+g   m
+' r i
+  e b
+  T a
+  ü s
+'   w
+…   k
+a   m
+o   w
+n o  
+g ' n
+z   …
+j e t
+e   T
+M i  
+…   t
+ü b t
+  a g
+e d e
+w e n
+e   z
+  v o
+G l i
+r   T
+…   J
+o h r
+r   F
+a w e
+,   H
+i t n
+  H à
+a ü w
+-   A
+'   b
+  e i
+A h a
+m i e
+,   S
+à   M
+,   f
+a   d
+A ü g
+g   a
+o r g
+  A ü
+N e  
+o   z
+  T h
+a   '
+i e i
+  J u
+i   T
+f r o
+  T i
+  d r
+  j à
+n s t
+h   j
+h i t
+'   H
+r   H
+…   b
+.   '
+,   a
+t r u
+k   …
+D e  
+j à  
+i n t
+ü s  
+o   d
+i h e
+' l e
+w i l
+l i w
+e s s
+h   !
+  a w
+s s t
+l   '
+h r e
+O n c
+n t  
+c l e
+z   s
+i c k
+t   z
+t n a
+  s ü
+r   t
+g   w
+  p r
+h à f
+n c l
+h ä t
+a   h
+w o t
+G ü e
+l ü e
+h i g
+  w o
+  K à
+à t e
+à r e
+à f t
+H à n
+  I h
+r g e
+…   z
+e f a
+h a l
+a g '
+T a g
+g   n
+o   s
+i n l
+i   ,
+z i e
+g   u
+g   !
+…   K
+i t t
+' m e
+t i r
+  O n
+s i t
+  A h
+b t  
+f   e
+e t e
+…   V
+I h r
+v o m
+n ü e
+e i d
+ö n e
+…   o
+  h i
+  D à
+G ' w
+à l l
+c h ö
+h   t
+n l i
+a   j
+t i e
+ü f e
+?   .
+h à  
+D à  
+n à m
+d à n
+o m  
+!   w
+M ü e
+o   a
+n i e
+  T o
+  k u
+à n d
+r à c
+r f i
+!   .
+  l ü
+'   M
+ü g e
+T h ü
+h i c
+l e g
+f a n
+T o c
+i   !
+'   l
+ü e c
+  v i
+m o l
+e   !
+o   t
+à t z
+e h  
+H e r
+' s u
+f   …
+ä m m
+j u n
+g s t
+b o l
+w e i
+v i e
+ü r e
+' s p
+i   '
+T i e
+h   w
+e m o
+  e ü
+i e m
+r n  
+n i m
+!   d
+i k u
+r r  
+h r s
+i h m
+I h n
+i   g
+  »  
+s   I
+i   j
+  i h
+  «  
+r z ü
+r   o
+g   h
+…   l
+r d e
+k ä m
+  j u
+b i k
+t   e
+e t h
+  t i
+M e n
+w à  
+.   i
+S i e
+'   N
+i m o
+l i b
+n a n
+d   '
+a n e
+…   T
+g a n
+'   J
+p f e
+  W à
+  à m
+'   à
+-   E
+o   i
+ö n  
+H ü s
+h e i
+i r  
+!   i
+s   j
+h ü s
+  e f
+D i c
+  O h
+Z i m
+z e i
+à   H
+k à m
+r u m
+  s p
+m i r
+o   S
+h ö r
+p r e
+m a g
+e   k
+i   i
+ü c h
+s g '
+e g t
+f i n
+u r t
+e r r
+g e h
+e r z
+ü   …
+m e h
+i r l
+e   Z
+  B à
+à w e
+à m  
+à n g
+h   ç
+' h ö
+t   !
+  o h
+ü s i
+'   S
+t   t
+z   w
+' h i
+e t z
+e   w
+  j e
+N i e
+o   D
+H i r
+k ü c
+e ü c
+  M à
+h   I
+m p i
+i l h
+…   B
+K e i
+n e i
+h   o
+s   t
+c k ü
+à   !
+l s o
+  r u
+s   S
+i   n
+z   a
+i   G
+d à r
+f i e
+  a z
+g   j
+'   k
+A n d
+' l i
+F r e
+'   t
+A s s
+o s t
+e   N
+…   f
+e n g
+  E n
+a f a
+à   h
+  k à
+  T à
+' n ü
+h à h
+' l o
+-   ü
+l h ü
+g t  
+o d e
+Z ü e
+z ä h
+  s e
+'   O
+s   m
+M e  
+r a g
+s t o
+l l o
+r e s
+b s t
+…   F
+g   k
+r s o
+r   e
+  a f
+e r d
+t   j
+d e t
+P e r
+  i g
+h   z
+D i r
+u r e
+s   E
+a z '
+?   '
+…   L
+o   !
+-   o
+i   M
+e   n
+  N e
+  G ü
+,   I
+A h  
+h ü r
+z a h
+s o t
+i   V
+o s e
+à h r
+s à l
+T à g
+  ç à
+ç à  
+n u  
+L i t
+r t e
+  h ä
+i h  
+o l  
+o   b
+  m e
+m i c
+r k  
+o   u
+  z i
+i m m
+a s t
+p i e
+V a t
+e s t
+t   o
+s o n
+l   j
+  t r
+  A s
+o   l
+m a c
+k a ü
+'   E
+F i n
+e   F
+i   Z
+o   '
+i e l
+p f r
+s e  
+  . .
+  a h
+e   J
+s   f
+e r k
+K ü c
+ü f t
+s   k
+c i d
+f   j
+  m ö
+  E ü
+à h n
+' f à
+à g  
+  m à
+P o r
+e r f

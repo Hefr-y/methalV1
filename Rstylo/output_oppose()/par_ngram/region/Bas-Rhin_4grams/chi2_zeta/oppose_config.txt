@@ -1,0 +1,14 @@
+text.slice.length = 1243
+text.slice.overlap = 0
+rare.occurrences.threshold = 0
+zeta.filter.threshold = 0
+oppose.method = "chisquare.zeta"
+display.on.screen = TRUE
+write.pdf.file = FALSE
+write.png.file = TRUE
+use.color.graphs = TRUE
+titles.on.graph = TRUE
+identify.points = FALSE
+visualization = "words"
+classification = FALSE
+plot.token = ""
