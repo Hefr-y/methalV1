@@ -77,7 +77,7 @@ info = json.loads(json.dumps(data))
 df = json_normalize(info)
 # print(df)
 
-df.to_csv("1.csv",index = False)
+df.to_csv("5grams.csv",index = False)
 
-# read_csv = pd.read_csv("1.csv")
-# print(read_csv)
+read_csv = pd.read_csv("5grams.csv")
+print(read_csv)
