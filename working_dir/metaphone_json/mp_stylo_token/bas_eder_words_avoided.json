@@ -1,0 +1,4136 @@
+{
+    "": [
+        "30",
+        "13.",
+        "|",
+        "2.",
+        "1000",
+        "’",
+        "/",
+        "80",
+        "9",
+        "1",
+        "5",
+        "1.",
+        "200",
+        "...",
+        "'",
+        "70",
+        "120",
+        "..",
+        "`",
+        "5000",
+        "40",
+        "0",
+        "2",
+        "6",
+        "8",
+        "4",
+        "3",
+        "»",
+        "«",
+        "…",
+        "....",
+        "25",
+        "[",
+        "49",
+        "h.",
+        "17",
+        "150",
+        "48",
+        "6.",
+        "64",
+        "66",
+        "82",
+        "9.",
+        "20",
+        "14",
+        "100",
+        "“",
+        "50",
+        "12",
+        "(",
+        "7",
+        "15",
+        "!"
+    ],
+    "A": [
+        "i...",
+        "oi",
+        "aah",
+        "a.",
+        "äh",
+        "äier",
+        "e...",
+        "u.",
+        "eh'",
+        "u",
+        "ä",
+        "eh",
+        "a",
+        "i.",
+        "äi",
+        "oh",
+        "eier",
+        "i",
+        "eich",
+        "o",
+        "aaah",
+        "ia",
+        "ooh",
+        "you",
+        "en",
+        "äu",
+        "er",
+        "e.",
+        "ich"
+    ],
+    "AF": [
+        "uf",
+        "ofe",
+        "affe",
+        "ewe",
+        "aff",
+        "owe",
+        "aw",
+        "ifer",
+        "öwe",
+        "uf-",
+        "uf'"
+    ],
+    "AFK": [
+        "eweg",
+        "ewig",
+        "ewige",
+        "ewag"
+    ],
+    "AFL": [
+        "iwel",
+        "üewel",
+        "infäll"
+    ],
+    "AFR": [
+        "iwer",
+        "äinfach",
+        "anfach",
+        "änfach",
+        "ifer",
+        "ifrig"
+    ],
+    "AFRHPT": [
+        "iwerhäupt",
+        "üewerhäupt"
+    ],
+    "AFRK": [
+        "afrik",
+        "ifrig"
+    ],
+    "AFRL": [
+        "üewerall",
+        "iwerall"
+    ],
+    "AH": [
+        "eher",
+        "aha",
+        "öha"
+    ],
+    "AK": [
+        "ecke",
+        "auge",
+        "ici"
+    ],
+    "AL": [
+        "oel",
+        "ill",
+        "oller",
+        "eilig",
+        "el",
+        "alle",
+        "all"
+    ],
+    "ALF": [
+        "elfe",
+        "elf"
+    ],
+    "ALFL": [
+        "allewil",
+        "allewill"
+    ],
+    "ALN": [
+        "elan",
+        "elläin"
+    ],
+    "ALNT": [
+        "elende",
+        "elender"
+    ],
+    "ALS": [
+        "alls",
+        "also"
+    ],
+    "ALT": [
+        "alter",
+        "älter",
+        "alte",
+        "alt"
+    ],
+    "ALTR": [
+        "alter",
+        "älter"
+    ],
+    "ALVL": [
+        "allewil",
+        "allewill"
+    ],
+    "AM": [
+        "emma",
+        "em",
+        "eim",
+        "amen",
+        "amme",
+        "emo",
+        "om",
+        "ihm",
+        "eme",
+        "immer",
+        "äim",
+        "im"
+    ],
+    "AML": [
+        "amélie",
+        "emil",
+        "emol"
+    ],
+    "AMPTRT": [
+        "embetiert",
+        "ambediert"
+    ],
+    "AMR": [
+        "ameri",
+        "amour",
+        "immer"
+    ],
+    "AN": [
+        "ene",
+        "ane",
+        "ine",
+        "äini",
+        "inn",
+        "yun",
+        "ihn",
+        "äiner",
+        "ihne",
+        "ün",
+        "ahn",
+        "ani",
+        "annen",
+        "ein'",
+        "in'",
+        "ionn",
+        "ohne",
+        "en",
+        "anno",
+        "einer",
+        "un",
+        "einig",
+        "in"
+    ],
+    "ANFR": [
+        "äinfach",
+        "anfach",
+        "änfach"
+    ],
+    "ANK": [
+        "eng",
+        "äng",
+        "iang",
+        "einig"
+    ],
+    "ANKL": [
+        "oncle",
+        "angle",
+        "engel"
+    ],
+    "ANKXT": [
+        "ängschte",
+        "angst"
+    ],
+    "ANKXTLT": [
+        "angstellt",
+        "angschtellt"
+    ],
+    "ANR": [
+        "äiner",
+        "in're",
+        "anhöre",
+        "einer",
+        "innere"
+    ],
+    "ANRXT": [
+        "unrecht",
+        "inrichte",
+        "innerschte"
+    ],
+    "ANS": [
+        "äins",
+        "ans",
+        "unse",
+        "unser",
+        "eins",
+        "ins"
+    ],
+    "ANSR": [
+        "unsre",
+        "unsrer",
+        "unser"
+    ],
+    "ANT": [
+        "and",
+        "unte",
+        "ender",
+        "unnötig",
+        "eint"
+    ],
+    "ANTR": [
+        "and're",
+        "ender",
+        "andrer",
+        "anderer",
+        "andre",
+        "anderen",
+        "andr",
+        "andere",
+        "unter"
+    ],
+    "ANTRR": [
+        "andrer",
+        "anderer"
+    ],
+    "ANTRS": [
+        "intresse",
+        "anders"
+    ],
+    "ANTRSR": [
+        "intressiere",
+        "interessiere",
+        "untersüech"
+    ],
+    "ANTRT": [
+        "andacht",
+        "ändert"
+    ],
+    "ANTRXT": [
+        "anderscht",
+        "unterscht",
+        "anderst"
+    ],
+    "ANTSK": [
+        "einzige",
+        "einzig"
+    ],
+    "ANTSY": [
+        "einzige",
+        "einziger"
+    ],
+    "ANTVRT": [
+        "antworte",
+        "antwort"
+    ],
+    "ANXLT": [
+        "unschuld",
+        "unschuldig"
+    ],
+    "ANXLTK": [
+        "unschuldig",
+        "unschuldige"
+    ],
+    "ANXTL": [
+        "anestelle",
+        "anstelle"
+    ],
+    "AP": [
+        "aba",
+        "eb",
+        "ebe",
+        "ebbe",
+        "ebber",
+        "ebä",
+        "ab",
+        "ebb"
+    ],
+    "APR": [
+        "ebber",
+        "eber"
+    ],
+    "APS": [
+        "ebbes",
+        "ebes"
+    ],
+    "AR": [
+        "ühre",
+        "eiri",
+        "äier",
+        "ühr",
+        "ar",
+        "ihre",
+        "irr",
+        "eier",
+        "ere",
+        "ira",
+        "ohren",
+        "iohr",
+        "ehr",
+        "ihr",
+        "er"
+    ],
+    "ARFR": [
+        "erfahr",
+        "erfahre"
+    ],
+    "ARKLR": [
+        "erkläre",
+        "erklär"
+    ],
+    "ARKNT": [
+        "erkennt",
+        "erkannt"
+    ],
+    "ARLXT": [
+        "erlöst",
+        "erlöest"
+    ],
+    "ARM": [
+        "eirem",
+        "arme",
+        "ärm",
+        "armee",
+        "ihrem",
+        "arm",
+        "aerm"
+    ],
+    "ARNXT": [
+        "arnscht",
+        "ernst"
+    ],
+    "ARS": [
+        "ers",
+        "erüß",
+        "eruß",
+        "ihrs",
+        "erüss"
+    ],
+    "ART": [
+        "erde",
+        "ort",
+        "ächter",
+        "achte",
+        "acht",
+        "art"
+    ],
+    "ARXT": [
+        "erste",
+        "erst",
+        "erster"
+    ],
+    "AS": [
+        "yes",
+        "ass",
+        "as",
+        "is",
+        "essen",
+        "ais",
+        "iss",
+        "eso",
+        "essig",
+        "asse",
+        "ise",
+        "üs",
+        "essi",
+        "esse"
+    ],
+    "ASHLT": [
+        "üshalte",
+        "aushalten"
+    ],
+    "ASV": [
+        "usw",
+        "üssiewe"
+    ],
+    "AT": [
+        "otto",
+        "adie",
+        "unte",
+        "oder",
+        "idee",
+        "ait",
+        "ett",
+        "unter",
+        "eid",
+        "eint"
+    ],
+    "ATL": [
+        "edler",
+        "edel",
+        "atelier",
+        "edli"
+    ],
+    "ATLR": [
+        "edler",
+        "atelier"
+    ],
+    "ATRNM": [
+        "unternehmen",
+        "unternumme"
+    ],
+    "ATRS": [
+        "adresse",
+        "intresse"
+    ],
+    "ATRSR": [
+        "intressiere",
+        "interessiere",
+        "untersüech"
+    ],
+    "ATVRT": [
+        "antworte",
+        "antwort"
+    ],
+    "ATXT": [
+        "entscheide",
+        "entschieden"
+    ],
+    "AV": [
+        "aba",
+        "ebe",
+        "iwer",
+        "eber",
+        "ewe",
+        "owe",
+        "aw",
+        "ebä",
+        "öwe",
+        "uewwer",
+        "ewig",
+        "ewag"
+    ],
+    "AVL": [
+        "iwel",
+        "üewel"
+    ],
+    "AVR": [
+        "awr",
+        "iwrig",
+        "üewri",
+        "uewwer",
+        "awer"
+    ],
+    "AVRHPT": [
+        "iwerhäupt",
+        "üewerhäupt"
+    ],
+    "AVRL": [
+        "üewerall",
+        "iwerall"
+    ],
+    "AX": [
+        "eijch",
+        "ichs",
+        "eich",
+        "esch",
+        "isch",
+        "ich"
+    ],
+    "AY": [
+        "auge",
+        "ujeh",
+        "ojeh",
+        "äje",
+        "eijo",
+        "awer"
+    ],
+    "AYR": [
+        "eijeri",
+        "ejere",
+        "eijere",
+        "ejeri"
+    ],
+    "F": [
+        "vo",
+        "vu",
+        "füer",
+        "ve",
+        "fier",
+        "fuer",
+        "feu",
+        "v.",
+        "vieh"
+    ],
+    "FF": [
+        "fifi",
+        "vif",
+        "füenf",
+        "fünfe"
+    ],
+    "FL": [
+        "fehl",
+        "fehler",
+        "fahler",
+        "fliej",
+        "floh"
+    ],
+    "FLK": [
+        "volk",
+        "folge",
+        "flicke"
+    ],
+    "FLM": [
+        "vollem",
+        "flamm",
+        "flamme"
+    ],
+    "FLR": [
+        "flüech",
+        "fehler",
+        "fahler",
+        "flüeche",
+        "flur"
+    ],
+    "FLS": [
+        "veuillez",
+        "falls",
+        "volls",
+        "filous",
+        "vieles"
+    ],
+    "FLT": [
+        "fald",
+        "folter",
+        "fahlt",
+        "fällt",
+        "viellieht",
+        "fählt"
+    ],
+    "FLTR": [
+        "folter",
+        "flattiere",
+        "flatteur"
+    ],
+    "FLX": [
+        "flasch",
+        "falsche",
+        "fallsch",
+        "fleisch"
+    ],
+    "FLXT": [
+        "viellicht",
+        "villicht"
+    ],
+    "FMS": [
+        "famose",
+        "famoser"
+    ],
+    "FN": [
+        "fahne",
+        "fini",
+        "fein",
+        "feine",
+        "fiener",
+        "fin"
+    ],
+    "FNF": [
+        "fünef",
+        "füenf",
+        "fünfe"
+    ],
+    "FNR": [
+        "fiener",
+        "vun-ere"
+    ],
+    "FNT": [
+        "feind",
+        "find"
+    ],
+    "FNXT": [
+        "fenster",
+        "finschter"
+    ],
+    "FNXTR": [
+        "fenster",
+        "finschter"
+    ],
+    "FR": [
+        "fir",
+        "firig",
+        "füer",
+        "fiehre",
+        "fräui",
+        "fr.",
+        "vieri",
+        "freie",
+        "fier",
+        "frei",
+        "fuer",
+        "fiehr",
+        "froi",
+        "fräu",
+        "fach",
+        "fruej",
+        "fröj",
+        "vor",
+        "ver",
+        "froh",
+        "fiere"
+    ],
+    "FRK": [
+        "firig",
+        "vorig",
+        "verrecke",
+        "frack",
+        "farce"
+    ],
+    "FRKFT": [
+        "vergift",
+        "vergifte"
+    ],
+    "FRKNK": [
+        "vorgange",
+        "vergange",
+        "vorgäng"
+    ],
+    "FRKS": [
+        "vergiss",
+        "vergasse",
+        "vergesse"
+    ],
+    "FRKT": [
+        "vorgeht",
+        "verrückt",
+        "vergeht"
+    ],
+    "FRL": [
+        "feierlich",
+        "frauele"
+    ],
+    "FRLNK": [
+        "verlange",
+        "verlang"
+    ],
+    "FRLPT": [
+        "verlabt",
+        "verlebt"
+    ],
+    "FRLR": [
+        "verliere",
+        "verlore"
+    ],
+    "FRLS": [
+        "verloss",
+        "verloß"
+    ],
+    "FRM": [
+        "vor-em",
+        "vorm",
+        "fermé"
+    ],
+    "FRN": [
+        "fran",
+        "vorne",
+        "vorn"
+    ],
+    "FRNK": [
+        "franke",
+        "franken"
+    ],
+    "FRNM": [
+        "vornahme",
+        "vorname"
+    ],
+    "FRNS": [
+        "françois",
+        "franz"
+    ],
+    "FRNT": [
+        "frind",
+        "friend"
+    ],
+    "FRNTSX": [
+        "franzesch",
+        "franzöesch",
+        "franzesche",
+        "franzescher"
+    ],
+    "FRP": [
+        "farb",
+        "verbei",
+        "vorbei"
+    ],
+    "FRPNT": [
+        "verbunde",
+        "verbinde"
+    ],
+    "FRPT": [
+        "verbote",
+        "verbiete",
+        "verbiet"
+    ],
+    "FRR": [
+        "vor-ere",
+        "fracher"
+    ],
+    "FRRT": [
+        "verachte",
+        "frucht"
+    ],
+    "FRS": [
+        "vorüs",
+        "frasse",
+        "verriss",
+        "füers",
+        "voraus",
+        "fürs"
+    ],
+    "FRSR": [
+        "frisiere",
+        "versüech",
+        "versüre"
+    ],
+    "FRSXR": [
+        "versichere",
+        "versicher"
+    ],
+    "FRT": [
+        "friede",
+        "freide",
+        "freid",
+        "forder",
+        "füerdi",
+        "verrot",
+        "fertig",
+        "fraide",
+        "fierdäj",
+        "frejt",
+        "fahrt",
+        "fräid",
+        "furt",
+        "freit",
+        "führt",
+        "fräit"
+    ],
+    "FRTK": [
+        "furtgeh",
+        "fertig"
+    ],
+    "FRTMT": [
+        "verdammte",
+        "verdammt"
+    ],
+    "FRTR": [
+        "verräter",
+        "forder",
+        "verdraa",
+        "vertröj"
+    ],
+    "FRTRPT": [
+        "verderbt",
+        "verdirbt",
+        "vertribt"
+    ],
+    "FRTRT": [
+        "verdacht",
+        "verdraat"
+    ],
+    "FRTRV": [
+        "verderwe",
+        "verdorwe"
+    ],
+    "FRTS": [
+        "verzeih",
+        "verzej",
+        "vierzeh"
+    ],
+    "FRTSL": [
+        "verzehle",
+        "verzähl",
+        "verzähle",
+        "verzehl"
+    ],
+    "FRTSLT": [
+        "verzehlt",
+        "verzählt"
+    ],
+    "FRVTX": [
+        "verwitsch",
+        "verwitsche"
+    ],
+    "FRX": [
+        "frische",
+        "fröjsch",
+        "frisch",
+        "frischer"
+    ],
+    "FRXN": [
+        "verschon",
+        "verschone"
+    ],
+    "FRXT": [
+        "versteh",
+        "fercht"
+    ],
+    "FRXTK": [
+        "verstecke",
+        "versteck"
+    ],
+    "FRXTKT": [
+        "versteckt",
+        "verstockte",
+        "verstickt"
+    ],
+    "FRXTL": [
+        "verstelle",
+        "verstohle",
+        "vorstelle"
+    ],
+    "FRXTNT": [
+        "verstünt",
+        "verstand",
+        "verstande"
+    ],
+    "FRY": [
+        "freije",
+        "fräje",
+        "freji",
+        "froje",
+        "fröje"
+    ],
+    "FS": [
+        "fues",
+        "füess"
+    ],
+    "FTKRF": [
+        "photographie",
+        "photograph"
+    ],
+    "FTL": [
+        "fatale",
+        "fauteuil"
+    ],
+    "FTR": [
+        "vatter",
+        "vater",
+        "vôtre"
+    ],
+    "FX": [
+        "fisch",
+        "fische"
+    ],
+    "FXT": [
+        "feschter",
+        "fichte",
+        "fast"
+    ],
+    "H": [
+        "hi",
+        "ha",
+        "hü",
+        "häi",
+        "he",
+        "höer",
+        "hei"
+    ],
+    "HF": [
+        "hof",
+        "hafe",
+        "hewe",
+        "hoffe"
+    ],
+    "HFT": [
+        "haft",
+        "hoffet",
+        "hoft"
+    ],
+    "HH": [
+        "höhe",
+        "hoher",
+        "hohi",
+        "hohen",
+        "hoho",
+        "hohe"
+    ],
+    "HHH": [
+        "hahaha",
+        "hähähä",
+        "hehehe"
+    ],
+    "HHR": [
+        "hoher",
+        "höheri"
+    ],
+    "HL": [
+        "hola",
+        "hall",
+        "heile",
+        "holla",
+        "haller",
+        "hiel",
+        "heil",
+        "hallo",
+        "helli",
+        "höll",
+        "hole"
+    ],
+    "HLFT": [
+        "hälfte",
+        "hilft"
+    ],
+    "HLNK": [
+        "halunk",
+        "hallunke"
+    ],
+    "HLP": [
+        "halbe",
+        "halb"
+    ],
+    "HLS": [
+        "hols",
+        "hals"
+    ],
+    "HLT": [
+        "held",
+        "hold",
+        "halt'",
+        "holder",
+        "halt"
+    ],
+    "HM": [
+        "häim",
+        "häime",
+        "heim",
+        "ham"
+    ],
+    "HN": [
+        "hein",
+        "hän",
+        "hahne",
+        "honig",
+        "hüehn",
+        "hann"
+    ],
+    "HNK": [
+        "hänke",
+        "henker",
+        "hunger",
+        "honig"
+    ],
+    "HNKR": [
+        "henker",
+        "hunger",
+        "hungrig"
+    ],
+    "HNT": [
+        "hinte",
+        "hunde",
+        "hand"
+    ],
+    "HNTRT": [
+        "hündert",
+        "hunderti"
+    ],
+    "HNTRTML": [
+        "hundertmol",
+        "hündertmol"
+    ],
+    "HNXT": [
+        "hinicht",
+        "hinnicht"
+    ],
+    "HP": [
+        "heb",
+        "häbbe",
+        "höpp"
+    ],
+    "HPM": [
+        "hab-em",
+        "hab-m"
+    ],
+    "HPT": [
+        "hebt",
+        "häupt"
+    ],
+    "HR": [
+        "höche",
+        "häre",
+        "har",
+        "häri",
+        "här",
+        "hurrah",
+        "harr",
+        "höere",
+        "hare",
+        "höer",
+        "herr",
+        "harre",
+        "heure"
+    ],
+    "HRLX": [
+        "herrlich",
+        "herrliche"
+    ],
+    "HRS": [
+        "harz",
+        "härz",
+        "heraus"
+    ],
+    "HRSFT": [
+        "harzhaft",
+        "härzhaft",
+        "herzhaft"
+    ],
+    "HRSKFRL": [
+        "harzkaferle",
+        "herzkäferle"
+    ],
+    "HRT": [
+        "herunter",
+        "harter",
+        "höert",
+        "hert",
+        "hard"
+    ],
+    "HRTH": [
+        "hiroth",
+        "hirothe"
+    ],
+    "HRTS": [
+        "harz",
+        "härz",
+        "härze"
+    ],
+    "HRX": [
+        "hersch",
+        "hirsch",
+        "hör'sch"
+    ],
+    "HRY": [
+        "harrjeh",
+        "herrje"
+    ],
+    "HS": [
+        "hass",
+        "häiss",
+        "hüse",
+        "heisser",
+        "hose",
+        "heiss",
+        "hüs",
+        "heisse",
+        "hause",
+        "hüssier",
+        "häisse",
+        "has"
+    ],
+    "HSLTL": [
+        "hosseloddel",
+        "hosselottel"
+    ],
+    "HSR": [
+        "heisser",
+        "hüssier"
+    ],
+    "HST": [
+        "häisst",
+        "heisst"
+    ],
+    "HT": [
+        "hiete",
+        "hat",
+        "häit",
+        "hit",
+        "heiter",
+        "hatt",
+        "hinten",
+        "hinte",
+        "hätt",
+        "hatte",
+        "hätt’",
+        "häut",
+        "hiet",
+        "hätt'",
+        "heut",
+        "hüet"
+    ],
+    "HTR": [
+        "heiter",
+        "hat’r",
+        "hätt'r",
+        "hauteur",
+        "hettr"
+    ],
+    "HTS": [
+        "hats",
+        "hets",
+        "hitz",
+        "hitze",
+        "hetts"
+    ],
+    "HV": [
+        "haw-ich",
+        "hewe",
+        "haw-i"
+    ],
+    "HX": [
+        "hasch",
+        "heisch"
+    ],
+    "HXT": [
+        "hecht",
+        "hischt",
+        "höchste"
+    ],
+    "K": [
+        "ka",
+        "ga",
+        "ke",
+        "gi",
+        "g'",
+        "go",
+        "geh",
+        "geh'"
+    ],
+    "KF": [
+        "chef",
+        "käfig",
+        "kuffer",
+        "koffer",
+        "käufe",
+        "kaffi",
+        "kaffe",
+        "kaffee"
+    ],
+    "KFLT": [
+        "g'fallt",
+        "g'fehlt"
+    ],
+    "KFN": [
+        "gewänn",
+        "gewann"
+    ],
+    "KFR": [
+        "kuffer",
+        "koffer",
+        "coiffeur",
+        "g’fähr"
+    ],
+    "KFRT": [
+        "g'fiehrt",
+        "gfröjt",
+        "gfreit"
+    ],
+    "KFST": [
+        "gewüesst",
+        "g'fasst"
+    ],
+    "KFT": [
+        "g'hofft",
+        "kunft"
+    ],
+    "KFTST": [
+        "g’fitzt",
+        "g’fitzter"
+    ],
+    "KHMNS": [
+        "geheimnis",
+        "geheimnisse"
+    ],
+    "KK": [
+        "gege",
+        "gücke"
+    ],
+    "KKK": [
+        "kückück",
+        "kuckuck"
+    ],
+    "KKT": [
+        "g’huckt",
+        "gückt"
+    ],
+    "KL": [
+        "gal",
+        "klei",
+        "gälle",
+        "galle",
+        "kaller",
+        "küehle",
+        "gehl",
+        "glich",
+        "gelle",
+        "kohle"
+    ],
+    "KLF": [
+        "gläuwe",
+        "gläuwi",
+        "g'holfe"
+    ],
+    "KLK": [
+        "glick",
+        "klage",
+        "klug"
+    ],
+    "KLKL": [
+        "glückli",
+        "glüeckli",
+        "glicklich"
+    ],
+    "KLMR": [
+        "colmer",
+        "calmiere"
+    ],
+    "KLN": [
+        "kläine",
+        "kleiner",
+        "kleine"
+    ],
+    "KLNK": [
+        "klinge",
+        "gelinge",
+        "kling"
+    ],
+    "KLNTR": [
+        "galanterie",
+        "kalender",
+        "galanter"
+    ],
+    "KLP": [
+        "gloib",
+        "gläuib",
+        "galopp",
+        "gläub"
+    ],
+    "KLPF": [
+        "klopf",
+        "klopfe"
+    ],
+    "KLPT": [
+        "gloibt",
+        "gelabt",
+        "gelobt",
+        "klappt",
+        "gelebt"
+    ],
+    "KLR": [
+        "kaller",
+        "klar",
+        "klare"
+    ],
+    "KLS": [
+        "geläse",
+        "classe",
+        "class",
+        "glaser",
+        "gleis",
+        "klasse",
+        "glas"
+    ],
+    "KLT": [
+        "galte",
+        "gald",
+        "gelajt",
+        "geläjt",
+        "kalte",
+        "kalt",
+        "g’holt",
+        "galanter",
+        "goldich",
+        "goldig",
+        "culotte",
+        "ghielt",
+        "glatte",
+        "kläider",
+        "klette",
+        "gholt",
+        "geld",
+        "kalti"
+    ],
+    "KLTR": [
+        "galanterie",
+        "kläider"
+    ],
+    "KLTX": [
+        "goldiche",
+        "goldich"
+    ],
+    "KLV": [
+        "klavier",
+        "gläuwe",
+        "gläuwi"
+    ],
+    "KLX": [
+        "gliche",
+        "glicher",
+        "glich"
+    ],
+    "KLXT": [
+        "glicht",
+        "gelöscht"
+    ],
+    "KLY": [
+        "klage",
+        "geläje",
+        "gelaje",
+        "gelöje"
+    ],
+    "KLYHT": [
+        "glegeheit",
+        "gelajehäit"
+    ],
+    "KM": [
+        "keim",
+        "käme",
+        "kummer",
+        "g’heime",
+        "kam",
+        "kum",
+        "küm",
+        "kumm"
+    ],
+    "KML": [
+        "gemahl",
+        "kamille"
+    ],
+    "KMPF": [
+        "kampf",
+        "kämpfe"
+    ],
+    "KMR": [
+        "kummer",
+        "kümmere"
+    ],
+    "KMRT": [
+        "gmacht",
+        "kamerade",
+        "kamerad"
+    ],
+    "KMSN": [
+        "kummissione",
+        "kummission"
+    ],
+    "KMT": [
+        "kummod",
+        "gemäint",
+        "kumt",
+        "kumedi",
+        "gemüt",
+        "komödie"
+    ],
+    "KN": [
+        "kanne",
+        "kino",
+        "knie",
+        "genüa",
+        "könig",
+        "gan",
+        "genuej",
+        "china",
+        "gann",
+        "keine",
+        "keiner",
+        "genüe",
+        "kene",
+        "genie",
+        "gahn",
+        "geh’n",
+        "gener",
+        "kenni",
+        "kenne",
+        "kenn",
+        "kain",
+        "genäu"
+    ],
+    "KNK": [
+        "gieng",
+        "gang",
+        "könig",
+        "ging",
+        "gange"
+    ],
+    "KNKRT": [
+        "changiert",
+        "concert"
+    ],
+    "KNR": [
+        "geniere",
+        "keiner",
+        "gener"
+    ],
+    "KNS": [
+        "kenns",
+        "gans",
+        "keins"
+    ],
+    "KNT": [
+        "kunnt",
+        "kunde",
+        "kannt",
+        "kennt",
+        "kennte",
+        "gunnt"
+    ],
+    "KNTS": [
+        "ganzer",
+        "ganze"
+    ],
+    "KNX": [
+        "kännsch",
+        "kansch",
+        "kennsch"
+    ],
+    "KNXT": [
+        "kunst",
+        "günschti",
+        "günschtig",
+        "knecht"
+    ],
+    "KP": [
+        "kaib",
+        "geb",
+        "gab",
+        "coupé",
+        "käib",
+        "gib"
+    ],
+    "KPF": [
+        "kupfer",
+        "kopf"
+    ],
+    "KR": [
+        "koch",
+        "gare",
+        "kehre",
+        "kehr",
+        "g'hör",
+        "kuchen",
+        "kür",
+        "grien",
+        "küeche",
+        "gar"
+    ],
+    "KRF": [
+        "gerüefe",
+        "greffier",
+        "corvée",
+        "griffe"
+    ],
+    "KRK": [
+        "kriegen",
+        "courage"
+    ],
+    "KRKTR": [
+        "karakter",
+        "charakter"
+    ],
+    "KRL": [
+        "küechle",
+        "küechel"
+    ],
+    "KRMPL": [
+        "grimpel",
+        "krambol"
+    ],
+    "KRN": [
+        "garn",
+        "grine",
+        "kuchen",
+        "grin",
+        "krone",
+        "grien",
+        "gern",
+        "gärn"
+    ],
+    "KRNK": [
+        "kranker",
+        "kranke"
+    ],
+    "KRNT": [
+        "grint",
+        "grand",
+        "gerannt"
+    ],
+    "KRNTS": [
+        "grenze",
+        "kränz",
+        "grandiose"
+    ],
+    "KRR": [
+        "kracher",
+        "kocherei",
+        "krach"
+    ],
+    "KRRT": [
+        "kuriert",
+        "geriehrt"
+    ],
+    "KRS": [
+        "kurios",
+        "grüess",
+        "grüesse",
+        "grösse",
+        "gries",
+        "grossen",
+        "grosse",
+        "grösser",
+        "gruess"
+    ],
+    "KRSR": [
+        "grössere",
+        "grösser"
+    ],
+    "KRST": [
+        "grösste",
+        "grössten"
+    ],
+    "KRT": [
+        "ghert",
+        "grint",
+        "g'hört",
+        "garantier",
+        "kehrt",
+        "g’höert",
+        "g’hert",
+        "gard",
+        "gered",
+        "ghirote",
+        "gradi",
+        "ghöert",
+        "garte",
+        "karte",
+        "grad",
+        "gerett"
+    ],
+    "KRTL": [
+        "gretele",
+        "gratulier"
+    ],
+    "KRTS": [
+        "kurze",
+        "gratis"
+    ],
+    "KRXT": [
+        "gröescht",
+        "chrischte",
+        "g’horicht",
+        "gerechte",
+        "grüst"
+    ],
+    "KS": [
+        "gasse",
+        "gas",
+        "g'heisse",
+        "kas",
+        "cas",
+        "chasse",
+        "g’esse",
+        "kaiser",
+        "käs"
+    ],
+    "KSL": [
+        "gselle",
+        "gässel",
+        "g’sell",
+        "gesellen"
+    ],
+    "KSN": [
+        "gsinn",
+        "gsähne"
+    ],
+    "KSNK": [
+        "g'sunge",
+        "g'sang",
+        "gesungen",
+        "gsunge",
+        "gsang"
+    ],
+    "KSNT": [
+        "g'sund",
+        "g’sund"
+    ],
+    "KSNTHT": [
+        "g'sundheit",
+        "gesundheit",
+        "gsündhäit"
+    ],
+    "KSS": [
+        "g'sesse",
+        "gsässe",
+        "g'sässe",
+        "g’sesse"
+    ],
+    "KST": [
+        "g'steh",
+        "g’säit",
+        "gsait",
+        "g’sait",
+        "gsäit",
+        "gseit"
+    ],
+    "KSTNT": [
+        "g'stande",
+        "g’stande"
+    ],
+    "KSTRST": [
+        "g'stürzt",
+        "g’stirzt"
+    ],
+    "KSTS": [
+        "g'setz",
+        "g'stosse",
+        "g’setz"
+    ],
+    "KSXT": [
+        "g'sicht",
+        "g’sicht",
+        "gesicht"
+    ],
+    "KT": [
+        "git",
+        "kat",
+        "güeter",
+        "güete",
+        "güet",
+        "kejt",
+        "kitt",
+        "kett",
+        "keit",
+        "coute",
+        "get",
+        "geht"
+    ],
+    "KTN": [
+        "gattin",
+        "gedoon"
+    ],
+    "KTNKT": [
+        "gedänkt",
+        "gedankt"
+    ],
+    "KTRF": [
+        "getroffe",
+        "getriewe"
+    ],
+    "KTRT": [
+        "gedacht",
+        "getreten",
+        "gedürt"
+    ],
+    "KVL": [
+        "quäle",
+        "qual",
+        "quale"
+    ],
+    "KVN": [
+        "gewänn",
+        "gewann"
+    ],
+    "KVT": [
+        "gebatt",
+        "gebieter",
+        "quitt"
+    ],
+    "KX": [
+        "geh’sch",
+        "gisch",
+        "gosch"
+    ],
+    "KXFT": [
+        "geschafft",
+        "gschafte"
+    ],
+    "KXKT": [
+        "g'schickt",
+        "g’schickt",
+        "gschickt"
+    ],
+    "KXLF": [
+        "g'schlofe",
+        "gschlofe"
+    ],
+    "KXPRR": [
+        "gesprochen",
+        "g'sproche",
+        "g’sproche"
+    ],
+    "KXPS": [
+        "g'spass",
+        "gschpass",
+        "g'schpass"
+    ],
+    "KXRF": [
+        "g'schriwe",
+        "gschriwe",
+        "geschriewe"
+    ],
+    "KXRV": [
+        "g'schriwe",
+        "gschriwe",
+        "geschriewe"
+    ],
+    "KXS": [
+        "g'schosse",
+        "gschosse"
+    ],
+    "KXT": [
+        "geischter",
+        "kaste",
+        "g'schieht",
+        "koste",
+        "gsteh",
+        "geist",
+        "geister",
+        "g'scheidt",
+        "c'est-ça",
+        "geischt",
+        "kischt",
+        "gäscht",
+        "gschejt",
+        "gschied"
+    ],
+    "KXTL": [
+        "gstohle",
+        "gschtell"
+    ],
+    "KXTR": [
+        "geischter",
+        "geister"
+    ],
+    "L": [
+        "lo",
+        "lie",
+        "läj",
+        "là",
+        "lej"
+    ],
+    "LF": [
+        "liewe",
+        "läufe",
+        "laufen",
+        "lewe"
+    ],
+    "LFR": [
+        "läwer",
+        "livre",
+        "liefere",
+        "liewer"
+    ],
+    "LFS": [
+        "liewes",
+        "läwes"
+    ],
+    "LK": [
+        "lege",
+        "lügen",
+        "lueg",
+        "luck"
+    ],
+    "LKR": [
+        "logiere",
+        "lager"
+    ],
+    "LKTN": [
+        "lektione",
+        "lectione",
+        "lektion"
+    ],
+    "LMP": [
+        "lamp",
+        "lampe",
+        "lumpe"
+    ],
+    "LN": [
+        "lehne",
+        "linie",
+        "lehn",
+        "lünne"
+    ],
+    "LNK": [
+        "langer",
+        "linke",
+        "länge",
+        "länger",
+        "lange"
+    ],
+    "LNKR": [
+        "langer",
+        "länger"
+    ],
+    "LNKXT": [
+        "längst",
+        "längscht",
+        "längschte"
+    ],
+    "LP": [
+        "lab",
+        "läb",
+        "lib"
+    ],
+    "LPFT": [
+        "lipft",
+        "lüpft"
+    ],
+    "LR": [
+        "lehrer",
+        "leere",
+        "lache",
+        "loch",
+        "laar",
+        "lehre"
+    ],
+    "LS": [
+        "lase",
+        "lisa",
+        "las",
+        "lies",
+        "loos",
+        "loss"
+    ],
+    "LT": [
+        "lide",
+        "ledig",
+        "lit",
+        "lüter",
+        "lieder",
+        "lade",
+        "lied",
+        "lüt",
+        "läid",
+        "leid",
+        "liter",
+        "latte"
+    ],
+    "LTR": [
+        "lüter",
+        "lieder",
+        "liter"
+    ],
+    "LTXT": [
+        "letschter",
+        "letschte"
+    ],
+    "LV": [
+        "läwer",
+        "liewe",
+        "lewe",
+        "liewer"
+    ],
+    "LVS": [
+        "liewes",
+        "läwes"
+    ],
+    "LX": [
+        "losch",
+        "lajsch",
+        "leisch"
+    ],
+    "LXT": [
+        "liecht",
+        "last",
+        "list",
+        "luschtig",
+        "lustig",
+        "luscht",
+        "lescht",
+        "lichter",
+        "läischte",
+        "liest",
+        "licht",
+        "lust"
+    ],
+    "LXTK": [
+        "luschtig",
+        "lustig",
+        "luschtigi"
+    ],
+    "LXTSNK": [
+        "lichtsinnig",
+        "lichtsinnige"
+    ],
+    "LXTY": [
+        "luschtiger",
+        "luschtigi"
+    ],
+    "LY": [
+        "lege",
+        "lager",
+        "läje"
+    ],
+    "M": [
+        "mien",
+        "me",
+        "mie",
+        "mag",
+        "mi",
+        "meier",
+        "m.",
+        "muen",
+        "mei",
+        "m'en",
+        "muej",
+        "meyer",
+        "mai",
+        "mich"
+    ],
+    "MK": [
+        "mag",
+        "macke",
+        "möge",
+        "make"
+    ],
+    "MKT": [
+        "magd",
+        "makt"
+    ],
+    "ML": [
+        "müll",
+        "moler",
+        "mejli",
+        "mäul",
+        "mel",
+        "mille",
+        "mole"
+    ],
+    "MLT": [
+        "melde",
+        "melodie"
+    ],
+    "MM": [
+        "mama",
+        "mam",
+        "mim"
+    ],
+    "MML": [
+        "mummel",
+        "mammele"
+    ],
+    "MMS": [
+        "mummes",
+        "mumes"
+    ],
+    "MN": [
+        "mien",
+        "manier",
+        "muen",
+        "mine",
+        "m'en",
+        "manich",
+        "mäin",
+        "manner"
+    ],
+    "MNK": [
+        "menage",
+        "mang",
+        "mange"
+    ],
+    "MNKR": [
+        "menagerie",
+        "ménagère"
+    ],
+    "MNR": [
+        "minre",
+        "manier",
+        "manner",
+        "maniere"
+    ],
+    "MNS": [
+        "minz",
+        "müenz"
+    ],
+    "MNT": [
+        "mahnt",
+        "mäint",
+        "monet",
+        "minüte",
+        "meint",
+        "minute",
+        "mund"
+    ],
+    "MNTS": [
+        "minz",
+        "müenz"
+    ],
+    "MNX": [
+        "mansch",
+        "mansche",
+        "mancher",
+        "manich",
+        "mönch",
+        "mensch",
+        "mäinsch"
+    ],
+    "MNYR": [
+        "menagerie",
+        "ménagère"
+    ],
+    "MR": [
+        "mr",
+        "mr.",
+        "mehr",
+        "moor",
+        "meier",
+        "mohre",
+        "müre",
+        "merçi",
+        "moche",
+        "maire",
+        "mairie",
+        "mach’",
+        "mär",
+        "mohr",
+        "mache",
+        "mir",
+        "meyer"
+    ],
+    "MRK": [
+        "merk",
+        "merke",
+        "märik"
+    ],
+    "MRS": [
+        "mers",
+        "marius"
+    ],
+    "MRT": [
+        "mörder",
+        "mérite",
+        "merder",
+        "macht",
+        "mort"
+    ],
+    "MRTR": [
+        "mörder",
+        "macht’r",
+        "merder"
+    ],
+    "MS": [
+        "mues",
+        "mües",
+        "müess",
+        "müs",
+        "messer",
+        "masse",
+        "mis",
+        "masser"
+    ],
+    "MSK": [
+        "müsik",
+        "musik"
+    ],
+    "MSL": [
+        "moiselle",
+        "massel",
+        "miesele"
+    ],
+    "MSR": [
+        "misere",
+        "messer",
+        "masser",
+        "misère"
+    ],
+    "MT": [
+        "munter",
+        "matter",
+        "mäint",
+        "mueter",
+        "meint",
+        "mode",
+        "métier",
+        "mäud",
+        "miede",
+        "mitt",
+        "mt",
+        "made"
+    ],
+    "MTL": [
+        "modell",
+        "maidele",
+        "mäidel",
+        "mäidle",
+        "mittle",
+        "mittel"
+    ],
+    "MTM": [
+        "mit-eme",
+        "mitm",
+        "mit’em",
+        "mit-em",
+        "madame",
+        "mit-m"
+    ],
+    "MTNM": [
+        "mitnamme",
+        "mitnämme"
+    ],
+    "MTNNT": [
+        "mitnander",
+        "mitenander"
+    ],
+    "MTNNTR": [
+        "mitnander",
+        "mitenander"
+    ],
+    "MTR": [
+        "matter",
+        "mueter",
+        "métier"
+    ],
+    "MX": [
+        "müesch",
+        "müehsch",
+        "mich"
+    ],
+    "MXT": [
+        "meister",
+        "möecht",
+        "meischter",
+        "m’est",
+        "mischt"
+    ],
+    "MXTR": [
+        "meister",
+        "meischtere",
+        "meischter"
+    ],
+    "MY": [
+        "mäuje",
+        "möge"
+    ],
+    "N": [
+        "nei",
+        "'n",
+        "nu",
+        "ni",
+        "nien",
+        "nen",
+        "ne",
+        "neij",
+        "ner",
+        "nüer",
+        "nie",
+        "no",
+        "-n-"
+    ],
+    "NF": [
+        "neveu",
+        "nuf"
+    ],
+    "NFR": [
+        "nüewer",
+        "niwer"
+    ],
+    "NKKT": [
+        "neüigkeit",
+        "neuigkeite",
+        "neüigkeite"
+    ],
+    "NL": [
+        "nauel",
+        "null"
+    ],
+    "NM": [
+        "nieme",
+        "nem",
+        "nimmer",
+        "name",
+        "nimi",
+        "nämm",
+        "nummen",
+        "nimm",
+        "nehme",
+        "nahme",
+        "nämme"
+    ],
+    "NMR": [
+        "nimmer",
+        "nummero",
+        "nümero"
+    ],
+    "NN": [
+        "niene",
+        "nine",
+        "nien",
+        "nen",
+        "nenne",
+        "nenn"
+    ],
+    "NNT": [
+        "nand",
+        "nunde",
+        "nander"
+    ],
+    "NR": [
+        "nr",
+        "narre",
+        "nere",
+        "nur",
+        "ner",
+        "nüer"
+    ],
+    "NS": [
+        "nase",
+        "nusse",
+        "nis",
+        "nüss",
+        "nuss"
+    ],
+    "NT": [
+        "note",
+        "nitt",
+        "natt",
+        "natti",
+        "nieder",
+        "not",
+        "nähter",
+        "nätt",
+        "nätti",
+        "nötig",
+        "net"
+    ],
+    "NTK": [
+        "nöetige",
+        "nötig"
+    ],
+    "NTR": [
+        "natür",
+        "nieder",
+        "nähter",
+        "notari"
+    ],
+    "NTS": [
+        "notiz",
+        "netz"
+    ],
+    "NV": [
+        "neveu",
+        "nüewer",
+        "niwer"
+    ],
+    "NYR": [
+        "neugierig",
+        "nähjere"
+    ],
+    "P": [
+        "bi",
+        "bah",
+        "bej",
+        "bo",
+        "bien"
+    ],
+    "PF": [
+        "pfui",
+        "büewe"
+    ],
+    "PFF": [
+        "pfiffe",
+        "pfaff"
+    ],
+    "PFL": [
+        "pfohl",
+        "pfluej",
+        "befehl"
+    ],
+    "PFNT": [
+        "befinde",
+        "pfünd"
+    ],
+    "PFR": [
+        "bewache",
+        "pfarrer"
+    ],
+    "PFRT": [
+        "bewacht",
+        "pferd"
+    ],
+    "PFT": [
+        "büffet",
+        "pfetter"
+    ],
+    "PK": [
+        "backe",
+        "bicke",
+        "buck"
+    ],
+    "PKLT": [
+        "begleite",
+        "begleit"
+    ],
+    "PKMT": [
+        "bekommt",
+        "bekumt"
+    ],
+    "PKRF": [
+        "begriffe",
+        "begriff"
+    ],
+    "PL": [
+        "billig",
+        "bleich",
+        "plöj"
+    ],
+    "PLK": [
+        "billig",
+        "polka",
+        "blick",
+        "blicke"
+    ],
+    "PLNT": [
+        "blinder",
+        "blonde",
+        "blind",
+        "blunde"
+    ],
+    "PLS": [
+        "palais",
+        "bloss",
+        "blose",
+        "bless"
+    ],
+    "PLSR": [
+        "pläsir",
+        "blessiere"
+    ],
+    "PLT": [
+        "blüet",
+        "plaît",
+        "b'halte",
+        "b'halt",
+        "pleite",
+        "bilder",
+        "blutt",
+        "belajt"
+    ],
+    "PLTS": [
+        "polizeij",
+        "platz",
+        "polizei"
+    ],
+    "PLV": [
+        "bliwe",
+        "pulver"
+    ],
+    "PLX": [
+        "bleich",
+        "bliesch",
+        "blisch"
+    ],
+    "PM": [
+        "baüm",
+        "bim",
+        "bumm",
+        "bäum",
+        "baum",
+        "poème"
+    ],
+    "PN": [
+        "beine",
+        "bühne",
+        "bien"
+    ],
+    "PNK": [
+        "bang",
+        "bank"
+    ],
+    "PNNT": [
+        "binander",
+        "bienander"
+    ],
+    "PNNTR": [
+        "binander",
+        "bienander"
+    ],
+    "PNT": [
+        "band",
+        "bunde",
+        "point",
+        "binde",
+        "bunt"
+    ],
+    "PNTL": [
+        "bändel",
+        "b’handle"
+    ],
+    "PP": [
+        "bubb",
+        "bäbb",
+        "papier"
+    ],
+    "PR": [
+        "büech",
+        "poche",
+        "brr",
+        "bureau",
+        "büre",
+        "bücher",
+        "büreau",
+        "buech",
+        "bür",
+        "bär"
+    ],
+    "PRF": [
+        "briefe",
+        "beruf",
+        "brief",
+        "brave"
+    ],
+    "PRFR": [
+        "browiere",
+        "braver",
+        "bräver"
+    ],
+    "PRL": [
+        "brille",
+        "büechel",
+        "bächle",
+        "bächel",
+        "briehle",
+        "parole"
+    ],
+    "PRM": [
+        "premier",
+        "prima"
+    ],
+    "PRML": [
+        "brummle",
+        "paarmol"
+    ],
+    "PRN": [
+        "brüne",
+        "büchon",
+        "brenne"
+    ],
+    "PRP": [
+        "prob",
+        "brobber"
+    ],
+    "PRPL": [
+        "parbleu",
+        "paraplui"
+    ],
+    "PRR": [
+        "brrr",
+        "broche",
+        "brüech",
+        "bücher",
+        "brüche",
+        "brüch"
+    ],
+    "PRRT": [
+        "brocht",
+        "bracht",
+        "pracht",
+        "brücht"
+    ],
+    "PRS": [
+        "bris",
+        "preisse",
+        "pris",
+        "preisen",
+        "près",
+        "pres",
+        "prise"
+    ],
+    "PRSN": [
+        "persone",
+        "person",
+        "preisen"
+    ],
+    "PRSNTR": [
+        "presentier",
+        "präsentiere"
+    ],
+    "PRST": [
+        "presentier",
+        "pressante",
+        "prosit"
+    ],
+    "PRT": [
+        "brüeder",
+        "breit",
+        "brieder",
+        "bereit",
+        "brote",
+        "breiter",
+        "brot",
+        "brett"
+    ],
+    "PRTK": [
+        "pratike",
+        "pratik"
+    ],
+    "PRTR": [
+        "brüeder",
+        "brieder",
+        "breiter",
+        "parterre"
+    ],
+    "PRV": [
+        "braver",
+        "bräver",
+        "brave"
+    ],
+    "PS": [
+        "pis",
+        "böes",
+        "böse",
+        "bes",
+        "biesse",
+        "baß",
+        "bös",
+        "pass",
+        "bis"
+    ],
+    "PSN": [
+        "b'sinne",
+        "bsinn"
+    ],
+    "PSR": [
+        "besserer",
+        "bsüech",
+        "passiere",
+        "bis’r",
+        "passieren",
+        "besüech",
+        "bsorri"
+    ],
+    "PSRS": [
+        "bessers",
+        "besseres"
+    ],
+    "PST": [
+        "pst",
+        "bisst"
+    ],
+    "PT": [
+        "beide",
+        "beidi",
+        "bat",
+        "bode",
+        "bete",
+        "peter",
+        "bade",
+        "beiden",
+        "point",
+        "butter",
+        "bett",
+        "bunt"
+    ],
+    "PTL": [
+        "bettler",
+        "bettle"
+    ],
+    "PTN": [
+        "bediene",
+        "beiden"
+    ],
+    "PTNK": [
+        "bedanke",
+        "bedänke"
+    ],
+    "PTR": [
+        "bedür",
+        "bedüre",
+        "peter",
+        "bitterer",
+        "butter"
+    ],
+    "PTRN": [
+        "patronne",
+        "patrone"
+    ],
+    "PTS": [
+        "putze",
+        "patissier"
+    ],
+    "PTSL": [
+        "bezahle",
+        "bezahl"
+    ],
+    "PTT": [
+        "beditt",
+        "bittet"
+    ],
+    "PVR": [
+        "babierer",
+        "bewache"
+    ],
+    "PX": [
+        "besch",
+        "bischen"
+    ],
+    "PXN": [
+        "büschon",
+        "bischen"
+    ],
+    "PXT": [
+        "beste",
+        "post",
+        "bichte",
+        "bscheid",
+        "poste",
+        "bischt",
+        "b’scheid",
+        "basta",
+        "bosheite",
+        "bscheide"
+    ],
+    "R": [
+        "rüeh",
+        "ra",
+        "ri",
+        "rer",
+        "rich",
+        "re",
+        "reh",
+        "ruej",
+        "r...",
+        "r'",
+        "roi"
+    ],
+    "RF": [
+        "rfüer",
+        "reif",
+        "rufe"
+    ],
+    "RH": [
+        "rüehig",
+        "rühig",
+        "ruhig"
+    ],
+    "RHK": [
+        "rüehig",
+        "rühig",
+        "ruhig"
+    ],
+    "RK": [
+        "ruck",
+        "reck"
+    ],
+    "RL": [
+        "rolle",
+        "royal"
+    ],
+    "RM": [
+        "rieme",
+        "rüme",
+        "rüm",
+        "rum",
+        "rom",
+        "rem"
+    ],
+    "RNK": [
+        "rung",
+        "ringe",
+        "ringen",
+        "rangier"
+    ],
+    "RNT": [
+        "rente",
+        "rand",
+        "rund"
+    ],
+    "RR": [
+        "rar",
+        "rer",
+        "rüch",
+        "räuche"
+    ],
+    "RRT": [
+        "rachte",
+        "racht",
+        "räucht"
+    ],
+    "RS": [
+        "rüss",
+        "rüess",
+        "reisen",
+        "reis'",
+        "risse"
+    ],
+    "RST": [
+        "rißt",
+        "risst"
+    ],
+    "RT": [
+        "rede",
+        "ritter",
+        "rente",
+        "rette",
+        "red",
+        "roter",
+        "runter",
+        "rueder",
+        "rot",
+        "ritt"
+    ],
+    "RTH": [
+        "rothe",
+        "roth"
+    ],
+    "RTR": [
+        "ritter",
+        "roter",
+        "rueder"
+    ],
+    "RTX": [
+        "redsch",
+        "rutsch"
+    ],
+    "RX": [
+        "richer",
+        "rich",
+        "riche",
+        "richi",
+        "rasch"
+    ],
+    "RXT": [
+        "rechter",
+        "rischte",
+        "reist",
+        "rest",
+        "richte",
+        "richt",
+        "rechte",
+        "richter",
+        "rascht",
+        "recht"
+    ],
+    "RXTR": [
+        "rechter",
+        "richter"
+    ],
+    "S": [
+        "säue",
+        "sag",
+        "z'",
+        "sah",
+        "söij",
+        "si",
+        "soi",
+        "sa",
+        "se",
+        "soo",
+        "sau",
+        "’s-",
+        "sen",
+        "sü",
+        "z’",
+        "sien",
+        "söj",
+        "'s",
+        "sieh",
+        "s’",
+        "saue",
+        "säj",
+        "sei"
+    ],
+    "SF": [
+        "süfer",
+        "sophie"
+    ],
+    "SFR": [
+        "süfere",
+        "süfer",
+        "süferer"
+    ],
+    "SFRT": [
+        "sauviert",
+        "sofort"
+    ],
+    "SK": [
+        "sage",
+        "sag",
+        "socke",
+        "sieg",
+        "sack",
+        "säck"
+    ],
+    "SL": [
+        "sal",
+        "saller",
+        "säll",
+        "selig",
+        "sali",
+        "seil",
+        "sall",
+        "salü",
+        "sol",
+        "sell",
+        "salle"
+    ],
+    "SLPXT": [
+        "salbscht",
+        "selbst"
+    ],
+    "SLX": [
+        "soll’sch",
+        "solcher",
+        "sellsch"
+    ],
+    "SM": [
+        "summe",
+        "sim",
+        "sam",
+        "summ",
+        "sümme"
+    ],
+    "SMT": [
+        "samt",
+        "sammet",
+        "sammt"
+    ],
+    "SN": [
+        "sunne",
+        "sähne",
+        "san",
+        "sahn",
+        "sen",
+        "sinn",
+        "sien",
+        "sine",
+        "sinne",
+        "siner"
+    ],
+    "SNK": [
+        "singen",
+        "singe",
+        "sing"
+    ],
+    "SNR": [
+        "sahn’r",
+        "siner"
+    ],
+    "SNT": [
+        "sünde",
+        "sünder",
+        "sand"
+    ],
+    "SNTR": [
+        "sünder",
+        "sondere"
+    ],
+    "SNTRPR": [
+        "sunderbar",
+        "sunderbari"
+    ],
+    "SPL": [
+        "sobol",
+        "soball"
+    ],
+    "SR": [
+        "süech",
+        "süeche",
+        "süre",
+        "soirée",
+        "sür",
+        "soeur",
+        "surre",
+        "sache"
+    ],
+    "SRT": [
+        "süecht",
+        "sorte",
+        "siert"
+    ],
+    "SRVR": [
+        "serwiere",
+        "serviere"
+    ],
+    "ST": [
+        "seht",
+        "sitter",
+        "sait",
+        "säit",
+        "seite",
+        "siede",
+        "suite",
+        "sieht",
+        "sott",
+        "sotte"
+    ],
+    "STS": [
+        "sitzen",
+        "setze",
+        "sodass"
+    ],
+    "STX": [
+        "setsch",
+        "sottsch"
+    ],
+    "SVL": [
+        "sobol",
+        "soball",
+        "soviel"
+    ],
+    "SX": [
+        "seisch",
+        "sisch",
+        "säisch",
+        "sicher"
+    ],
+    "SXR": [
+        "sicherer",
+        "sicher"
+    ],
+    "SY": [
+        "sage",
+        "seje"
+    ],
+    "T": [
+        "däuj",
+        "tag",
+        "düer",
+        "di",
+        "däij",
+        "tig",
+        "tüen",
+        "due",
+        "ter",
+        "da",
+        "d",
+        "dig",
+        "teuer",
+        "thier",
+        "dt",
+        "t",
+        "tau",
+        "tuer",
+        "tee",
+        "d'",
+        "do",
+        "düen"
+    ],
+    "TF": [
+        "tiefer",
+        "dowe",
+        "däuwi",
+        "daufe",
+        "defuer",
+        "tiefe"
+    ],
+    "TFKL": [
+        "difficil",
+        "difficile"
+    ],
+    "TFL": [
+        "teifel",
+        "teufel",
+        "dafel"
+    ],
+    "TFR": [
+        "tiefer",
+        "defuer",
+        "dauwer"
+    ],
+    "TK": [
+        "tag",
+        "tig",
+        "dicke",
+        "tage",
+        "dig",
+        "tigi",
+        "dicki"
+    ],
+    "TKT": [
+        "tact",
+        "docter",
+        "deckt",
+        "takt"
+    ],
+    "TKTR": [
+        "docter",
+        "decidiere"
+    ],
+    "TL": [
+        "theil",
+        "duell",
+        "deil",
+        "del",
+        "dele",
+        "teller"
+    ],
+    "TLT": [
+        "talent",
+        "delt"
+    ],
+    "TM": [
+        "dam",
+        "tum",
+        "dümmer",
+        "dame",
+        "dumm"
+    ],
+    "TMHT": [
+        "dummheite",
+        "dummhäit"
+    ],
+    "TMKPF": [
+        "dummkopf",
+        "dummköpf"
+    ],
+    "TN": [
+        "toni",
+        "dinn",
+        "doni",
+        "däne",
+        "dänn",
+        "tüen",
+        "dane",
+        "danne",
+        "tön",
+        "dene",
+        "diener",
+        "dann",
+        "ton",
+        "denn",
+        "düen"
+    ],
+    "TNK": [
+        "ding",
+        "denk'",
+        "danke",
+        "dank"
+    ],
+    "TNKT": [
+        "dankt",
+        "denkt"
+    ],
+    "TNR": [
+        "dinre",
+        "diener"
+    ],
+    "TNS": [
+        "tiens",
+        "tens",
+        "tanz"
+    ],
+    "TNT": [
+        "tante",
+        "dient"
+    ],
+    "TNXT": [
+        "dienst",
+        "dienschte"
+    ],
+    "TP": [
+        "dieb",
+        "däub",
+        "diebe"
+    ],
+    "TPL": [
+        "diable",
+        "tableau"
+    ],
+    "TPT": [
+        "toupet",
+        "daubheit",
+        "daubheite",
+        "tobt"
+    ],
+    "TR": [
+        "dr",
+        "düer",
+        "trag",
+        "treuer",
+        "dare",
+        "dach",
+        "dar",
+        "ter",
+        "treu",
+        "drey",
+        "teuer",
+        "thier",
+        "dirre",
+        "düech",
+        "toch",
+        "tuer",
+        "düre",
+        "drei",
+        "dür",
+        "doch",
+        "tür",
+        "türe",
+        "tröj"
+    ],
+    "TRF": [
+        "därf",
+        "driwe",
+        "druf",
+        "triff",
+        "dorf",
+        "troffe",
+        "derfe",
+        "driewe",
+        "därfe"
+    ],
+    "TRFR": [
+        "dervor",
+        "driwer",
+        "drüewer"
+    ],
+    "TRFT": [
+        "därft",
+        "druft"
+    ],
+    "TRK": [
+        "trag",
+        "drack",
+        "drucke"
+    ],
+    "TRKT": [
+        "druckt",
+        "drucket"
+    ],
+    "TRML": [
+        "drejmol",
+        "dreimol",
+        "dreimal"
+    ],
+    "TRMPR": [
+        "trumpiere",
+        "trumpier"
+    ],
+    "TRN": [
+        "derno",
+        "train",
+        "tournée",
+        "drin",
+        "trenne",
+        "turne",
+        "drno",
+        "drinn"
+    ],
+    "TRNK": [
+        "drink",
+        "trunke",
+        "derangier",
+        "drinke",
+        "trinken",
+        "trinke"
+    ],
+    "TRNKKLT": [
+        "trinkgelder",
+        "trinkgeld"
+    ],
+    "TRNKR": [
+        "derangier",
+        "derangiere"
+    ],
+    "TRP": [
+        "derbi",
+        "derbie",
+        "drbie",
+        "trieb",
+        "drbi"
+    ],
+    "TRR": [
+        "treuer",
+        "trürich"
+    ],
+    "TRS": [
+        "drüs",
+        "dirs",
+        "draussen"
+    ],
+    "TRT": [
+        "dert",
+        "dürt",
+        "trait",
+        "dritte",
+        "tochter",
+        "dirait",
+        "dreht",
+        "droit",
+        "dräjt"
+    ],
+    "TRTS": [
+        "derzüe",
+        "trutz"
+    ],
+    "TRV": [
+        "driwe",
+        "driwer",
+        "drüewer",
+        "drüben",
+        "driewe"
+    ],
+    "TRVR": [
+        "dervor",
+        "trawere"
+    ],
+    "TRXT": [
+        "troscht",
+        "tröste",
+        "trost",
+        "tröschte"
+    ],
+    "TS": [
+        "zieh",
+        "züer",
+        "das",
+        "züe",
+        "zei",
+        "zäj",
+        "zeye"
+    ],
+    "TSFL": [
+        "züefall",
+        "züviel"
+    ],
+    "TSK": [
+        "zeige",
+        "zugg"
+    ],
+    "TSKFT": [
+        "züekunft",
+        "zükunft"
+    ],
+    "TSKNFT": [
+        "züekunft",
+        "zükunft"
+    ],
+    "TSL": [
+        "zähl",
+        "zahle",
+        "zehl",
+        "zahl",
+        "zahlen",
+        "zähle",
+        "ziel"
+    ],
+    "TSLT": [
+        "zählt",
+        "zahlt",
+        "zehlt",
+        "zeläid"
+    ],
+    "TSM": [
+        "züem",
+        "zimmer",
+        "zim",
+        "zum"
+    ],
+    "TSN": [
+        "zehne",
+        "zahn"
+    ],
+    "TSRT": [
+        "zart",
+        "dessert"
+    ],
+    "TST": [
+        "zit",
+        "zieht",
+        "zäit"
+    ],
+    "TSVT": [
+        "zweiter",
+        "zweite",
+        "zwäite"
+    ],
+    "TSY": [
+        "zeige",
+        "zäije"
+    ],
+    "TT": [
+        "dat",
+        "tüet",
+        "dot",
+        "date",
+        "tat",
+        "dod",
+        "tête",
+        "tante",
+        "tot",
+        "dient"
+    ],
+    "TTS": [
+        "dezü",
+        "däts"
+    ],
+    "TTX": [
+        "datsch",
+        "deutsche"
+    ],
+    "TV": [
+        "dowe",
+        "diebe",
+        "däuwi",
+        "dauwer"
+    ],
+    "TX": [
+        "thüesch",
+        "duesch",
+        "tisch",
+        "dachs"
+    ],
+    "TXT": [
+        "desto",
+        "dichter"
+    ],
+    "TY": [
+        "tiger",
+        "tage",
+        "tigi"
+    ],
+    "V": [
+        "vo",
+        "wu",
+        "we",
+        "vu",
+        "ve",
+        "wa",
+        "wi",
+        "v.",
+        "wer",
+        "ver",
+        "vieh"
+    ],
+    "VFL": [
+        "wiwele",
+        "wieviel"
+    ],
+    "VK": [
+        "wege",
+        "weg",
+        "wagen",
+        "wecker"
+    ],
+    "VKS": [
+        "wichs",
+        "wachse"
+    ],
+    "VKST": [
+        "wichst",
+        "wachst"
+    ],
+    "VL": [
+        "wil",
+        "wohl",
+        "wille",
+        "wel",
+        "well",
+        "will",
+        "welle"
+    ],
+    "VLM": [
+        "vollem",
+        "wellem"
+    ],
+    "VLS": [
+        "volls",
+        "vieles",
+        "willes"
+    ],
+    "VLT": [
+        "walt",
+        "wilde",
+        "viellieht",
+        "walte",
+        "wilt",
+        "wild"
+    ],
+    "VLTS": [
+        "veuillez",
+        "wälze"
+    ],
+    "VLXT": [
+        "viellicht",
+        "villicht"
+    ],
+    "VM": [
+        "vom",
+        "wem",
+        "wammer"
+    ],
+    "VN": [
+        "wenig",
+        "wänn",
+        "wan",
+        "wann",
+        "win",
+        "wohn",
+        "'wenn",
+        "wie’n",
+        "wohne",
+        "wein"
+    ],
+    "VNK": [
+        "wenig",
+        "winke"
+    ],
+    "VNT": [
+        "wohnt",
+        "wanda",
+        "wande",
+        "wenden",
+        "wund",
+        "wunder",
+        "wind",
+        "wünder"
+    ],
+    "VNTR": [
+        "wund're",
+        "wunder",
+        "wünder"
+    ],
+    "VNTRFTSK": [
+        "wunderfitzig",
+        "wunderfitzige"
+    ],
+    "VNTRFTSY": [
+        "wunderfitzige",
+        "wunderfitziger"
+    ],
+    "VNX": [
+        "wünsche",
+        "wünsch",
+        "wohnsch",
+        "winsch"
+    ],
+    "VR": [
+        "wache",
+        "vorig",
+        "war",
+        "vieri",
+        "wahrer",
+        "wahre",
+        "woch",
+        "wuche",
+        "wohr",
+        "wore",
+        "vor",
+        "wer",
+        "ware"
+    ],
+    "VRKFT": [
+        "vergift",
+        "vergifte"
+    ],
+    "VRKNK": [
+        "vorgange",
+        "vergange",
+        "vorgäng"
+    ],
+    "VRKS": [
+        "vergiss",
+        "vergasse",
+        "vergesse"
+    ],
+    "VRKT": [
+        "vorgeht",
+        "verrückt",
+        "vergeht"
+    ],
+    "VRLNK": [
+        "verlange",
+        "verlang"
+    ],
+    "VRLPT": [
+        "verlabt",
+        "verlebt"
+    ],
+    "VRLR": [
+        "verliere",
+        "verlore"
+    ],
+    "VRLS": [
+        "verloss",
+        "verloß"
+    ],
+    "VRM": [
+        "warmer",
+        "vor-em",
+        "wärme",
+        "worum",
+        "warme",
+        "vorm"
+    ],
+    "VRMR": [
+        "warmer",
+        "vermehre"
+    ],
+    "VRN": [
+        "warne",
+        "vorne",
+        "warn",
+        "vorn"
+    ],
+    "VRNM": [
+        "vornahme",
+        "vorname"
+    ],
+    "VRP": [
+        "verbei",
+        "vorbei"
+    ],
+    "VRPNT": [
+        "verbunde",
+        "verbinde"
+    ],
+    "VRPT": [
+        "verbote",
+        "verbiete",
+        "verbiet"
+    ],
+    "VRR": [
+        "wahrer",
+        "vor-ere"
+    ],
+    "VRS": [
+        "vorüs",
+        "verriss",
+        "voraus"
+    ],
+    "VRSR": [
+        "versüech",
+        "versüre"
+    ],
+    "VRT": [
+        "verräter",
+        "wird",
+        "werde",
+        "wohret",
+        "verrot",
+        "worte",
+        "warte",
+        "word",
+        "wort"
+    ],
+    "VRTL": [
+        "viertel",
+        "wörtle"
+    ],
+    "VRTMT": [
+        "verdammte",
+        "verdammt"
+    ],
+    "VRTR": [
+        "verdraa",
+        "vertröj"
+    ],
+    "VRTRPT": [
+        "verderbt",
+        "verdirbt",
+        "vertribt"
+    ],
+    "VRTRT": [
+        "verdacht",
+        "verdraat"
+    ],
+    "VRTRV": [
+        "vertriwe",
+        "verderwe",
+        "verdorwe"
+    ],
+    "VRTS": [
+        "wirds",
+        "verzeih",
+        "verzej",
+        "vierzeh"
+    ],
+    "VRTSL": [
+        "verzehle",
+        "verzähl",
+        "verzähle",
+        "verzehl"
+    ],
+    "VRTSLT": [
+        "verzehlt",
+        "verzählt"
+    ],
+    "VRVNT": [
+        "verwandter",
+        "vorwand"
+    ],
+    "VRVTX": [
+        "verwitsch",
+        "verwitsche"
+    ],
+    "VRXN": [
+        "verschon",
+        "verschone"
+    ],
+    "VRXT": [
+        "würscht",
+        "versteh",
+        "wurscht"
+    ],
+    "VRXTK": [
+        "verstecke",
+        "versteck"
+    ],
+    "VRXTKT": [
+        "versteckt",
+        "verstockte",
+        "verstickt"
+    ],
+    "VRXTL": [
+        "verstelle",
+        "verstohle",
+        "vorstelle"
+    ],
+    "VRXTNT": [
+        "verstand",
+        "verstande"
+    ],
+    "VS": [
+        "wos",
+        "wees",
+        "weiss",
+        "wiss",
+        "wäjs",
+        "wäiss",
+        "wisse",
+        "waas",
+        "weis",
+        "wisser",
+        "was"
+    ],
+    "VSS": [
+        "wisses",
+        "was-es",
+        "wäiss-es",
+        "weiss-es"
+    ],
+    "VST": [
+        "visite",
+        "wüsst",
+        "wisst",
+        "wüesst"
+    ],
+    "VT": [
+        "wüet",
+        "wot",
+        "wieder",
+        "vatter",
+        "vot'",
+        "wüeti",
+        "vater",
+        "watter",
+        "weder",
+        "wit",
+        "wüete",
+        "wider",
+        "wotte",
+        "wade",
+        "wuet",
+        "wott",
+        "wette",
+        "wedder"
+    ],
+    "VTR": [
+        "wieder",
+        "watter",
+        "weder",
+        "wider",
+        "vôtre",
+        "wedder"
+    ],
+    "VTX": [
+        "wotsch",
+        "witsche",
+        "wottsch"
+    ],
+    "VVL": [
+        "wiwele",
+        "wieviel"
+    ],
+    "VX": [
+        "weiche",
+        "wichs",
+        "weisch",
+        "wachse"
+    ],
+    "VXT": [
+        "wiescht",
+        "wicht",
+        "wichst",
+        "wüste",
+        "wüescht",
+        "wüschte",
+        "wäscht",
+        "wichtig",
+        "wachst"
+    ],
+    "VYL": [
+        "vögel",
+        "vöjele"
+    ],
+    "X": [
+        "schüeh",
+        "schier",
+        "schöen"
+    ],
+    "XF": [
+        "chef",
+        "schiewe",
+        "schof",
+        "schief",
+        "schaffe"
+    ],
+    "XFT": [
+        "schuft",
+        "schafte"
+    ],
+    "XL": [
+        "schläj",
+        "schlag",
+        "schlaue",
+        "schüel",
+        "schloi",
+        "schül"
+    ],
+    "XLF": [
+        "schlofe",
+        "schlafen",
+        "schlof"
+    ],
+    "XLK": [
+        "schlage",
+        "schlag",
+        "schlucke"
+    ],
+    "XLP": [
+        "schleppe",
+        "schlepp"
+    ],
+    "XLPF": [
+        "schlupfe",
+        "schlupf"
+    ],
+    "XLRT": [
+        "schlachte",
+        "schlacht",
+        "schlachter",
+        "schlächt"
+    ],
+    "XLS": [
+        "schloss",
+        "schliess",
+        "schlossen"
+    ],
+    "XLSL": [
+        "schlüssel",
+        "schlissel",
+        "schlüessel"
+    ],
+    "XLT": [
+        "schuldig",
+        "schild",
+        "schuld",
+        "schalter"
+    ],
+    "XLTK": [
+        "schuldig",
+        "schuldige"
+    ],
+    "XLXT": [
+        "schlechte",
+        "schlechter"
+    ],
+    "XM": [
+        "scham",
+        "schmier",
+        "schüm"
+    ],
+    "XMKT": [
+        "schmekt",
+        "schmeckt"
+    ],
+    "XMR": [
+        "schmier",
+        "schmiere"
+    ],
+    "XMRTS": [
+        "schmerze",
+        "schmerz"
+    ],
+    "XMS": [
+        "schmüse",
+        "schmiss"
+    ],
+    "XMTS": [
+        "schmutze",
+        "schmutz",
+        "schmitz"
+    ],
+    "XN": [
+        "scheni",
+        "china",
+        "schone",
+        "schöne",
+        "schöene",
+        "schin",
+        "schneie",
+        "schön",
+        "schöener",
+        "schöen"
+    ],
+    "XNF": [
+        "schnüfe",
+        "schnüfer"
+    ],
+    "XNL": [
+        "schnall",
+        "schinheilig"
+    ],
+    "XNR": [
+        "schönere",
+        "schönerer",
+        "schöener"
+    ],
+    "XNS": [
+        "schönes",
+        "schöens"
+    ],
+    "XNT": [
+        "schint",
+        "schnider",
+        "schinde",
+        "schniede",
+        "schnied"
+    ],
+    "XNTRM": [
+        "schandarm",
+        "schandarme"
+    ],
+    "XNTS": [
+        "schnitz",
+        "schnitze"
+    ],
+    "XNXT": [
+        "schönste",
+        "schenschte"
+    ],
+    "XPL": [
+        "spiele",
+        "spiel"
+    ],
+    "XPN": [
+        "spanne",
+        "spinne"
+    ],
+    "XPR": [
+        "spür",
+        "sprich",
+        "sparre",
+        "spare",
+        "sperre"
+    ],
+    "XPRX": [
+        "sprich",
+        "sprech"
+    ],
+    "XPT": [
+        "spot",
+        "später",
+        "spott"
+    ],
+    "XR": [
+        "schier",
+        "scheere"
+    ],
+    "XRKT": [
+        "schreckt",
+        "charakter"
+    ],
+    "XRT": [
+        "schreit",
+        "schiert",
+        "schritt"
+    ],
+    "XS": [
+        "schiesse",
+        "chasse",
+        "schiese",
+        "schieß"
+    ],
+    "XT": [
+        "schint",
+        "schitte",
+        "steh",
+        "scht",
+        "schatte",
+        "schöide"
+    ],
+    "XTK": [
+        "steck",
+        "stüecker",
+        "stick",
+        "sticker",
+        "stock"
+    ],
+    "XTKL": [
+        "stüeckel",
+        "stüeckele"
+    ],
+    "XTKR": [
+        "stüecker",
+        "sticker"
+    ],
+    "XTL": [
+        "stil",
+        "stiller",
+        "stüehl",
+        "stall",
+        "still",
+        "schädel",
+        "stell",
+        "schittle",
+        "stel",
+        "stelle",
+        "stehle"
+    ],
+    "XTLTS": [
+        "stolzer",
+        "stolzi"
+    ],
+    "XTM": [
+        "stimme",
+        "stimm",
+        "stimmen"
+    ],
+    "XTN": [
+        "stein",
+        "stüne"
+    ],
+    "XTNT": [
+        "stande",
+        "stand",
+        "stund",
+        "stunde"
+    ],
+    "XTR": [
+        "störe",
+        "stöere",
+        "stören"
+    ],
+    "XTRK": [
+        "strick",
+        "stärker",
+        "stricke",
+        "stark",
+        "starker"
+    ],
+    "XTRKR": [
+        "stärker",
+        "starker"
+    ],
+    "XTRN": [
+        "stören",
+        "sterne"
+    ],
+    "XTRNK": [
+        "störung",
+        "streng"
+    ],
+    "XTRS": [
+        "strosse",
+        "strasse",
+        "stürz",
+        "stross"
+    ],
+    "XTRT": [
+        "streit",
+        "stört"
+    ],
+    "XTRV": [
+        "starwe",
+        "sterwe"
+    ],
+    "XTS": [
+        "stosse",
+        "schatz"
+    ],
+    "XTSL": [
+        "schätzel",
+        "schatzele"
+    ],
+    "XTT": [
+        "schadet",
+        "stejt"
+    ],
+    "XVM": [
+        "schwimme",
+        "schwimm"
+    ],
+    "XVNTL": [
+        "schwindlig",
+        "schwindler"
+    ],
+    "XVR": [
+        "schwur",
+        "schwache",
+        "schwör",
+        "schwar",
+        "schwöre",
+        "schwöere",
+        "schware",
+        "schweren",
+        "schwere",
+        "schwach"
+    ],
+    "XVRTS": [
+        "schwarze",
+        "schwarz"
+    ],
+    "XVXTR": [
+        "schwester",
+        "schweschtere"
+    ],
+    "Y": [
+        "ju",
+        "jaa",
+        "j",
+        "jah",
+        "jo"
+    ],
+    "YKNT": [
+        "jugend",
+        "jügend"
+    ],
+    "YL": [
+        "julie",
+        "jüli"
+    ],
+    "YMPFR": [
+        "jumpfere",
+        "jumpfer"
+    ],
+    "YMR": [
+        "jammer",
+        "jomere"
+    ],
+    "YNK": [
+        "junger",
+        "junge",
+        "jünger"
+    ],
+    "YNKR": [
+        "junger",
+        "jünger"
+    ],
+    "YR": [
+        "joch",
+        "johr",
+        "johre"
+    ],
+    "YT": [
+        "jeder",
+        "jedi"
+    ],
+    "YTS": [
+        "judas",
+        "jetz",
+        "jedes"
+    ],
+    "YYNT": [
+        "jugend",
+        "jügend"
+    ]
+}

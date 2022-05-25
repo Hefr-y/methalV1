@@ -1,0 +1,2564 @@
+{
+    "A": [
+        {
+            "_ a u _": "au"
+        },
+        {
+            "a a u e": "aaue"
+        },
+        {
+            "a u e _": "aue"
+        },
+        {
+            "i e u _": "ieu"
+        },
+        {
+            "_ a u e": "aue"
+        },
+        {
+            "e i j _": "eij"
+        },
+        {
+            "ö u j _": "öuj"
+        },
+        {
+            "e e n _": "een"
+        },
+        {
+            "_ i e r": "ier"
+        },
+        {
+            "ü e j _": "üej"
+        },
+        {
+            "_ o u i": "oui"
+        },
+        {
+            "o u i _": "oui"
+        }
+    ],
+    "AF": [
+        {
+            "_ u f f": "uff"
+        },
+        {
+            "u f f _": "uff"
+        },
+        {
+            "a w i _": "awi"
+        },
+        {
+            "_ u e w": "uew"
+        },
+        {
+            "u e w e": "uewe"
+        },
+        {
+            "a u f e": "aufe"
+        },
+        {
+            "a u w e": "auwe"
+        },
+        {
+            "e w a h": "ewah"
+        },
+        {
+            "e i n f": "einf"
+        },
+        {
+            "a u f _": "auf"
+        },
+        {
+            "o o f e": "oofe"
+        },
+        {
+            "_ ü w e": "üwe"
+        },
+        {
+            "e w i e": "ewie"
+        },
+        {
+            "_ a u f": "auf"
+        },
+        {
+            "_ i e w": "iew"
+        }
+    ],
+    "AFK": [
+        {
+            "a w i c": "awic"
+        },
+        {
+            "u f f g": "uffg"
+        }
+    ],
+    "AFL": [
+        {
+            "e w y l": "ewyl"
+        }
+    ],
+    "AFR": [
+        {
+            "ü w e r": "üwer"
+        }
+    ],
+    "AFS": [
+        {
+            "e w i ß": "ewiß"
+        },
+        {
+            "e w i s": "ewis"
+        },
+        {
+            "u f f s": "uffs"
+        }
+    ],
+    "AFT": [
+        {
+            "a u f t": "auft"
+        },
+        {
+            "a f t i": "afti"
+        }
+    ],
+    "AH": [
+        {
+            "e h e n": "ehen"
+        }
+    ],
+    "AK": [
+        {
+            "e c k _": "eck"
+        },
+        {
+            "_ e u c": "euc"
+        },
+        {
+            "i g i _": "igi"
+        }
+    ],
+    "AKS": [
+        {
+            "ä c h s": "ächs"
+        }
+    ],
+    "AKT": [
+        {
+            "a k t i": "akti"
+        }
+    ],
+    "AL": [
+        {
+            "_ e l l": "ell"
+        },
+        {
+            "ö l l e": "ölle"
+        },
+        {
+            "o o l _": "ool"
+        },
+        {
+            "ö j l i": "öjli"
+        },
+        {
+            "a l l i": "alli"
+        },
+        {
+            "e l l _": "ell"
+        },
+        {
+            "ü l l e": "ülle"
+        },
+        {
+            "e l e n": "elen"
+        }
+    ],
+    "ALN": [
+        {
+            "e l e n": "elen"
+        }
+    ],
+    "AM": [
+        {
+            "e m m e": "emme"
+        },
+        {
+            "o m m e": "omme"
+        },
+        {
+            "e m e i": "emei"
+        },
+        {
+            "e m m _": "emm"
+        },
+        {
+            "a a m _": "aam"
+        },
+        {
+            "_ a i m": "aim"
+        },
+        {
+            "u m m e": "umme"
+        },
+        {
+            "a m m e": "amme"
+        },
+        {
+            "u e m _": "uem"
+        },
+        {
+            "e m o o": "emoo"
+        }
+    ],
+    "AMK": [
+        {
+            "e m a c": "emac"
+        }
+    ],
+    "AML": [
+        {
+            "ä m l i": "ämli"
+        }
+    ],
+    "AMS": [
+        {
+            "e m e s": "emes"
+        },
+        {
+            "u m m s": "umms"
+        }
+    ],
+    "AMT": [
+        {
+            "u m m t": "ummt"
+        }
+    ],
+    "AN": [
+        {
+            "u n n _": "unn"
+        },
+        {
+            "ö n n e": "önne"
+        },
+        {
+            "_ a a n": "aan"
+        },
+        {
+            "e a n n": "eann"
+        },
+        {
+            "u e h n": "uehn"
+        },
+        {
+            "a a n _": "aan"
+        },
+        {
+            "e h n _": "ehn"
+        },
+        {
+            "i n i _": "ini"
+        },
+        {
+            "e n n e": "enne"
+        },
+        {
+            "_ a n n": "ann"
+        },
+        {
+            "a a n e": "aane"
+        },
+        {
+            "a n n e": "anne"
+        },
+        {
+            "ö e n n": "öenn"
+        },
+        {
+            "e a n _": "ean"
+        },
+        {
+            "y n i _": "yni"
+        },
+        {
+            "e e n _": "een"
+        },
+        {
+            "y n e r": "yner"
+        },
+        {
+            "i n e n": "inen"
+        },
+        {
+            "i n n e": "inne"
+        },
+        {
+            "o h n _": "ohn"
+        },
+        {
+            "y n e _": "yne"
+        },
+        {
+            "ü e h n": "üehn"
+        },
+        {
+            "e e n e": "eene"
+        },
+        {
+            "_ y n _": "yn"
+        },
+        {
+            "u n e _": "une"
+        }
+    ],
+    "ANF": [
+        {
+            "e i n f": "einf"
+        }
+    ],
+    "ANK": [
+        {
+            "e n k _": "enk"
+        },
+        {
+            "_ y n g": "yng"
+        }
+    ],
+    "ANN": [
+        {
+            "i n e n": "inen"
+        }
+    ],
+    "ANR": [
+        {
+            "y n e r": "yner"
+        }
+    ],
+    "ANS": [
+        {
+            "a n n s": "anns"
+        },
+        {
+            "a a n s": "aans"
+        }
+    ],
+    "ANT": [
+        {
+            "ö n n t": "önnt"
+        },
+        {
+            "ä n d i": "ändi"
+        },
+        {
+            "_ u n d": "und"
+        }
+    ],
+    "ANY": [
+        {
+            "o n j o": "onjo"
+        }
+    ],
+    "AP": [
+        {
+            "a u b _": "aub"
+        },
+        {
+            "a b b e": "abbe"
+        },
+        {
+            "a b b _": "abb"
+        },
+        {
+            "a p a _": "apa"
+        },
+        {
+            "a a b _": "aab"
+        },
+        {
+            "_ o b _": "ob"
+        }
+    ],
+    "APN": [
+        {
+            "a b e n": "aben"
+        }
+    ],
+    "APR": [
+        {
+            "ü b e r": "über"
+        },
+        {
+            "e b r o": "ebro"
+        }
+    ],
+    "APS": [
+        {
+            "e b b s": "ebbs"
+        },
+        {
+            "e b s _": "ebs"
+        }
+    ],
+    "APT": [
+        {
+            "a u p t": "aupt"
+        },
+        {
+            "u p t _": "upt"
+        }
+    ],
+    "AR": [
+        {
+            "o o c h": "ooch"
+        },
+        {
+            "u r r _": "urr"
+        },
+        {
+            "ä r e _": "äre"
+        },
+        {
+            "i h r i": "ihri"
+        },
+        {
+            "a r i g": "arig"
+        },
+        {
+            "_ e r u": "eru"
+        },
+        {
+            "o r r e": "orre"
+        },
+        {
+            "_ a r i": "ari"
+        },
+        {
+            "i e r o": "iero"
+        },
+        {
+            "u e c h": "uech"
+        },
+        {
+            "a a c h": "aach"
+        },
+        {
+            "_ e r ü": "erü"
+        },
+        {
+            "u c h _": "uch"
+        },
+        {
+            "o u r _": "our"
+        },
+        {
+            "e u c h": "euch"
+        },
+        {
+            "_ i e r": "ier"
+        },
+        {
+            "e r e n": "eren"
+        },
+        {
+            "e r i _": "eri"
+        },
+        {
+            "_ e j r": "ejr"
+        },
+        {
+            "e u r _": "eur"
+        },
+        {
+            "y r o o": "yroo"
+        }
+    ],
+    "ARK": [
+        {
+            "a r i g": "arig"
+        },
+        {
+            "e r e c": "erec"
+        },
+        {
+            "u r i c": "uric"
+        }
+    ],
+    "ARL": [
+        {
+            "i e r l": "ierl"
+        },
+        {
+            "e r l i": "erli"
+        }
+    ],
+    "ARM": [
+        {
+            "e r u m": "erum"
+        }
+    ],
+    "ARN": [
+        {
+            "e r e n": "eren"
+        }
+    ],
+    "ARS": [
+        {
+            "e r ü s": "erüs"
+        }
+    ],
+    "ART": [
+        {
+            "u r d _": "urd"
+        },
+        {
+            "e r o t": "erot"
+        },
+        {
+            "ä r d _": "ärd"
+        },
+        {
+            "e e r t": "eert"
+        },
+        {
+            "e r e d": "ered"
+        }
+    ],
+    "ARTL": [
+        {
+            "a r t l": "artl"
+        }
+    ],
+    "ARY": [
+        {
+            "o r j e": "orje"
+        },
+        {
+            "u r j e": "urje"
+        }
+    ],
+    "AS": [
+        {
+            "u e ß _": "ueß"
+        },
+        {
+            "e i ß _": "eiß"
+        },
+        {
+            "u e s s": "uess"
+        },
+        {
+            "a i s s": "aiss"
+        },
+        {
+            "_ u s _": "us"
+        },
+        {
+            "ü e ß _": "üeß"
+        }
+    ],
+    "ASK": [
+        {
+            "a a s c": "aasc"
+        }
+    ],
+    "ASN": [
+        {
+            "u s i n": "usin"
+        }
+    ],
+    "ASP": [
+        {
+            "o ß b u": "oßbu"
+        },
+        {
+            "u ß b i": "ußbi"
+        }
+    ],
+    "AST": [
+        {
+            "i ß t _": "ißt"
+        },
+        {
+            "o ß t _": "oßt"
+        },
+        {
+            "e ß t _": "eßt"
+        }
+    ],
+    "AT": [
+        {
+            "a a t _": "aat"
+        },
+        {
+            "y t t _": "ytt"
+        },
+        {
+            "u e t _": "uet"
+        },
+        {
+            "a d d e": "adde"
+        },
+        {
+            "o d d e": "odde"
+        },
+        {
+            "e d d e": "edde"
+        },
+        {
+            "i d d e": "idde"
+        },
+        {
+            "_ o d d": "odd"
+        },
+        {
+            "e d e n": "eden"
+        },
+        {
+            "a i d e": "aide"
+        },
+        {
+            "e d d _": "edd"
+        },
+        {
+            "o o t _": "oot"
+        },
+        {
+            "a i d _": "aid"
+        },
+        {
+            "e i j t": "eijt"
+        },
+        {
+            "i j t _": "ijt"
+        },
+        {
+            "ä t e _": "äte"
+        },
+        {
+            "y t t e": "ytte"
+        },
+        {
+            "e t t _": "ett"
+        },
+        {
+            "_ e t _": "et"
+        },
+        {
+            "o o d _": "ood"
+        },
+        {
+            "o o t e": "oote"
+        },
+        {
+            "u e t i": "ueti"
+        },
+        {
+            "e j t _": "ejt"
+        }
+    ],
+    "ATL": [
+        {
+            "i d e l": "idel"
+        }
+    ],
+    "ATN": [
+        {
+            "e d e n": "eden"
+        }
+    ],
+    "ATS": [
+        {
+            "o t t s": "otts"
+        }
+    ],
+    "ATST": [
+        {
+            "e t z t": "etzt"
+        }
+    ],
+    "AV": [
+        {
+            "i w w e": "iwwe"
+        },
+        {
+            "a w i _": "awi"
+        },
+        {
+            "e w w e": "ewwe"
+        },
+        {
+            "a a w e": "aawe"
+        },
+        {
+            "_ u e w": "uew"
+        },
+        {
+            "u e w e": "uewe"
+        },
+        {
+            "a w w e": "awwe"
+        },
+        {
+            "_ a w w": "aww"
+        },
+        {
+            "a u w e": "auwe"
+        },
+        {
+            "e w a h": "ewah"
+        },
+        {
+            "_ e w w": "eww"
+        },
+        {
+            "_ ü w e": "üwe"
+        },
+        {
+            "e w i e": "ewie"
+        },
+        {
+            "_ a w '": "aw'"
+        },
+        {
+            "_ i w w": "iww"
+        },
+        {
+            "ü b e r": "über"
+        },
+        {
+            "ü w e r": "üwer"
+        },
+        {
+            "_ i e w": "iew"
+        },
+        {
+            "a b e n": "aben"
+        }
+    ],
+    "AVK": [
+        {
+            "a w i c": "awic"
+        }
+    ],
+    "AVL": [
+        {
+            "e w y l": "ewyl"
+        }
+    ],
+    "AVR": [
+        {
+            "a w ' r": "aw'r"
+        }
+    ],
+    "AVS": [
+        {
+            "e w i ß": "ewiß"
+        },
+        {
+            "e w i s": "ewis"
+        }
+    ],
+    "AX": [
+        {
+            "y c h _": "ych"
+        },
+        {
+            "e s c h": "esch"
+        },
+        {
+            "ä c h s": "ächs"
+        }
+    ],
+    "AXP": [
+        {
+            "u e s b": "uesb"
+        }
+    ],
+    "AXT": [
+        {
+            "y c h t": "ycht"
+        },
+        {
+            "_ i s t": "ist"
+        },
+        {
+            "e s d a": "esda"
+        }
+    ],
+    "AY": [
+        {
+            "ö u j e": "öuje"
+        },
+        {
+            "a a w e": "aawe"
+        },
+        {
+            "e j e _": "eje"
+        },
+        {
+            "i j e _": "ije"
+        },
+        {
+            "e i j e": "eije"
+        },
+        {
+            "u j e _": "uje"
+        },
+        {
+            "ü j e _": "üje"
+        },
+        {
+            "ä j e _": "äje"
+        },
+        {
+            "ö ü j e": "öüje"
+        },
+        {
+            "e h j e": "ehje"
+        },
+        {
+            "i g i _": "igi"
+        },
+        {
+            "i e j e": "ieje"
+        }
+    ],
+    "AYL": [
+        {
+            "e j e l": "ejel"
+        }
+    ],
+    "AYN": [
+        {
+            "e h e n": "ehen"
+        }
+    ],
+    "F": [
+        {
+            "_ v e e": "vee"
+        },
+        {
+            "f ü e h": "füeh"
+        }
+    ],
+    "FK": [
+        {
+            "f f g e": "ffge"
+        }
+    ],
+    "FM": [
+        {
+            "v u m _": "vum"
+        },
+        {
+            "_ v u m": "vum"
+        }
+    ],
+    "FN": [
+        {
+            "v u n _": "vun"
+        },
+        {
+            "_ v u n": "vun"
+        },
+        {
+            "v o n _": "von"
+        },
+        {
+            "_ v o n": "von"
+        }
+    ],
+    "FR": [
+        {
+            "f o r _": "for"
+        },
+        {
+            "_ f o r": "for"
+        },
+        {
+            "f r a u": "frau"
+        },
+        {
+            "f u r _": "fur"
+        },
+        {
+            "f r ö u": "fröu"
+        },
+        {
+            "f r a i": "frai"
+        },
+        {
+            "_ v ' r": "v'r"
+        },
+        {
+            "_ f r ü": "frü"
+        },
+        {
+            "f r ö ü": "fröü"
+        },
+        {
+            "_ f r ö": "frö"
+        }
+    ],
+    "FRS": [
+        {
+            "v ' r s": "v'rs"
+        }
+    ],
+    "FT": [
+        {
+            "v a d d": "vadd"
+        },
+        {
+            "_ v a d": "vad"
+        }
+    ],
+    "H": [
+        {
+            "h e e n": "heen"
+        },
+        {
+            "_ h e n": "hen"
+        },
+        {
+            "_ h i e": "hie"
+        },
+        {
+            "_ h a a": "haa"
+        },
+        {
+            "h e n _": "hen"
+        },
+        {
+            "h e e r": "heer"
+        },
+        {
+            "_ h e e": "hee"
+        }
+    ],
+    "HF": [
+        {
+            "h a w i": "hawi"
+        },
+        {
+            "_ h a w": "haw"
+        }
+    ],
+    "HFT": [
+        {
+            "h ä f t": "häft"
+        }
+    ],
+    "HLF": [
+        {
+            "h e l f": "helf"
+        }
+    ],
+    "HMP": [
+        {
+            "h a m p": "hamp"
+        }
+    ],
+    "HN": [
+        {
+            "h u n _": "hun"
+        },
+        {
+            "h a n _": "han"
+        },
+        {
+            "h e e n": "heen"
+        },
+        {
+            "_ h e n": "hen"
+        },
+        {
+            "h e n n": "henn"
+        },
+        {
+            "h e n _": "hen"
+        },
+        {
+            "h e h n": "hehn"
+        }
+    ],
+    "HP": [
+        {
+            "_ h a b": "hab"
+        },
+        {
+            "h a b _": "hab"
+        },
+        {
+            "h a u p": "haup"
+        },
+        {
+            "h a b b": "habb"
+        }
+    ],
+    "HR": [
+        {
+            "h y r o": "hyro"
+        },
+        {
+            "h e r e": "here"
+        },
+        {
+            "_ h y r": "hyr"
+        },
+        {
+            "h e e r": "heer"
+        }
+    ],
+    "HRS": [
+        {
+            "h e r z": "herz"
+        }
+    ],
+    "HRTS": [
+        {
+            "h e r z": "herz"
+        }
+    ],
+    "HS": [
+        {
+            "_ h e s": "hes"
+        },
+        {
+            "h e i ß": "heiß"
+        }
+    ],
+    "HSK": [
+        {
+            "h e s c": "hesc"
+        }
+    ],
+    "HT": [
+        {
+            "_ h e t": "het"
+        },
+        {
+            "h e t _": "het"
+        },
+        {
+            "_ h y t": "hyt"
+        },
+        {
+            "h y t t": "hytt"
+        },
+        {
+            "h ä t _": "hät"
+        },
+        {
+            "h e t t": "hett"
+        },
+        {
+            "h y t _": "hyt"
+        },
+        {
+            "h u e t": "huet"
+        },
+        {
+            "h ä d d": "hädd"
+        }
+    ],
+    "HV": [
+        {
+            "h a w i": "hawi"
+        },
+        {
+            "_ h a w": "haw"
+        }
+    ],
+    "K": [
+        {
+            "k e n _": "ken"
+        },
+        {
+            "_ g u e": "gue"
+        },
+        {
+            "c h e e": "chee"
+        },
+        {
+            "k ö e n": "köen"
+        },
+        {
+            "g e n _": "gen"
+        },
+        {
+            "c h e h": "cheh"
+        },
+        {
+            "_ k ö e": "köe"
+        },
+        {
+            "h k e i": "hkei"
+        },
+        {
+            "_ g e r": "ger"
+        }
+    ],
+    "KF": [
+        {
+            "_ g e w": "gew"
+        },
+        {
+            "g e w i": "gewi"
+        },
+        {
+            "c h ä f": "chäf"
+        },
+        {
+            "k a u f": "kauf"
+        },
+        {
+            "g e w ö": "gewö"
+        },
+        {
+            "_ g e f": "gef"
+        }
+    ],
+    "KK": [
+        {
+            "c h k e": "chke"
+        }
+    ],
+    "KL": [
+        {
+            "g e l e": "gele"
+        },
+        {
+            "g l a u": "glau"
+        },
+        {
+            "_ g l ü": "glü"
+        },
+        {
+            "g e l l": "gell"
+        },
+        {
+            "g l a a": "glaa"
+        },
+        {
+            "_ g e l": "gel"
+        },
+        {
+            "_ g l y": "gly"
+        },
+        {
+            "k l a a": "klaa"
+        }
+    ],
+    "KLK": [
+        {
+            "k l i c": "klic"
+        },
+        {
+            "g l ü c": "glüc"
+        },
+        {
+            "g l y c": "glyc"
+        }
+    ],
+    "KLT": [
+        {
+            "g e l t": "gelt"
+        }
+    ],
+    "KM": [
+        {
+            "_ g e m": "gem"
+        },
+        {
+            "g e m a": "gema"
+        },
+        {
+            "g e m e": "geme"
+        },
+        {
+            "k o m m": "komm"
+        },
+        {
+            "_ k o m": "kom"
+        },
+        {
+            "k u m m": "kumm"
+        }
+    ],
+    "KN": [
+        {
+            "k e n _": "ken"
+        },
+        {
+            "k ö n n": "könn"
+        },
+        {
+            "c h u n": "chun"
+        },
+        {
+            "_ k ö n": "kön"
+        },
+        {
+            "_ k a n": "kan"
+        },
+        {
+            "k a n n": "kann"
+        },
+        {
+            "g e n n": "genn"
+        },
+        {
+            "g ä n _": "gän"
+        },
+        {
+            "k ö e n": "köen"
+        },
+        {
+            "g e h n": "gehn"
+        },
+        {
+            "g e n _": "gen"
+        },
+        {
+            "_ g ä n": "gän"
+        },
+        {
+            "g e n u": "genu"
+        }
+    ],
+    "KP": [
+        {
+            "_ g e b": "geb"
+        }
+    ],
+    "KPR": [
+        {
+            "g e b r": "gebr"
+        }
+    ],
+    "KR": [
+        {
+            "k r e i": "krei"
+        },
+        {
+            "_ k r e": "kre"
+        },
+        {
+            "_ g e r": "ger"
+        }
+    ],
+    "KRS": [
+        {
+            "g r o ß": "groß"
+        }
+    ],
+    "KS": [
+        {
+            "g s a a": "gsaa"
+        },
+        {
+            "g s e h": "gseh"
+        },
+        {
+            "g ' s a": "g'sa"
+        },
+        {
+            "_ g s e": "gse"
+        }
+    ],
+    "KSK": [
+        {
+            "_ g s c": "gsc"
+        }
+    ],
+    "KSN": [
+        {
+            "g s i n": "gsin"
+        }
+    ],
+    "KT": [
+        {
+            "g u e t": "guet"
+        },
+        {
+            "g e d e": "gede"
+        },
+        {
+            "_ g o t": "got"
+        },
+        {
+            "g o t t": "gott"
+        },
+        {
+            "g i t t": "gitt"
+        },
+        {
+            "g h e t": "ghet"
+        },
+        {
+            "_ g e d": "ged"
+        },
+        {
+            "c h d e": "chde"
+        },
+        {
+            "k t e r": "kter"
+        }
+    ],
+    "KTR": [
+        {
+            "k t e r": "kter"
+        }
+    ],
+    "KV": [
+        {
+            "_ g e w": "gew"
+        },
+        {
+            "g e w i": "gewi"
+        },
+        {
+            "_ q u e": "que"
+        },
+        {
+            "g e w ö": "gewö"
+        }
+    ],
+    "KY": [
+        {
+            "g e j e": "geje"
+        }
+    ],
+    "L": [
+        {
+            "h l a a": "hlaa"
+        },
+        {
+            "h l o o": "hloo"
+        },
+        {
+            "l e i j": "leij"
+        },
+        {
+            "l a a u": "laau"
+        },
+        {
+            "l l i _": "lli"
+        },
+        {
+            "l ü e j": "lüej"
+        },
+        {
+            "_ l a u": "lau"
+        },
+        {
+            "l ö u j": "löuj"
+        },
+        {
+            "l e n _": "len"
+        }
+    ],
+    "LF": [
+        {
+            "l e w y": "lewy"
+        },
+        {
+            "l a u f": "lauf"
+        },
+        {
+            "l o o f": "loof"
+        },
+        {
+            "l a u w": "lauw"
+        }
+    ],
+    "LK": [
+        {
+            "l ü c k": "lück"
+        }
+    ],
+    "LN": [
+        {
+            "_ l o n": "lon"
+        },
+        {
+            "l o n _": "lon"
+        },
+        {
+            "l a a n": "laan"
+        },
+        {
+            "l e n _": "len"
+        },
+        {
+            "l e i n": "lein"
+        }
+    ],
+    "LP": [
+        {
+            "l a u b": "laub"
+        },
+        {
+            "l a a b": "laab"
+        }
+    ],
+    "LS": [
+        {
+            "_ l o ß": "loß"
+        },
+        {
+            "l o ß _": "loß"
+        }
+    ],
+    "LST": [
+        {
+            "l o ß t": "loßt"
+        }
+    ],
+    "LT": [
+        {
+            "_ l y t": "lyt"
+        },
+        {
+            "l y t t": "lytt"
+        },
+        {
+            "l y t _": "lyt"
+        },
+        {
+            "l u e t": "luet"
+        }
+    ],
+    "LV": [
+        {
+            "l e w y": "lewy"
+        },
+        {
+            "l a u w": "lauw"
+        }
+    ],
+    "LX": [
+        {
+            "l y c h": "lych"
+        }
+    ],
+    "M": [
+        {
+            "_ m u e": "mue"
+        },
+        {
+            "_ m a a": "maa"
+        },
+        {
+            "m m i _": "mmi"
+        },
+        {
+            "m u e h": "mueh"
+        },
+        {
+            "_ ' m _": "'m"
+        },
+        {
+            "_ m ö j": "möj"
+        },
+        {
+            "m e n _": "men"
+        },
+        {
+            "_ m a i": "mai"
+        },
+        {
+            "_ m e e": "mee"
+        }
+    ],
+    "ML": [
+        {
+            "m o o l": "mool"
+        },
+        {
+            "m ö j l": "möjl"
+        }
+    ],
+    "MLK": [
+        {
+            "m l i c": "mlic"
+        }
+    ],
+    "MN": [
+        {
+            "m i n _": "min"
+        },
+        {
+            "_ m y n": "myn"
+        },
+        {
+            "m y n _": "myn"
+        },
+        {
+            "m i n i": "mini"
+        },
+        {
+            "m o n _": "mon"
+        },
+        {
+            "_ m ä n": "män"
+        },
+        {
+            "m a a n": "maan"
+        },
+        {
+            "m e n _": "men"
+        },
+        {
+            "m y n e": "myne"
+        },
+        {
+            "m y n i": "myni"
+        },
+        {
+            "m ä n n": "männ"
+        }
+    ],
+    "MNT": [
+        {
+            "m a n d": "mand"
+        }
+    ],
+    "MPT": [
+        {
+            "m p e t": "mpet"
+        }
+    ],
+    "MR": [
+        {
+            "m ’ r _": "m’r"
+        },
+        {
+            "m ' r _": "m'r"
+        },
+        {
+            "_ m ' r": "m'r"
+        },
+        {
+            "_ m ’ r": "m’r"
+        },
+        {
+            "m e r r": "merr"
+        }
+    ],
+    "MS": [
+        {
+            "m u e ß": "mueß"
+        },
+        {
+            "m a i s": "mais"
+        },
+        {
+            "m u e s": "mues"
+        },
+        {
+            "m e s _": "mes"
+        },
+        {
+            "m ü e ß": "müeß"
+        }
+    ],
+    "MT": [
+        {
+            "m m t _": "mmt"
+        },
+        {
+            "m a i d": "maid"
+        },
+        {
+            "_ m a d": "mad"
+        }
+    ],
+    "N": [
+        {
+            "_ n o o": "noo"
+        },
+        {
+            "n e n _": "nen"
+        },
+        {
+            "n u e _": "nue"
+        },
+        {
+            "_ n e e": "nee"
+        },
+        {
+            "' n e _": "'ne"
+        },
+        {
+            "_ ' n e": "'ne"
+        },
+        {
+            "’ n e _": "’ne"
+        },
+        {
+            "n e e _": "nee"
+        },
+        {
+            "n o h _": "noh"
+        },
+        {
+            "_ n a _": "na"
+        },
+        {
+            "_ ’ n e": "’ne"
+        },
+        {
+            "n i c h": "nich"
+        },
+        {
+            "_ n a a": "naa"
+        },
+        {
+            "_ n ' _": "n'"
+        }
+    ],
+    "NK": [
+        {
+            "n o o c": "nooc"
+        },
+        {
+            "_ n i c": "nic"
+        },
+        {
+            "n g e n": "ngen"
+        }
+    ],
+    "NKL": [
+        {
+            "n k e l": "nkel"
+        }
+    ],
+    "NKN": [
+        {
+            "n g e n": "ngen"
+        }
+    ],
+    "NKS": [
+        {
+            "_ n i x": "nix"
+        },
+        {
+            "n i x _": "nix"
+        }
+    ],
+    "NM": [
+        {
+            "n e m m": "nemm"
+        },
+        {
+            "_ n e m": "nem"
+        },
+        {
+            "_ n u m": "num"
+        },
+        {
+            "_ n ä m": "näm"
+        },
+        {
+            "n u m m": "numm"
+        }
+    ],
+    "NML": [
+        {
+            "n ä m l": "näml"
+        }
+    ],
+    "NN": [
+        {
+            "n e i n": "nein"
+        },
+        {
+            "n e n _": "nen"
+        },
+        {
+            "_ n y n": "nyn"
+        },
+        {
+            "n y n _": "nyn"
+        }
+    ],
+    "NR": [
+        {
+            "n ' r _": "n'r"
+        },
+        {
+            "n e r e": "nere"
+        }
+    ],
+    "NS": [
+        {
+            "n ü s _": "nüs"
+        },
+        {
+            "_ n u ß": "nuß"
+        }
+    ],
+    "NSP": [
+        {
+            "n u ß b": "nußb"
+        }
+    ],
+    "NT": [
+        {
+            "n a d i": "nadi"
+        },
+        {
+            "_ n a d": "nad"
+        },
+        {
+            "n e t t": "nett"
+        },
+        {
+            "n t e n": "nten"
+        },
+        {
+            "n d e n": "nden"
+        }
+    ],
+    "NTN": [
+        {
+            "n t e n": "nten"
+        },
+        {
+            "n d e n": "nden"
+        }
+    ],
+    "NX": [
+        {
+            "n i c h": "nich"
+        }
+    ],
+    "NY": [
+        {
+            "n j o u": "njou"
+        }
+    ],
+    "P": [
+        {
+            "_ b y _": "by"
+        },
+        {
+            "b e n _": "ben"
+        },
+        {
+            "b i e _": "bie"
+        }
+    ],
+    "PL": [
+        {
+            "b l i e": "blie"
+        },
+        {
+            "b l u e": "blue"
+        },
+        {
+            "_ b l u": "blu"
+        },
+        {
+            "b a l _": "bal"
+        }
+    ],
+    "PN": [
+        {
+            "b e n _": "ben"
+        },
+        {
+            "_ b o n": "bon"
+        }
+    ],
+    "PNY": [
+        {
+            "b o n j": "bonj"
+        }
+    ],
+    "PP": [
+        {
+            "b a b b": "babb"
+        },
+        {
+            "_ b a b": "bab"
+        },
+        {
+            "p a p a": "papa"
+        }
+    ],
+    "PR": [
+        {
+            "b r o o": "broo"
+        }
+    ],
+    "PRM": [
+        {
+            "p e r m": "perm"
+        }
+    ],
+    "PRY": [
+        {
+            "b u r j": "burj"
+        }
+    ],
+    "PS": [
+        {
+            "b b s _": "bbs"
+        },
+        {
+            "b i s s": "biss"
+        }
+    ],
+    "PT": [
+        {
+            "p o o t": "poot"
+        }
+    ],
+    "R": [
+        {
+            "r a u _": "rau"
+        },
+        {
+            "r ö u j": "röuj"
+        },
+        {
+            "_ ' r _": "'r"
+        },
+        {
+            "h r i _": "hri"
+        },
+        {
+            "_ ’ r _": "’r"
+        },
+        {
+            "r e n _": "ren"
+        },
+        {
+            "r e i j": "reij"
+        },
+        {
+            "r ö ü j": "röüj"
+        },
+        {
+            "r i e j": "riej"
+        },
+        {
+            "r a a u": "raau"
+        },
+        {
+            "r a u e": "raue"
+        },
+        {
+            "r h a u": "rhau"
+        }
+    ],
+    "RF": [
+        {
+            "_ r v u": "rvu"
+        },
+        {
+            "r u f f": "ruff"
+        }
+    ],
+    "RFN": [
+        {
+            "r v u n": "rvun"
+        }
+    ],
+    "RFR": [
+        {
+            "r f o r": "rfor"
+        }
+    ],
+    "RK": [
+        {
+            "r o o c": "rooc"
+        }
+    ],
+    "RL": [
+        {
+            "r l a u": "rlau"
+        }
+    ],
+    "RLK": [
+        {
+            "r l i c": "rlic"
+        }
+    ],
+    "RN": [
+        {
+            "_ r n o": "rno"
+        },
+        {
+            "r e n _": "ren"
+        },
+        {
+            "r n o o": "rnoo"
+        }
+    ],
+    "RR": [
+        {
+            "r ä c h": "räch"
+        }
+    ],
+    "RS": [
+        {
+            "r o ß _": "roß"
+        },
+        {
+            "r o ß e": "roße"
+        }
+    ],
+    "RSP": [
+        {
+            "r o ß b": "roßb"
+        }
+    ],
+    "RT": [
+        {
+            "r e d d": "redd"
+        },
+        {
+            "r o o t": "root"
+        },
+        {
+            "r a i d": "raid"
+        },
+        {
+            "r d e n": "rden"
+        }
+    ],
+    "RTN": [
+        {
+            "r d e n": "rden"
+        }
+    ],
+    "RTS": [
+        {
+            "r z u e": "rzue"
+        },
+        {
+            "_ r z u": "rzu"
+        }
+    ],
+    "RV": [
+        {
+            "r i w w": "riww"
+        },
+        {
+            "_ r v u": "rvu"
+        }
+    ],
+    "RVN": [
+        {
+            "r v u n": "rvun"
+        }
+    ],
+    "RY": [
+        {
+            "r j e _": "rje"
+        },
+        {
+            "r j e r": "rjer"
+        }
+    ],
+    "RYR": [
+        {
+            "r j e r": "rjer"
+        }
+    ],
+    "S": [
+        {
+            "_ s a a": "saa"
+        },
+        {
+            "s a a _": "saa"
+        },
+        {
+            "s a a u": "saau"
+        },
+        {
+            "_ s e h": "seh"
+        },
+        {
+            "’ s a a": "’saa"
+        },
+        {
+            "' s a a": "'saa"
+        },
+        {
+            "_ ’ s _": "’s"
+        },
+        {
+            "_ s u e": "sue"
+        }
+    ],
+    "SF": [
+        {
+            "s a a w": "saaw"
+        }
+    ],
+    "SK": [
+        {
+            "s u e c": "suec"
+        }
+    ],
+    "SL": [
+        {
+            "s e l _": "sel"
+        },
+        {
+            "s s e l": "ssel"
+        },
+        {
+            "_ s ö l": "söl"
+        },
+        {
+            "s ö l l": "söll"
+        }
+    ],
+    "SM": [
+        {
+            "s a m m": "samm"
+        }
+    ],
+    "SN": [
+        {
+            "s e h n": "sehn"
+        },
+        {
+            "’ s i n": "’sin"
+        },
+        {
+            "_ s y n": "syn"
+        },
+        {
+            "s y n _": "syn"
+        },
+        {
+            "s i n i": "sini"
+        }
+    ],
+    "SPK": [
+        {
+            "ß b i c": "ßbic"
+        }
+    ],
+    "SPR": [
+        {
+            "ß b u r": "ßbur"
+        }
+    ],
+    "SRY": [
+        {
+            "s o r j": "sorj"
+        }
+    ],
+    "SS": [
+        {
+            "s a a s": "saas"
+        },
+        {
+            "s s e s": "sses"
+        },
+        {
+            "s e s _": "ses"
+        }
+    ],
+    "ST": [
+        {
+            "s a a t": "saat"
+        }
+    ],
+    "SV": [
+        {
+            "s a a w": "saaw"
+        }
+    ],
+    "SVL": [
+        {
+            "s w i l": "swil"
+        }
+    ],
+    "T": [
+        {
+            "d a a _": "daa"
+        },
+        {
+            "d d e _": "dde"
+        },
+        {
+            "_ d a a": "daa"
+        },
+        {
+            "d d e r": "dder"
+        },
+        {
+            "d i e u": "dieu"
+        },
+        {
+            "_ d h ä": "dhä"
+        },
+        {
+            "d h u e": "dhue"
+        },
+        {
+            "_ d o o": "doo"
+        },
+        {
+            "_ d h u": "dhu"
+        },
+        {
+            "_ d h ü": "dhü"
+        },
+        {
+            "d h ü e": "dhüe"
+        },
+        {
+            "_ d ’ _": "d’"
+        },
+        {
+            "_ t h ä": "thä"
+        },
+        {
+            "t e n _": "ten"
+        },
+        {
+            "d i e r": "dier"
+        },
+        {
+            "_ d e _": "de"
+        },
+        {
+            "_ d ‘ _": "d‘"
+        },
+        {
+            "d ü e _": "düe"
+        },
+        {
+            "_ d e i": "dei"
+        }
+    ],
+    "TL": [
+        {
+            "d e l _": "del"
+        },
+        {
+            "d d e l": "ddel"
+        }
+    ],
+    "TLK": [
+        {
+            "t l i c": "tlic"
+        },
+        {
+            "d l i c": "dlic"
+        }
+    ],
+    "TN": [
+        {
+            "t e n _": "ten"
+        }
+    ],
+    "TNT": [
+        {
+            "t ä n d": "tänd"
+        }
+    ],
+    "TR": [
+        {
+            "d ' r _": "d'r"
+        },
+        {
+            "_ d ' r": "d'r"
+        },
+        {
+            "d ’ r _": "d’r"
+        },
+        {
+            "_ d ’ r": "d’r"
+        },
+        {
+            "d d e r": "dder"
+        },
+        {
+            "t r a a": "traa"
+        },
+        {
+            "t ' r _": "t'r"
+        },
+        {
+            "d u r i": "duri"
+        },
+        {
+            "d i e r": "dier"
+        }
+    ],
+    "TRN": [
+        {
+            "d r a n": "dran"
+        }
+    ],
+    "TRS": [
+        {
+            "t r o ß": "troß"
+        }
+    ],
+    "TS": [
+        {
+            "_ d a ß": "daß"
+        },
+        {
+            "d a ß _": "daß"
+        },
+        {
+            "_ z e _": "ze"
+        },
+        {
+            "_ d i s": "dis"
+        },
+        {
+            "z u e _": "zue"
+        },
+        {
+            "_ z u e": "zue"
+        },
+        {
+            "d i ß _": "diß"
+        },
+        {
+            "_ d i ß": "diß"
+        },
+        {
+            "d i s _": "dis"
+        },
+        {
+            "d i e s": "dies"
+        },
+        {
+            "d i s s": "diss"
+        },
+        {
+            "d a s s": "dass"
+        },
+        {
+            "d e ß _": "deß"
+        },
+        {
+            "_ d e ß": "deß"
+        },
+        {
+            "z e i j": "zeij"
+        }
+    ],
+    "TSL": [
+        {
+            "z e l l": "zell"
+        },
+        {
+            "_ z e l": "zel"
+        }
+    ],
+    "TSM": [
+        {
+            "z u e m": "zuem"
+        }
+    ],
+    "TST": [
+        {
+            "_ z y t": "zyt"
+        },
+        {
+            "z y t t": "zytt"
+        },
+        {
+            "t z t _": "tzt"
+        }
+    ],
+    "TSV": [
+        {
+            "_ z w a": "zwa"
+        }
+    ],
+    "TT": [
+        {
+            "t ä t _": "tät"
+        },
+        {
+            "_ t ä t": "tät"
+        },
+        {
+            "t h ä t": "thät"
+        },
+        {
+            "d h ä d": "dhäd"
+        },
+        {
+            "_ d ä t": "dät"
+        }
+    ],
+    "TVS": [
+        {
+            "t w a s": "twas"
+        }
+    ],
+    "V": [
+        {
+            "w w e _": "wwe"
+        },
+        {
+            "w w e r": "wwer"
+        },
+        {
+            "_ w a i": "wai"
+        },
+        {
+            "_ w ä j": "wäj"
+        },
+        {
+            "w ä j _": "wäj"
+        },
+        {
+            "w i c h": "wich"
+        },
+        {
+            "w a j _": "waj"
+        },
+        {
+            "_ v e e": "vee"
+        }
+    ],
+    "VL": [
+        {
+            "w y l _": "wyl"
+        },
+        {
+            "w ö l l": "wöll"
+        },
+        {
+            "_ w ö l": "wöl"
+        },
+        {
+            "w i e l": "wiel"
+        },
+        {
+            "_ w y l": "wyl"
+        }
+    ],
+    "VM": [
+        {
+            "v u m _": "vum"
+        },
+        {
+            "_ v u m": "vum"
+        }
+    ],
+    "VN": [
+        {
+            "v u n _": "vun"
+        },
+        {
+            "_ v u n": "vun"
+        },
+        {
+            "v o n _": "von"
+        },
+        {
+            "w a h n": "wahn"
+        },
+        {
+            "_ v o n": "von"
+        }
+    ],
+    "VR": [
+        {
+            "_ w ä r": "wär"
+        },
+        {
+            "_ w u r": "wur"
+        },
+        {
+            "w ä r e": "wäre"
+        },
+        {
+            "w ä r _": "wär"
+        },
+        {
+            "w w e r": "wwer"
+        },
+        {
+            "w u r r": "wurr"
+        },
+        {
+            "w o r r": "worr"
+        },
+        {
+            "_ v ' r": "v'r"
+        },
+        {
+            "w e r u": "weru"
+        },
+        {
+            "w ' r _": "w'r"
+        }
+    ],
+    "VRS": [
+        {
+            "v ' r s": "v'rs"
+        }
+    ],
+    "VRT": [
+        {
+            "w u r d": "wurd"
+        },
+        {
+            "w ä r d": "wärd"
+        }
+    ],
+    "VS": [
+        {
+            "w e i ß": "weiß"
+        },
+        {
+            "w i ß _": "wiß"
+        },
+        {
+            "w a i s": "wais"
+        }
+    ],
+    "VT": [
+        {
+            "w i d d": "widd"
+        },
+        {
+            "v a d d": "vadd"
+        },
+        {
+            "_ w i d": "wid"
+        },
+        {
+            "_ v a d": "vad"
+        },
+        {
+            "_ w y t": "wyt"
+        }
+    ],
+    "VX": [
+        {
+            "w i c h": "wich"
+        }
+    ],
+    "VY": [
+        {
+            "w ä j e": "wäje"
+        },
+        {
+            "w e j e": "weje"
+        }
+    ],
+    "X": [
+        {
+            "s c h u": "schu"
+        },
+        {
+            "c h e e": "chee"
+        },
+        {
+            "s c h ä": "schä"
+        },
+        {
+            "c h e h": "cheh"
+        }
+    ],
+    "XF": [
+        {
+            "c h ä f": "chäf"
+        }
+    ],
+    "XK": [
+        {
+            "c h k e": "chke"
+        }
+    ],
+    "XN": [
+        {
+            "c h u n": "chun"
+        }
+    ],
+    "XP": [
+        {
+            "s p o o": "spoo"
+        }
+    ],
+    "XT": [
+        {
+            "c h d e": "chde"
+        }
+    ],
+    "XTN": [
+        {
+            "s t ä n": "stän"
+        }
+    ],
+    "Y": [
+        {
+            "_ j e a": "jea"
+        },
+        {
+            "_ j a _": "ja"
+        },
+        {
+            "j e r _": "jer"
+        },
+        {
+            "h j e _": "hje"
+        }
+    ],
+    "YL": [
+        {
+            "j e l _": "jel"
+        }
+    ],
+    "YLK": [
+        {
+            "j l i c": "jlic"
+        }
+    ],
+    "YN": [
+        {
+            "j e a n": "jean"
+        }
+    ],
+    "YR": [
+        {
+            "j e r _": "jer"
+        },
+        {
+            "j o u r": "jour"
+        }
+    ],
+    "YS": [
+        {
+            "_ j e z": "jez"
+        },
+        {
+            "j e s s": "jess"
+        },
+        {
+            "_ j e s": "jes"
+        },
+        {
+            "j e z _": "jez"
+        }
+    ],
+    "YTS": [
+        {
+            "_ j e z": "jez"
+        },
+        {
+            "j e z _": "jez"
+        }
+    ]
+}
