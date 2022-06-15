@@ -70,6 +70,42 @@ primary.5gram.corpus = list.search(primary.5gram.corpus, .[grepl(regexpattern, .
 secondary.5gram.corpus = list.search(secondary.5gram.corpus, .[grepl(regexpattern, ., perl = TRUE)])
 
 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#    generating a frequency list of (linguistic) features =
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+freq.bas.5gram = make.frequency.list(primary.5gram.corpus,value=TRUE,relative = FALSE)
+freq.haut.5gram = make.frequency.list(secondary.5gram.corpus,value=TRUE,relative = FALSE)
+# write to file
+write.csv(freq.bas.5gram,"freq_bas_5gram.csv",row.names = FALSE)
+write.csv(freq.haut.5gram,"freq_haut_5gram.csv",row.names = FALSE)
+
+
+
+freq.bas.4gram = make.frequency.list(primary.4gram.corpus,value=TRUE,relative = FALSE)
+freq.haut.4gram = make.frequency.list(secondary.4gram.corpus,value=TRUE,relative = FALSE)
+# write to file
+write.csv(freq.bas.4gram,"freq_bas_4gram.csv",row.names = FALSE)
+write.csv(freq.haut.4gram,"freq_haut_4gram.csv",row.names = FALSE)
+
+
+
+freq.bas.3gram = make.frequency.list(primary.3gram.corpus,value=TRUE,relative = FALSE)
+freq.haut.3gram = make.frequency.list(secondary.3gram.corpus,value=TRUE,relative = FALSE)
+# write to file
+write.csv(freq.bas.3gram,"freq_bas_3gram.csv",row.names = FALSE)
+write.csv(freq.haut.3gram,"freq_haut_3gram.csv",row.names = FALSE)
+
+
+
+freq.bas.2gram = make.frequency.list(primary.2gram.corpus,value=TRUE,relative = FALSE)
+freq.haut.2gram = make.frequency.list(secondary.2gram.corpus,value=TRUE,relative = FALSE)
+# write to file
+write.csv(freq.bas.2gram,"freq_bas_2gram.csv",row.names = FALSE)
+write.csv(freq.haut.2gram,"freq_haut_2gram.csv",row.names = FALSE)
+
+
+
 
 # = = = = = = = = = = = = = =
 #    contrastive analysis   =
