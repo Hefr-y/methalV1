@@ -35,7 +35,7 @@ dict_freq_haut_45gram = dict_data_freq(freq_haut_45gram)
 
 
 # traiter chaque type de zeta séparément
-mesure = "Eder"
+mesure = "Craig"
 
 dict_4grams = list(filter(lambda x: x['mesure'] == mesure, dict_4grams))
 dict_5grams = list(filter(lambda x: x['mesure'] == mesure, dict_5grams))
@@ -153,11 +153,15 @@ for i in data:
 for i in lst_bas:
     for j in range(len(i)):
         i[j] = i[j].replace(' ','')
+        i[j] = i[j].replace("’","'")
+        i[j] = i[j].replace("‘","'")
 
 
 for i in lst_haut:
     for j in range(len(i)):
         i[j] = i[j].replace(' ','')
+        i[j] = i[j].replace("’","'")
+        i[j] = i[j].replace("‘","'")
 
 
 
@@ -167,10 +171,10 @@ df_haut = pd.DataFrame(lst_haut)
 df_bas.drop(index=0,inplace=True)
 df_haut.drop(index=0,inplace=True)
 
-df_bas = df_bas[:10]
-df_haut = df_haut[:10]
+# df_bas = df_bas[:10]
+# df_haut = df_haut[:10]
 
 print("variants de bas-rhin: \n", df_bas)
 print("variants de haut-rhin: \n", df_haut)
-df_bas.to_csv('eder_bas_variant_list.csv',index=False)
-df_haut.to_csv('eder_haut_variant_list.csv',index=False)
+df_bas.to_csv('variants_trie/craig/craig_bas_variant_list.csv',index=False)
+df_haut.to_csv('variants_trie/craig/craig_haut_variant_list.csv',index=False)
