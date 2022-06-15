@@ -88,14 +88,14 @@ def get_list_ngram(dict_ngrams_filter):
 data = get_list_ngram(dict_45grams_filter)
 
 
-def trier_par_freq(data):
+def trier_par_freq(data, frequence):
     for idx in range(len(data)):
 
         # print(data[idx]["VariantsBas"])
         # print("before",len(data[idx]["VariantsBas"]))
 
-        data[idx]["VariantsBas"] = list(filter(lambda x: dict_freq_bas_45gram[x] >= 30, data[idx]["VariantsBas"]))
-        data[idx]["VariantsHaut"] = list(filter(lambda x: dict_freq_haut_45gram[x] >= 30, data[idx]["VariantsHaut"]))
+        data[idx]["VariantsBas"] = list(filter(lambda x: dict_freq_bas_45gram[x] >= frequence, data[idx]["VariantsBas"]))
+        data[idx]["VariantsHaut"] = list(filter(lambda x: dict_freq_haut_45gram[x] >= frequence, data[idx]["VariantsHaut"]))
 
         # print("after",len(data[idx]["VariantsBas"]))
         # print(data[idx],"\n")
@@ -106,7 +106,7 @@ def trier_par_freq(data):
     #     print(i,"\n")
     return data_trie
 
-data = trier_par_freq(data)
+data = trier_par_freq(data, 30)
 
 
 # create list with variants of bas-rhin and haut-rhin
