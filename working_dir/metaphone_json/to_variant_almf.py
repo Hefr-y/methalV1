@@ -94,16 +94,19 @@ def trier_par_freq(data, frequence):
         # print(data[idx]["VariantsBas"])
         # print("before",len(data[idx]["VariantsBas"]))
 
-        data[idx]["VariantsBas"] = list(filter(lambda x: dict_freq_bas_45gram[x] >= frequence, data[idx]["VariantsBas"]))
-        data[idx]["VariantsHaut"] = list(filter(lambda x: dict_freq_haut_45gram[x] >= frequence, data[idx]["VariantsHaut"]))
+        data[idx]["VariantsBas"] = list(filter(lambda x: "_" not in x and dict_freq_bas_45gram[x] >= frequence, data[idx]["VariantsBas"]))
+        data[idx]["VariantsHaut"] = list(filter(lambda x: "_" not in x and dict_freq_haut_45gram[x] >= frequence, data[idx]["VariantsHaut"]))
+
 
         # print("after",len(data[idx]["VariantsBas"]))
         # print(data[idx],"\n")
 
     # delete empty list
     data_trie = list(filter(lambda x: len(x["VariantsHaut"]) != 0 and len(x["VariantsBas"]) != 0, data))
-    # for i in data:
-    #     print(i,"\n")
+
+    # for i in data_trie:
+        # print(i,"\n")
+
     return data_trie
 
 data = trier_par_freq(data, 30)
@@ -164,8 +167,8 @@ df_haut = pd.DataFrame(lst_haut)
 df_bas.drop(index=0,inplace=True)
 df_haut.drop(index=0,inplace=True)
 
-# df_bas = df_bas[:10]
-# df_haut = df_haut[:10]
+df_bas = df_bas[:10]
+df_haut = df_haut[:10]
 
 print("variants de bas-rhin: \n", df_bas)
 print("variants de haut-rhin: \n", df_haut)
