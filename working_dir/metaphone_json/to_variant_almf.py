@@ -77,8 +77,8 @@ dict_freq_bas_45gram = dict_data_freq(freq_bas_45gram)
 dict_freq_haut_45gram = dict_data_freq(freq_haut_45gram)
 
 
-# # traiter chaque type de zeta séparément
-# mesure = "Craig"
+# traiter chaque type de zeta séparément
+
 
 dict_4grams = list(filter(lambda x: x['mesure'] == mesure, dict_4grams))
 dict_5grams = list(filter(lambda x: x['mesure'] == mesure, dict_5grams))
